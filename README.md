@@ -1,5 +1,3 @@
-# FAXTV11941386627
-FAXTV11941386627
 #EXTM3U
  
 #EXTM3U url-tvg=" http://grade-de-HR CERTA.xml "
@@ -1246,8 +1244,7 @@ http://conexaoonline.top:80/movie/0818687333/key6g0KZ980/299903.mp4
 http://conexaoonline.top:80/movie/0818687333/key6g0KZ980/299907.mp4
 #EXTINF:-1 tvg-id="" tvg-name="At Midnight (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k6E1f3XvTq0sa02nUykPCwFKsBx.jpg" group-title="FAX 2023",At Midnight (2023)
 http://conexaoonline.top:80/movie/0818687333/key6g0KZ980/299908.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Nicarágua: Liberdade Exilada (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dQHYtI1LFZjv0zss12fm7XX7bfm.jpg" group-title="FAX 2023",Nicarágua: Liberdade Exilada (2023)
-http://conexaoonline.top:80/movie/0818687333/key6g0KZ980/299911.mp4
+
 
 
 #EXTM3U url-tvg="http://grade-de-FILMES | LANÇAMENTOS CINEMA.xml"
@@ -2775,119 +2772,9 @@ http://conexaoonline.top:80/movie/0818687333/key6g0KZ980/309438.mp4
 http://conexaoonline.top:80/movie/0818687333/key6g0KZ980/292822.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Pluft: O Fantasminha (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/45Yk7nu8aMsIVNVxXGJD5iDGc8s.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",Pluft: O Fantasminha (2022)
 http://conexaoonline.top:80/movie/0818687333/key6g0KZ980/292826.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Alguém Que Eu Costumava Conhecer (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m7LufNqf6zrz9u112fNcn19Zr8W.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",Alguém Que Eu Costumava Conhecer (2023)
-http://conexaoonline.top:80/movie/0818687333/key6g0KZ980/299909.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Observador (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/grEpsXD8Mwj5CGn5iWzDCNqZm2D.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",Observador (2022)
-http://conexaoonline.top:80/movie/0818687333/key6g0KZ980/299910.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Abestalhados 2 (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/etUWISr3ybZ1Uv0xPIExB8V77TL.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",Abestalhados 2 (2022)
-http://conexaoonline.top:80/movie/0818687333/key6g0KZ980/299912.mp4
 
 
 
-############## FILMES | TERROR ################# 
-
-#EXTINF:-1 tvg-id="" tvg-name="Ritual Maldito"https://i.ytimg.com/vi/5aKA1L3zaO4/maxresdefault.jpg" group-title="FILMES | TERROR",Ritual Maldito
-https://play.prod.gcp.vix.services/atakan-bloody-legend_pt/atakan-bloody-legend_pt_1-1/play_v1_hls_720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A Colheita"https://leiturafilmica.com.br/wp-content/uploads/2021/04/a-colheita-poster.jpg" group-title="FILMES | TERROR",A Colheita
-https://play.prod.gcp.vix.services/harvesting_pt/harvesting_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="O Desejo Final"https://i.ytimg.com/vi/PCY-EALEcvY/maxresdefault.jpg" group-title="FILMES | TERROR",O Desejo Final
-https://play.prod.gcp.vix.services/final-wish_pt/final-wish_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="As Bruxas de Amityville"https://i.ytimg.com/vi/60CVU-8DFXM/maxresdefault.jpg" group-title="FILMES | TERROR",As Bruxas de Amityville
-https://play.prod.gcp.vix.services/amityville-witches_pt/amityville-witches_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Um Assombramento no Texas "https://filmspot.com.pt/images/filmes/posters/big/632727.jpg" group-title="FILMES | TERROR",Um Assombramento no Texas 
-https://play.prod.gcp.vix.services/hauting-texas_pt/hauting-texas_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ring 0 O Chamado"https://br.web.img2.acsta.net/medias/nmedia/18/84/78/34/19758227.jpg" group-title="FILMES | TERROR",Ring 0 O Chamado
-https://play.prod.gcp.vix.services/ringu-3_pt/ringu-3_pt_1-1/hls_2500.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ring 2 - O Chamado"https://assetsgn.nowonline.com.br/assets/p31460_v_v8_ai.jpg" group-title="FILMES | TERROR",Ring 2 - O Chamado
-https://play.prod.gcp.vix.services/ringu-2_pt/ringu-2_pt_1-1/hls_2500.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A Face"https://d1aid1ai1ve9l.cloudfront.net/capasm/14926.jpg" group-title="FILMES | TERROR",A Face
-https://play.prod.gcp.vix.services/peiseu_pt/peiseu_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Natureza Selvagem (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/89vDPAvu2a02spYKrXxEv45IL6i.jpg" group-title="FILMES | TERROR",Natureza Selvagem (2019)
-http://conexaoonline.top:80/movie/0818687333/key6g0KZ980/285009.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Drácula 2: A Ascensão (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ngomDZt13JdOFjdJIisSCyLqwXh.jpg" group-title="FILMES | TERROR",Drácula 2: A Ascensão (2003)
-http://conexaoonline.top:80/movie/0818687333/key6g0KZ980/285055.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Drácula 3: O Legado Final (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cF9QtMWfvIDYjendlEyFvtLI1OI.jpg" group-title="FILMES | TERROR",Drácula 3: O Legado Final (2005)
-http://conexaoonline.top:80/movie/0818687333/key6g0KZ980/285056.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Vampiro da Noite (1958)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j734H7OwkrtTqG7hAh9TpqPp3Ve.jpg" group-title="FILMES | TERROR",O Vampiro da Noite (1958)
-http://conexaoonline.top:80/movie/0818687333/key6g0KZ980/285053.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Uma Foto Antes de Morrer (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tFV3QPG9NBjJChRWdBJWgtiTFLZ.jpg" group-title="FILMES | TERROR",Uma Foto Antes de Morrer (2018)
-http://conexaoonline.top:80/movie/0818687333/key6g0KZ980/269688.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sadako: Ressurreição (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oJOgaocqPVOzodTWiHsgSCaEIcJ.jpg" group-title="FILMES | TERROR",Sadako: Ressurreição (2020)
-http://conexaoonline.top:80/movie/0818687333/key6g0KZ980/292811.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Lobo Atrás da Porta (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3FuCmHut4sZurDnVi1HvrBCUFzZ.jpg" group-title="FILMES | TERROR",O Lobo Atrás da Porta (2013)
-http://conexaoonline.top:80/movie/0818687333/key6g0KZ980/292791.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tentáculos (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rRfcH0jg9X8czKJhXCnny45NSWt.jpg" group-title="FILMES | TERROR",Tentáculos (2021)
-http://conexaoonline.top:80/movie/0818687333/key6g0KZ980/292686.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sadako: Ressurreição (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oJOgaocqPVOzodTWiHsgSCaEIcJ.jpg" group-title="FILMES | TERROR",Sadako: Ressurreição (2020)
-http://conexaoonline.top:80/movie/0818687333/key6g0KZ980/292693.mp4
-#EXTINF:-1 tvg-id="" tvg-name="As Almas que Dançam no Escuro (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e4lIqS2Nr0L47ZhvOrefy5sICZR.jpg" group-title="FILMES | TERROR",As Almas que Dançam no Escuro (2021)
-http://conexaoonline.top:80/movie/0818687333/key6g0KZ980/292700.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Aracnídeo (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tNzkiouX9WMixVD7TcmvloxOzzE.jpg" group-title="FILMES | TERROR",Aracnídeo (2001)
-http://conexaoonline.top:80/movie/0818687333/key6g0KZ980/299894.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mutação 2 (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/520L4P8Oh3kNIHaSHUG9Bm0yqAn.jpg" group-title="FILMES | TERROR",Mutação 2 (2001)
-http://conexaoonline.top:80/movie/0818687333/key6g0KZ980/299895.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Night (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vHoeIopknC6fCUTJfagDGwr6qmf.jpg" group-title="FILMES | TERROR",The Night (2021)
-http://conexaoonline.top:80/movie/0818687333/key6g0KZ980/299897.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Gingerdead Man (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tZgIllFk4ncvhuzNipLkStjPjqk.jpg" group-title="FILMES | TERROR",The Gingerdead Man (2005)
-http://conexaoonline.top:80/movie/0818687333/key6g0KZ980/299898.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Grande Predador (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nIdSlDXzB4HKFTQBczdMfCpnPLh.jpg" group-title="FILMES | TERROR",O Grande Predador (2007)
-http://conexaoonline.top:80/movie/0818687333/key6g0KZ980/299900.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Noite da Bruxa (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cg6xjZOnGsYYqC7SH3o8oJV9Vr1.jpg" group-title="FILMES | TERROR",A Noite da Bruxa (2017)
-http://conexaoonline.top:80/movie/0818687333/key6g0KZ980/299509.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mangler - O Massacre (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3PGZbMTXafsnG1xIykCkyYWAPPm.jpg" group-title="FILMES | TERROR",Mangler - O Massacre (2005)
-http://conexaoonline.top:80/movie/0818687333/key6g0KZ980/299510.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Caçador de Ossos (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kceAJpK27zaE2IdXU1iIzUHZcIt.jpg" group-title="FILMES | TERROR",Caçador de Ossos (2003)
-http://conexaoonline.top:80/movie/0818687333/key6g0KZ980/299506.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Ataque das Formigas (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lneplhKpe0ImbZ6WZtbbtMdySxN.jpg" group-title="FILMES | TERROR",O Ataque das Formigas (2008)
-http://conexaoonline.top:80/movie/0818687333/key6g0KZ980/299505.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Luzes do Além (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7rp6W0Rj7BoopylLnIRsIScDu9W.jpg" group-title="FILMES | TERROR",Luzes do Além (2007)
-http://conexaoonline.top:80/movie/0818687333/key6g0KZ980/299503.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Inominável Retorno (1992)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/akHi9yE0XMBe9y7T2l4wyvAVuDz.jpg" group-title="FILMES | TERROR",O Inominável Retorno (1992)
-http://conexaoonline.top:80/movie/0818687333/key6g0KZ980/299501.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dead Space: A Queda (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pq6ZyGaIXDqtEm4V3ums2HtkAx0.jpg" group-title="FILMES | TERROR",Dead Space: A Queda (2008)
-http://conexaoonline.top:80/movie/0818687333/key6g0KZ980/299496.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Frankenfish: Criatura Assassina (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/al0FemCjZOcW5qgSPjaqnwgfR9M.jpg" group-title="FILMES | TERROR",Frankenfish: Criatura Assassina (2004)
-http://conexaoonline.top:80/movie/0818687333/key6g0KZ980/299494.mp4
-
-############## FILMES | FICÇÃO E FANTASIA ################# 
-
-#EXTINF:-1 tvg-id="" tvg-name="Curse of the Kraken (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xnPj7UhsYG6GVX4zTxW6tZTh7Ts.jpg" group-title="FILMES | FICÇÃO E FANTASIA",Curse of the Kraken (2020)
-http://conexaoonline.top:80/movie/0818687333/key6g0KZ980/285045.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Gundala: A Ascensão de um Herói (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6P8SA9p3AXw1C5byhJ85SBfTIgE.jpg" group-title="FILMES | FICÇÃO E FANTASIA",Gundala: A Ascensão de um Herói (2019)
-http://conexaoonline.top:80/movie/0818687333/key6g0KZ980/285001.mp4
-
-############## FILMES | DOCUMENTÁRIOS ################# 
-
-
-#EXTINF:-1 tvg-id="" tvg-name="Os Donos da Verdade (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m15HJh1UUiZH2WFPteU6oB8aBRM.jpg" group-title="FILMES | DOCUMENTÁRIOS",Os Donos da Verdade (2020)
-http://conexaoonline.top:80/movie/0818687333/key6g0KZ980/285044.mp4
-#EXTINF:-1 tvg-id="" tvg-name="7 Denúncias: As Consequências do Caso COVID-19 (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b3rPYzUYdBOccDvIxASFZBVaWUj.jpg" group-title="FILMES | DOCUMENTÁRIOS",7 Denúncias: As Consequências do Caso COVID-19 (2020)
-http://conexaoonline.top:80/movie/0818687333/key6g0KZ980/285048.mp4
-
-############## FILMES | COMÉDIA ################# 
-
-#EXTINF:-1 tvg-id="" tvg-name="Entre Rosas (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w9nP4DisTtdynffsRAzXdXyvsCo.jpg" group-title="FILMES | COMÉDIA",Entre Rosas (2020)
-http://conexaoonline.top:80/movie/0818687333/key6g0KZ980/284992.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Drácula: Morto, mas Feliz (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jDdOCWn2Ugn8fUeojarlyjzgw8M.jpg" group-title="FILMES | COMÉDIA",Drácula: Morto, mas Feliz (1995)
-http://conexaoonline.top:80/movie/0818687333/key6g0KZ980/285054.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Matou a Família e Foi ao Cinema (1991)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zW3BVM8Fh30BAcg5VXokaS8i0Nt.jpg" group-title="FILMES | COMÉDIA",Matou a Família e Foi ao Cinema (1991)
-http://conexaoonline.top:80/movie/0818687333/key6g0KZ980/285011.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Só Pode Ser Amor (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/39fv15KHNn4rfAyuzl15WZcuRs0.jpg" group-title="FILMES | COMÉDIA ",Só Pode Ser Amor (2021)
-http://conexaoonline.top:80/movie/0818687333/key6g0KZ980/293319.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Se Beber Não Pesque (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zHUN6iea0YoQPGAgDqAxI0coXja.jpg" group-title="FILMES | COMÉDIA",Se Beber Não Pesque (2020)
-http://conexaoonline.top:80/movie/0818687333/key6g0KZ980/293322.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Boss Nigger (1975)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4atyb5cZclgGgvkszWxIjkGhd2D.jpg" group-title="FILMES | COMÉDIA",Boss Nigger (1975)
-http://conexaoonline.top:80/movie/0818687333/key6g0KZ980/289474.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Como Assaltar Um Banco (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5qElteE5duGiTNeGZIRRjIHGY5p.jpg" group-title="FILMES | COMÉDIA",Como Assaltar Um Banco (2018)
-http://conexaoonline.top:80/movie/0818687333/key6g0KZ980/288640.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cíntia - A Criatura (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wdw5oSacotvxregDHYOEvVJMogG.jpg" group-title="FILMES | COMÉDIA",Cíntia - A Criatura (2018)
-http://conexaoonline.top:80/movie/0818687333/key6g0KZ980/289409.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Confusões Carnívoras (1989)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hNZHSsF7HPzldLv5SJnRD2BLpAF.jpg" group-title="FILMES | COMÉDIA",Confusões Carnívoras (1989)
-http://conexaoonline.top:80/movie/0818687333/key6g0KZ980/289473.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Fuga de Natal (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s6VKMCvkMpZHa5bKIVcbrs3q8AT.jpg" group-title="FILMES | COMÉDIA",Fuga de Natal (2018)
-http://conexaoonline.top:80/movie/0818687333/key6g0KZ980/292789.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Noivo da Minha Amiga (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bkz7ZoqJMFziqF8yQzkmfMRUEG.jpg" group-title="FILMES | COMÉDIA",O Noivo da Minha Amiga (2020)
-http://conexaoonline.top:80/movie/0818687333/key6g0KZ980/293312.mp4
 
 
 #EXTM3U url-tvg="http://grade-de-FAX FILMES | AÇÃO.xml"
@@ -3023,54 +2910,6 @@ https://play.prod.gcp.vix.services/jaspion_jp/jaspion_jp_1-1/play_v1_hls_1080p.m
 #EXTINF:1 tvg-logo="https://thumbs.gfycat.com/AlivePeriodicFrog-small.gif" group-title="FAX FILMES | AÇÃO",jiraiya
 https://play.prod.gcp.vix.services/jiraiya_jp/jiraiya_jp_1-1/play_v1_hls_1080p.m3u8
 
-
-############## FILMES | AÇÃO ################# 
-
-#EXTINF:-1 tvg-id="" tvg-name="Horas Decisivas (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8VTYz8SkU8DcBgKNprMjqPNZBgt.jpg" group-title="FILMES | AÇÃO",Horas Decisivas (2016)
-http://conexaoonline.top:80/movie/0818687333/key6g0KZ980/280819.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chamas da Vingança (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w9BZFaK8MEwKjLtyFUS5zoPIYo1.jpg" group-title="FILMES | AÇÃO",Chamas da Vingança (2004)
-http://conexaoonline.top:80/movie/0818687333/key6g0KZ980/292696.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Pink Jungle - Febre de Cobiça (1968)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wOBEEJjgsELVeDjQZ6Gkj0WeqTq.jpg" group-title="FILMES | AÇÃO",The Pink Jungle - Febre de Cobiça (1968)
-http://conexaoonline.top:80/movie/0818687333/key6g0KZ980/292697.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O VelociPastor (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/trSmNw63luh84MBy5XLH0UiN1BC.jpg" group-title="FILMES | AÇÃO",O VelociPastor (2018)
-http://conexaoonline.top:80/movie/0818687333/key6g0KZ980/287989.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Caçada (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mDt3GkephI5yrRsEgLfdo3MYxyj.jpg" group-title="FILMES | AÇÃO",A Caçada (2020)
-http://conexaoonline.top:80/movie/0818687333/key6g0KZ980/287547.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Valan: Vale dos Anjos (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gmUgxxki8WcaPANgi5uUeq6EmSU.jpg" group-title="FILMES | AÇÃO",Valan: Vale dos Anjos (2019)
-http://conexaoonline.top:80/movie/0818687333/key6g0KZ980/292810.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Assassino Perfeito 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/62DJXEJbCazNo1woUU6Jr7l7rgQ.jpg" group-title="FILMES | AÇÃO",O Assassino Perfeito 4K
-http://conexaoonline.top:80/movie/0818687333/key6g0KZ980/292820.mp4
-#EXTINF:-1 tvg-id="" tvg-name="102 Dálmatas (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yOiw3ssvgWkc9Kp1v4onuIIuE0a.jpg" group-title="FILMES | AÇÃO",102 Dálmatas (2000)
-http://conexaoonline.top:80/movie/0818687333/key6g0KZ980/299887.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ratos Assassinos (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/GLDun2sinKi8Lzg4LvPltCyZgf.jpg" group-title="FILMES | AÇÃO",Ratos Assassinos (2003)
-http://conexaoonline.top:80/movie/0818687333/key6g0KZ980/299889.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ratos em Nova Iorque (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7XXsqPK8m8brdsFcPlgmVIbqVCA.jpg" group-title="FILMES | AÇÃO",Ratos em Nova Iorque (2002)
-http://conexaoonline.top:80/movie/0818687333/key6g0KZ980/299891.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sem Risco Aparente (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lrQU72BcSfzJx71X1ko2K4LTtlE.jpg" group-title="FILMES | AÇÃO",Sem Risco Aparente (2002)
-http://conexaoonline.top:80/movie/0818687333/key6g0KZ980/299899.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Minha Vingança (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yCc3nAORSMTOpIk2qAKLQA7gAVg.jpg" group-title="FILMES | AÇÃO",Minha Vingança (2021)
-http://conexaoonline.top:80/movie/0818687333/key6g0KZ980/293305.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Echo Boomers: A Geração Esquecida (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p18bvjZiroyCggjARjK41eTaEmb.jpg" group-title="FILMES | AÇÃO",Echo Boomers: A Geração Esquecida (2020)
-http://conexaoonline.top:80/movie/0818687333/key6g0KZ980/293294.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Defensor: A História de Bert Trautmann (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rwO5eipY4mdfmE1HY3DDLqI1b3U.jpg" group-title="FILMES | AÇÃO",O Defensor: A História de Bert Trautmann (2019)
-http://conexaoonline.top:80/movie/0818687333/key6g0KZ980/293316.mp4
-
-############## FILMES | DRAMA ################# 
-
-#EXTINF:-1 tvg-id="" tvg-name="E Então Nós Dançamos (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aGKXB1VxKxs7FdrewRYndr1vvYH.jpg" group-title="FILMES | DRAMA",E Então Nós Dançamos (2019)
-http://conexaoonline.top:80/movie/0818687333/key6g0KZ980/285074.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Milagre da Vida (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/evqpNv8f9JgkYMoAQE97i5IjNZ3.jpg" group-title="FILMES | DRAMA",O Milagre da Vida (2019)
-http://conexaoonline.top:80/movie/0818687333/key6g0KZ980/285335.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Dama do Lotação (1978)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4aO7s9eJxb33UzxBJcrKo67NSte.jpg" group-title="FILMES | DRAMA",A Dama do Lotação (1978)
-http://conexaoonline.top:80/movie/0818687333/key6g0KZ980/285002.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Abaixo da Terra (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ijDuP4AC7wKqU4STc6OOkhCtPvE.jpg" group-title="FILMES | DRAMA",Abaixo da Terra (2019)
-http://conexaoonline.top:80/movie/0818687333/key6g0KZ980/284994.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bete Balanço (1984)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dzhS66IsRdZjB0EJQvMUKeTHp1f.jpg" group-title="FILMES | DRAMA",Bete Balanço (1984)
-http://conexaoonline.top:80/movie/0818687333/key6g0KZ980/285012.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Hotel Coppelia (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8cGhXsJ2JpMQwOAaPJNuB0tDHyZ.jpg" group-title="FILMES | DRAMA",Hotel Coppelia (2021)
-http://conexaoonline.top:80/movie/0818687333/key6g0KZ980/299906.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Feliz Natal (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sVK8h1glbXjeN0OJ7gQVXfcKJrw.jpg" group-title="FILMES | DRAMA",Feliz Natal (2005)
-http://conexaoonline.top:80/movie/0818687333/key6g0KZ980/299886.mp4
 
 #EXTM3U url-tvg="http://grade-de-FAX AUTISMO.xml"
 ############## FAX AUTISMO ################# 
@@ -3226,3 +3065,3197 @@ https://play.prod.gcp.vix.services/jiraiya_jp/jiraiya_jp_1-7/play_v1_hls_1080p.m
 https://play.prod.gcp.vix.services/jiraiya_jp/jiraiya_jp_1-8/play_v1_hls_1080p.m3u8
 #EXTINF:1 tvg-logo="http://1.bp.blogspot.com/-1P6CjCgSwls/Uryu5I98HcI/AAAAAAAACUY/f9A-naj7Q8c/s1600/Jiraya++6.gif" group-title="Filmes ORIENTE",Jiraiya:A Emboscada
 https://play.prod.gcp.vix.services/jiraiya_jp/jiraiya_jp_1-9/play_v1_hls_1080p.m3u8
+
+#EXTM3U url-tvg="http://grade-de-FAX O Gordo e o Magro.xml"
+############## FAX O Gordo e o Magro ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeFAX O Gordo e o Magro" group-title="
+
+#EXTINF:1 tvg-logo="https://i.pinimg.com/originals/55/5f/8b/555f8bf8cb9ea44a4068d5bf408282cf.gif"group-title="FAX O Gordo e o Magro",UM PAR DESIGUAL
+file:///C:/Users/AlexSilva/Downloads/videoplayback%20(10).mp4
+#EXTINF:1 tvg-logo="https://i.pinimg.com/originals/55/5f/8b/555f8bf8cb9ea44a4068d5bf408282cf.gif"group-title="FAX O Gordo e o Magro",A Chave do Problema
+file:///C:/Users/AlexSilva/Downloads/videoplayback%20(11).mp4
+#EXTINF:1 tvg-logo="https://i.makeagif.com/media/1-23-2018/sBfyqr.gif"group-title="FAX O Gordo e o Magro",Apresento-lhe Minha Esposa
+file:///C:/Users/AlexSilva/Downloads/videoplayback%20(12).mp4
+#EXTINF:1 tvg-logo="https://i.makeagif.com/media/10-09-2017/26C2ge.gif"group-title="FAX O Gordo e o Magro",Um Fantasma Muito vivo
+file:///C:/Users/AlexSilva/Downloads/videoplayback%20(13).mp4
+#EXTINF:1 tvg-logo="https://i.makeagif.com/media/10-04-2017/lLg70i.gif"group-title="FAX O Gordo e o Magro",O Grande Negocio
+file:///C:/Users/AlexSilva/Downloads/videoplayback%20(8).mp4
+#EXTINF:1 tvg-logo="https://i.pinimg.com/originals/9e/e0/92/9ee092c9547d50c790d9c7e25ecf7006.gif"group-title="FAX O Gordo e o Magro",O Herói do Navio (1927)
+file:///C:/Users/AlexSilva/Downloads/videoplayback%20(9).mp4
+#EXTINF:1 tvg-logo="https://image.tmdb.org/t/p/w342/gMk8iriC4lSPXG3HVmNqo13pHHJ.jpg"group-title="FAX O Gordo e o Magro",STAN E OLLIE - O GORDO E O MAGRO Stan & Ollie (2019)
+https://video.wixstatic.com/video/834009_ae3b81f49cce4075b5118c7b9539ae95/480p/mp4/file.mp4
+
+#EXTM3U url-tvg="http://grade-de-plutotv.xml"
+############## plutotv ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeplutotv" group-title="
+
+#EXTINF:1 tvg-logo="https://media.filmelier.com/noticias/br/2021/11/LOGO-TEXTO-POSITIVO-ADRENALINA-FREEZONE-HORIZONTAL-1-1920x1107.png" group-title="plutotv",Adrenalina Freezone | Pluto TV Brasil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61b790b985706b00072cb797/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:1 tvg-logo="https://image.winudf.com/v2/image1/Y29tLmFwcC5jaW5lbGl2cmVfc2NyZWVuXzBfMTU1MzgxMzc3N18wODM/screen-0.jpg?h=500&fakeurl=1&type=.jpg" group-title="plutotv",CINE LIVRE 
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f171d3442a0500007362f22/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:1 tvg-logo="https://gringoscds.com.br/produtos/15657/20150723152641_kkk.jpg" group-title="plutotv",CINE SUCESSOS
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f120e94a5714d00074576a1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=977e45a0-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=52960630-50b9-4a4d-b84b-6ed25b88774b&userId=&serverSideAds=true
+#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/tPz9QZdOFzA/maxresdefault.jpg" group-title="plutotv",FILMES AÇÃO 
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f120f41b7d403000783a6d6/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=977e93c0-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=860dbb8f-a84f-4853-b147-60207c674abf&userId=&serverSideAds=true
+#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdlLIs-CefAQXFU3OA6HkOwUaKbX53DCca7MNRCAcQ7JwATCiFPuURe6bEsmwXY1_tpHk&usqp=CAU" group-title="plutotv",CINE COMÉDIA
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12101f0b12f00007844c7c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=977ebad0-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=07b16472-d071-4d2e-ad98-ab98754a4428&userId=&serverSideAds=true
+#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIq0lD39ucQK0hCypA8xqtOEP3czRW5EGZnUXb3ons8XzjSQ4QtrLJAKhlBNDSEMs17aU&usqp=CAU" group-title="plutotv",GOSPEL MOVIES TELEVISION 
+https://stmv1.srvif.com/gospelf/gospelf/chunklist_w74712399.m3u8
+#EXTINF:1 tvg-logo="https://image.winudf.com/v2/image1/dHYuYXJhY2F0aV9zY3JlZW5fMV8xNTcyNTY0MTcxXzAwMA/screen-1.jpg?fakeurl=1&type=.webp" group-title="plutotv",ARACATI TV (Séries)
+https://livefocamundo.com:8081/tvaracati/tracks-v1a1/mono.m3u8
+#EXTINF:1 tvg-logo="https://4.bp.blogspot.com/-PUpTRVLD_OM/X5CqSpGnOYI/AAAAAAAADGY/PTYDAOhFIh42Xl-7_33GOPAY6Y5xfb1swCK4BGAYYCw/s1600/Logo6.png" group-title="plutotv",CINE DRAMA
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1210d14ae1f80007bafb1d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=977ebad1-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e2a43ad8-1b74-43eb-8a1c-af669d97a71e&userId=&serverSideAds=true
+#EXTINF:1 tvg-logo="http://br.paipee.com/wp-content/uploads/2021/08/2923622.jpg-r_1920_1080-f_jpg-q_x-xxyxx.jpg" group-title="plutotv",FILMES SUSPENSE 
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f171d3442a0500007362f22/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9781c810-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=34b16d8e-8dce-4632-ba87-dabc2e07988f&userId=&serverSideAds=true
+#EXTINF:1 tvg-logo="https://i0.wp.com/www.arrobanerd.com.br/wp-content/uploads/2021/02/tudo-sobre-a-paramount-plus-brasil.jpg?fit=800%2C450&ssl=1" group-title="plutotv", PARAMOUNT+ APRESENTA 
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60072798dcf437000755b4f3/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=adce3d82-7ced-11eb-b41a-4d1db88b305b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8c2058a6-297d-4b07-8c15-fcb77b9a2808&userId=&serverSideAds=true
+#EXTINF:1 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJXO3bPBdIMeO71ayecxyz5fOffynNh01WBk9pta_w=s900-c-k-c0x00ffffff-no-rj" group-title="plutotv",cine filmes
+https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/playlist.m3u8
+#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDTDxoR7QNbqDAq5KY6nY8GwZsttlpcb518LQsfVFEGPKO85cNfmUCvtS_xDsc2_6bkWE&usqp=CAU" group-title="plutotv",I Love Reality
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d7154fa8326b6ce4ec31f2e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a0fb8790-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f9c8bf79-8759-4e47-a808-d6b5e45f63a8&userId=&serverSideAds=true
+
+#EXTM3U url-tvg="http://grade-de-FilmesDrama.xml"
+############## FilmesDrama ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeFilmesDrama" group-title="
+
+#EXTINF:1 tvg-logo="https://br.web.img2.acsta.net/pictures/19/03/18/22/15/0090467.jpg" group-title="FilmesDrama",Hora de Recomeçar
+https://play.prod.gcp.vix.services/urban-country_pt/urban-country_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://cinemacao.com/wp-content/uploads/2016/05/Copenhagen-03.jpg" group-title="FilmesDrama",Copenhagen
+https://play.prod.gcp.vix.services/copenhagen-2014_pt/copenhagen-2014_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://resizing.flixster.com/3M4u54Mns6pLlnu69FhgECk7iLM=/300x300/v2/https://flxt.tmsimg.com/assets/p11593878_p_v8_ac.jpg" group-title="FilmesDrama",Jackie & Ryan: Amor Sem Medidas
+https://play.prod.gcp.vix.services/jackie-ryan_pt/jackie-ryan_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://1.bp.blogspot.com/-_KtoJLXolXg/YM6AUFjPcWI/AAAAAAAAMzI/CTFNoETEDuAMUvjacwU6Mrd67iI4B2GFQCLcBGAsYHQ/s1080/tra%25CC%2581fico%2Bde%2Bmulheres.png" group-title="FilmesDrama",Tráfico de Mulheres
+https://play.prod.gcp.vix.services/trafficked_pt/trafficked_pt_1-1/hls_2500.m3u8
+#EXTINF:1 tvg-logo="https://br.web.img2.acsta.net/pictures/18/03/02/12/53/2264073.jpg" group-title="FilmesDrama",Submersão
+https://play.prod.gcp.vix.services/submergence-sofa_pt/submergence-sofa_pt_1-1/play_v2_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://image.tmdb.org/t/p/w185/gII53HAH7UA1yx189vROMzWA5ib.jpg"group-title="FilmesDrama", AMINA
+https://seig.tv/15/1/af5d1b54c7bdadbada9733110a7a453e/720p/720p.m3u8
+#EXTINF:1 tvg-logo="https://image.tmdb.org/t/p/w185/mEy7LO4jTPSzzyDyCP5GtPkkzow.jpg"group-title="FilmesDrama",Uma História Real
+https://seig.tv/15/1/ce4b57ca9f3a4efaef17f83f1a083260/720p/720p.m3u8
+#EXTINF:1 tvg-logo="https://image.tmdb.org/t/p/w185/xgkPqBYJdzvvQWSZKou6DXbP7cy.jpg"group-title="FilmesDrama",Preto ou Branco 
+https://seig.tv/15/1/d9c75d5b02bc1760d3b8aa4ce9f61ab5/720p/720p.m3u8
+#EXTINF:1 tvg-logo="https://image.tmdb.org/t/p/w185/1TU9bV5U33me9k3wao17qqZsFmg.jpg"group-title="FilmesDrama",Heróis de Fogo 
+https://seig.tv/14/1/82bf977885df510adf860729447dbadc/720p/720p.m3u8
+#EXTINF:1 tvg-logo="https://image.tmdb.org/t/p/w185/1ByR9H5av86GaRkZqnbzP3kRVJY.jpg"group-title="FilmesDrama",Difícil de Engolir 
+https://seig.tv/11/1/870f3a7335d79e718bd1d09490fe5fc0/720p/720p.m3u8
+#EXTINF:1 tvg-logo="https://image.tmdb.org/t/p/w185/c49uzZOOa69ZrcHR4O4k7mqwB6J.jpg"group-title="FilmesDrama",Um Lugar Secreto
+https://seig.tv/14/1/3e00b8e210b046c2f4f3eb267e2bcf55/720p/720p.m3u8
+#EXTINF:1 tvg-logo="https://image.tmdb.org/t/p/w185/lNB0paBNvexdpSOOIQEt6ilEcm9.jpg"group-title="FilmesDrama",Desafio do Destino
+https://seig.tv/14/1/a0595ab2196ca631ee15e34dfc3f7313/720p/720p.m3u8
+#EXTINF:1 tvg-logo="hthttps://image.tmdb.org/t/p/w185/dpl1DCWBrm4OB9y6wW8N1gR8w44.jpg"group-title="FilmesDrama",Um Homem Bom
+https://seig.tv/11/1/f10e114ffddacd2768c839b6d67c3608/720p/720p.m3u8
+#EXTINF:1 tvg-logo="https://image.tmdb.org/t/p/w185/cxNjDInLNoQHWFeEFJLqUMNYLAg.jpg"group-title="FilmesDrama",Uma Jornada Para Toda a Vida
+https://seig.tv/12/1/21c4352a533ded226428b8b0363a8717/720p/720p.m3u8
+#EXTINF:1 tvg-logo="https://image.tmdb.org/t/p/w185/ApS1M1YQXbz6JfDlLE2W3vpvpiP.jpg"group-title="FilmesDrama",O Bom Pastor
+https://seig.tv/14/1/0b2d331d8970f45c331a0f67bb47137a/720p/720p.m3u8
+#EXTINF:1 tvg-logo="https://image.tmdb.org/t/p/w185/qx79wDfzlQ1ssbxvppClm6LSp0j.jpg"group-title="FilmesDrama",A Escolha
+https://seig.tv/16/1/f3718837b2b28090d068ad4e7d0ebc8c/720p/720p.m3u8
+#EXTINF:1 tvg-logo="https://image.tmdb.org/t/p/w185/2ArHhi0AzjSFYrp1m0xZVjdhws5.jpg"group-title="FilmesDrama",A Vila dos Suicídios
+https://seig.tv/15/1/7d2203fa7bd3c24e46d2a652ba4f4ef5/720p/720p.m3u8
+#EXTINF:1 tvg-logo="https://image.tmdb.org/t/p/w185/88C3eml0THgk3gOV23XDotOppJv.jpg"group-title="FilmesDrama",438 Dias 
+https://seig.tv/15/1/628c16c30c5a3bfb58d8b8297465caa5/720p/720p.m3u8
+#EXTINF:1 tvg-logo="https://image.tmdb.org/t/p/w185/plp9AHFlFghfmMESJyPmsJnhQao.jpg"group-title="FilmesDrama",Propriedade do Estado 2
+https://seig.tv/16/1/c263fb066b9ccf666a5e4926ffd454ea/720p/720p.m3u8
+#EXTINF:1 tvg-logo="https://br.web.img3.acsta.net/medias/nmedia/18/90/76/54/20112654.png" group-title="FilmesDrama",Não Estou Lá
+https://play.prod.gcp.vix.services/im-not-there_pt/im-not-there_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/ojVgRGyQ4uw/maxresdefault.jpg" group-title="FilmesDrama",O Assassino do Alfabeto
+https://play.prod.gcp.vix.services/alphabet-killer_pt/alphabet-killer_pt_1-1/play_v1_hls_720p.m3u8
+#EXTINF:1 tvg-logo="https://images.justwatch.com/poster/238688217/s718/boys-of-abu-ghraib.%7Bformat%7D" group-title="FilmesDrama",Vigilantes da Guerra
+https://play.prod.gcp.vix.services/boys-ghraib_pt/boys-ghraib_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/jkz1FcoShCc/maxresdefault.jpg" group-title="FilmesDrama",Cúmplices de Um Segredo
+https://play.prod.gcp.vix.services/perfect-sister_pt/perfect-sister_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/idddBuMwZyY/maxresdefault.jpg" group-title="FilmesDrama",Sobibor
+https://play.prod.gcp.vix.services/sobibor_pt/sobibor_pt_1-1/hls_2500.m3u8
+#EXTINF:1 tvg-logo="https://br.web.img3.acsta.net/pictures/15/09/04/20/59/336333.jpg" group-title="FilmesDrama",Inferno na Ilha
+https://play.prod.gcp.vix.services/kongen-bastoy_pt/kongen-bastoy_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/9/9d/Estrada47.jpg/250px-Estrada47.jpg" group-title="FilmesDrama",A Estrada 47
+https://play.prod.gcp.vix.services/estrada-47_pt/estrada-47_pt_1-1/hls_2500.m3u8
+#EXTINF:1 tvg-logo="https://br.web.img3.acsta.net/pictures/16/05/12/20/02/178694.jpg" group-title="FilmesDrama",Desafios de uma Vida
+https://play.prod.gcp.vix.services/red-dirt-rising_pt/red-dirt-rising_pt_1-1/hls_2500.m3u8
+#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/p4aQLDKVC2Q/maxresdefault.jpg" group-title="FilmesDrama",O Vigilante Mascarado
+https://play.prod.gcp.vix.services/masked-saint_pt/masked-saint_pt_1-1/hls_2500.m3u8
+
+############## FILMES | DRAMA ################# 
+
+#EXTINF:-1 tvg-id="" tvg-name="Parabéns a Você (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w462t2q6FYLEJdDH8l4YemzHvZC.jpg" group-title="FILMES | DRAMA",Parabéns a Você (2019)
+http://conexaoonline.top:80/movie/0818687333/key6g0KZ980/293326.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Encurralado (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1dt5z6FUcyjVMC6rOIF5rxeMOkY.jpg" group-title="FILMES | DRAMA",Encurralado (2019)
+http://conexaoonline.top:80/movie/0818687333/key6g0KZ980/291171.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Corações Feridos (1964)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vcEB5fFT9fqhuuRx7Q5qxyLTgBh.jpg" group-title="FILMES | DRAMA",Corações Feridos (1964)
+http://conexaoonline.top:80/movie/0818687333/key6g0KZ980/292694.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Homem Que Não Vendeu Sua Alma (1966)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nlS8n2miCLdG0LSrxdZ9vyE68ea.jpg" group-title="FILMES | DRAMA",O Homem Que Não Vendeu Sua Alma (1966)
+http://conexaoonline.top:80/movie/0818687333/key6g0KZ980/292698.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mundo Maravilhoso do Circo (1960)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pxlRONzsSYrMwULjMvfuaP1VtfO.jpg" group-title="FILMES | DRAMA",O Mundo Maravilhoso do Circo (1960)
+http://conexaoonline.top:80/movie/0818687333/key6g0KZ980/292699.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Filhos de Ninguém (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hd17ntaXA15nzMmrWH0gWtX6jho.jpg" group-title="FILMES | DRAMA",Filhos de Ninguém (2018)
+http://conexaoonline.top:80/movie/0818687333/key6g0KZ980/292824.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Segredo (2008)" tvg-logo="" group-title="FILMES | DRAMA",O Segredo (2008)
+http://conexaoonline.top:80/movie/0818687333/key6g0KZ980/292793.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Segredo de Brokeback Mountain (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qZ7fvWbPABjdU8JciIS9f9jCRCb.jpg" group-title="FILMES | DRAMA",O Segredo de Brokeback Mountain (2005)
+http://conexaoonline.top:80/movie/0818687333/key6g0KZ980/292794.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Intocáveis (1987)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l0Xqmj5zW5QIw3437VkP1bFHMfr.jpg" group-title="FILMES | DRAMA",Os Intocáveis (1987)
+http://conexaoonline.top:80/movie/0818687333/key6g0KZ980/288159.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Garoto Perdido (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mzPJAc47EfwluIdBSUIhpKsiFtN.jpg" group-title="FILMES | DRAMA",O Garoto Perdido (2020)
+http://conexaoonline.top:80/movie/0818687333/key6g0KZ980/289472.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Querido Menino (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ut5sNIXsNb9tHnVJ090V13im4A8.jpg" group-title="FILMES | DRAMA",Querido Menino (2018)
+http://conexaoonline.top:80/movie/0818687333/key6g0KZ980/292781.mp4
+
+#EXTM3U url-tvg="http://grade-de-GOSPEL.xml"
+############## GOSPEL ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeGOSPEL" group-title="
+
+#EXTINF:1 tvg-logo="http://www.topmixtv.com.br/wp-content/uploads/2023/01/topmixtvlogocapa2.png" group-title="GOSPEL",topmixtv
+https://59f1cbe63db89.streamlock.net:1443/topmixtv/_definst_/topmixtv/chunklist_w32285497.m3u8
+#EXTINF:1 tvg-logo="https://lh3.googleusercontent.com/YGQBOz8S_C_yIlVhjPXVKDOdkvaV-Dox0HRmICJ31m2ZK5DxS3KiJpKBv0uK0AAR-w" group-title="GOSPEL",Clips Gospel 
+https://stmv1.voxtvhd.com.br/7070/7070/chunklist_w2035493168.m3u8
+#EXTINF:1 tvg-logo="https://media.licdn.com/dms/image/C4D03AQFHqaBar_bEig/profile-displayphoto-shrink_800_800/0/1651148714012?e=2147483647&v=beta&t=I_rn_WII1lWNRIMXryVJCBhjeUGw1gCdF_jUUGl_b2o" group-title="GOSPEL",Rede Clouding
+https://stmv1.paineltv.net/redeclonetv/redeclonetv/chunklist_w334609289.m3u8
+#EXTINF:1 tvg-logo="https://aquitemfofoca.com.br/wp-content/uploads/2021/12/rs-21-logo.png" group-title="GOSPEL",Rede Século 21 
+https://cdn.jmvstream.com/w/LVW-10024/ngrp:LVW10024_H3QLdAY6kx_all/chunklist_b1428000.m3u8
+#EXTINF:1 tvg-logo="https://static.wikia.nocookie.net/tvpediabrasil/images/f/f5/Tvnovotempo.jpg/revision/latest?cb=20160619201050&path-prefix=pt-br" group-title="GOSPEL",Novo Tempo TV online
+https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/chunklist_b3628000_slpor.m3u8
+#EXTINF:1 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJVja7Fr6abZfJP6E4TuOj6J0Ce6uRRhaZ9P6dU8=s900-c-k-c0x00ffffff-no-rj" group-title="GOSPEL",RBATV online
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w742622427.m3u8
+#EXTINF:1 tvg-logo="https://static.wikia.nocookie.net/tvpediabrasil/images/d/d5/Paieterno.png/revision/latest?cb=20190527225949&path-prefix=pt-br" group-title="GOSPEL",TV Pai Eterno
+https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/playlist.m3u8
+#EXTINF:1 tvg-logo="http://redemaisfamilia.com.br/wp-content/uploads/2022/08/Logo-rede-mais-familia.png" group-title="GOSPEL",Rede Mais Família online
+https://video01.logicahost.com.br/redefamiliaa/redefamiliaa/chunklist_w1391629663.m3u8
+#EXTINF:1 tvg-logo="http://4.bp.blogspot.com/-e-1ZcodlxlE/Uo1L2H8Ut1I/AAAAAAAAAjU/2URMa539cdM/s320/Rede_Boas_Novas.png" group-title="GOSPEL",Boas Novas online 
+https://cdn.jmvstream.com/w/AVJ-12960/playlist/chunklist.m3u8
+#EXTINF:-1 tvg-id="IMPD TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJU-qtFgQMCW51bwPTnOBeaXb-ONGvLkjyquzfOk=s900-c-k-c0x00ffffff-no-rj" group-title="GOSPEL",Igreja Cristo Vive
+https://5a57bda70564a.streamlock.net/tvcristo/tvcristo.sdp/chunklist_w1869343695.m3u8
+#EXTINF:-1 tvg-id="IMPD TV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/66/Logotipo_da_TV_Universal.png" group-title="GOSPEL",Igreja Universal
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/5e0dca9c62c344c49c98d1bd67409be5/chunklist_b4628000.m3u8?p=79&amp;s=1649790438&amp;e=1649790558&amp;h=1f557f1aea4a88497cc58ba6ad98eecf
+#EXTINF:-1 tvg-id="IMPD TV" tvg-logo="https://i.ytimg.com/vi/esWqTQaxqu4/hqdefault.jpg" group-title="GOSPEL",IMPD TV
+https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/chunklist_w1658619409_b3203072.m3u8
+#EXTINF:-1 tvg-id="Mega TV" tvg-logo="https://image.roku.com/developer_channels/prod/d56cb517cafb707231f9156ede90e4a7fb3c6c96904eae9ed00c101eaf58ad78.png" group-title="GOSPEL",Mega TV
+https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/chunklist_282af8f1-f840-422f-a668-aab7924e45ff.m3u8
+#EXTINF:-1 tvg-id="TVUniversal.br" tvg-logo="https://i.imgur.com/TIsk5zN.png" group-title="GOSPEL",TV Universal (480p)
+https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="TVTerceiroAnjo.br" tvg-logo="https://i.imgur.com/PExKWNv.png" group-title="GOSPEL",TV Terceiro Anjo (360p)
+https://streamer1.streamhost.org/salive/GMI3anjoh/playlist.m3u8
+#EXTINF:1 tvg-logo="http://25.media.tumblr.com/ae69ba191eb6abf0fc0da1a28c97737b/tumblr_mi7nyteJA91s35jdto1_500.gif" group-title="GOSPEL",gospel 1
+https://stmv1.voxtvhd.com.br/7070/7070/chunklist_w2035493168.m3u8
+#EXTINF:1 tvg-logo="https://pa1.narvii.com/6712/f44129791177a9fcb78478f62e43869510c4b171_hq.gif" group-title="GOSPEL",gospel 2
+https://59f1cbe63db89.streamlock.net:1443/topmixtv/_definst_/topmixtv/chunklist_w32285497.m3u8
+#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz8wh62w4pcagDf-r75-IeH5bwoCS8tqYodzvh6EQnL-aUIvLmdwZPAFhmpG4L_t-bUf4&usqp=CAU" group-title="GOSPEL",gospelcartoon
+https://stmv1.srvif.com/gospelcartoon/gospelcartoon/chunklist_w191837823.m3u8
+#EXTINF:1 tvg-logo="http://3.bp.blogspot.com/_fVDkXpnqFSU/TK8mONg1H4I/AAAAAAAAABc/4lvgyNRoDQE/s320/rede_gospel_tv.gif" group-title="GOSPEL",Rede Gospel
+https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
+#EXTINF:1 tvg-logo="https://thumbs.gfycat.com/AbleSmoothFrenchbulldog-size_restricted.gif" group-title="GOSPEL",Gospel Cartoon
+https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
+#EXTINF:1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFnTD4TQTqM2AymLbeY47aBk7PilJkuYhr1ZMPXURGQq44y4gefeeawaSbkAJ2yUKvi0dr487zOKq0NVx-nVyOKXo9mJPVW9ooaxEHEQi4kvtCruNt6a1CuQeuYmmn8FFCKkztlLQQA3Rn-vgPlRbJ323jLnsSy9dUNBhncrm6e1rTRWk3veYlZOv2/w1200-h630-p-k-no-nu/GOSPEL%20MOVIES%20TELEVISION.webp" group-title="GOSPEL",Gospel Movie TV
+https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
+#EXTINF:1 tvg-logo=https://yt3.googleusercontent.com/ytc/AL5GRJUwacyp-bccklMQ18t0jUQcgiL2AUXx95A7jxtR=s900-c-k-c0x00ffffff-no-rj" group-title="GOSPEL",Gospel Music
+https://stmv1.srvif.com/gmusic/gmusic/playlist.m3u8
+#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/AI2AShScOx8/maxresdefault.jpg" group-title="GOSPEL",Sansão e Dalila
+https://play.prod.gcp.vix.services/samson-delilah_pt/samson-delilah_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://br.web.img3.acsta.net/pictures/14/04/16/19/05/426206.jpg" group-title="GOSPEL",Jesus de Nazaré
+https://play.prod.gcp.vix.services/jesus-nazareth_pt/jesus-nazareth_pt_1-1/hls_2500.m3u8
+#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/CIKJPxJnmTQ/maxresdefault.jpg" group-title="GOSPEL",A Fé que Nos Une
+https://play.prod.gcp.vix.services/faith-fathers_pt/faith-fathers_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://ottvsimg.ottvs.com.br/cov/fre.200520/0200520_335.jpg" group-title="GOSPEL",Provas de Fé - João Paulo II
+https://play.prod.gcp.vix.services/faith-joao-paulo_pt/faith-joao-paulo_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://http2.mlstatic.com/D_NQ_NP_609008-MLB44718417483_012021-O.jpg" group-title="GOSPEL",Santa Barbara
+https://play.prod.gcp.vix.services/santa-barbara_pt/santa-barbara_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://www.verdadeluz.com.br/wp-content/uploads/2014/11/SANTO-AGOSTINHO-Filme-Completo.jpg" group-title="GOSPEL",Provas de Fé - Santo Agostinho
+https://play.prod.gcp.vix.services/faith-santo-agostinho_pt/faith-santo-agostinho_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/q6MjClyWf9Y/maxresdefault.jpg" group-title="GOSPEL",Provas de Fé - Santa Rita de Cássia
+https://play.prod.gcp.vix.services/faith-santa-rita_pt/faith-santa-rita_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://i0.wp.com/escolabiblicaonline.net/wp-content/uploads/2020/10/sddefault-22.jpg?resize=560%2C416" group-title="GOSPEL",Quando Tudo Parece Perdido
+https://play.prod.gcp.vix.services/sabina-k_pt/sabina-k_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/VOBWKSPbXRM/maxresdefault.jpg" group-title="GOSPEL",Meu Filho Amado
+https://play.prod.gcp.vix.services/my-son_pt/my-son_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://cdn.fstatic.com/media/movies/photos/2016/03/a-voz-de-deus_t52230.jpg" group-title="GOSPEL",A Voz de Deus
+https://play.prod.gcp.vix.services/saint-janet_pt/saint-janet_pt_1-1/play_v2_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://images.a12.com/source/files/c/254229/Filme_Tome-834200_600-315-0-0.jpg" group-title="GOSPEL",Tomé
+https://play.prod.gcp.vix.services/gli-amici-tommaso_pt/gli-amici-tommaso_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://image.winudf.com/v2/image1/aW5mby50dmdvc3BlbGNhcnRvb24xLnRlY2hfc2NyZWVuXzJfMTU1NzMyMzg2OV8wODM/screen-2.jpg?fakeurl=1&type=.webp" group-title="GOSPEL",Gospel Cartoon | BR
+https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
+#EXTINF:1 tvg-logo="https://play-lh.googleusercontent.com/4RmKow1kDvrQw4hdRUwIbUk2klbMjDzh15eg8oIdNsRfcd3T-5guktjvau7D2aRkmw=w600-h300-pc0xffffff-pd" group-title="GOSPEL", ISTV | BR
+https://cdn.jmvstream.com/w/LVW-9883/LVW9883_lFcfKysrHF/playlist.m3u8
+#EXTINF:1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/a1e4076264abe6b6ccde87a587966abe.webp" group-title="GOSPEL",Retro Cartoon | BR
+https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8
+#EXTINF:1 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJVWzsk7GeGdcM3jGcExs0JmilcaXD13WON-bHAx=s900-c-k-c0x00ffffff-no-rj" group-title="GOSPEL",Top TV | BR
+https://cast.cdnseguro.com:19360/8092/8092.m3u8
+#EXTINF:1 tvg-logo="https://supertvaovivo.tv/wp-content/uploads/2021/06/GOSPEL.png" group-title="GOSPEL",Gospel Movies Television | BR
+https://stmv1.srvif.com/gospelf/gospelf/playlist-480p.m3u8
+#EXTINF:1 tvg-logo="https://play-lh.googleusercontent.com/dWdzB7elXWDxN9AoOdmGY07F4JDtHcmEPLXViiiTJnOfctdwO3CUfkmE6oR1dkq2TQ" group-title="GOSPEL",Nuevo Tiempo | BR
+https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://paraibaonline.com.br/wp-content/uploads/2020/09/tv-aparecida-ascom.jpg" group-title="GOSPEL",TV Aparecida | BR
+https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
+#EXTINF:1 tvg-logo="https://yt3.googleusercontent.com/HJLTSXnvUxsPsx3-v9ClYO2hCAzoV4C-fzpmlLOQgrEyD5Zn_uJeYzwOYe2KFBPJGGnPRENjXwg=s900-c-k-c0x00ffffff-no-rj" group-title="GOSPEL",TV Evangelizar | BR
+https://5f593df7851db.streamlock.net/evangelizar/tv/playlist.m3u8
+#EXTINF:1 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJW7UnXzKw6YWOe50Q54XxaihLVXYLYvrsz5-Hs0IQ=s900-c-k-c0x00ffffff-no-rj" group-title="GOSPEL",TV Rede Gospel | BR
+https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/chunklist.m3u8
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/66/Logotipo_da_TV_Universal.png" group-title="GOSPEL",TV Universal | BR
+https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
+
+#EXTM3U url-tvg=" http://grade-de-FÈ Ispirituais.xml "
+############## FÈ Ispirituais ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeFÈ Ispirituais" group-title="
+
+#EXTINF:1 tvg-logo="http://pa1.narvii.com/6961/6989150763c2577cf0749a02be6a326a920b6c56r1-245-160_00.gif" group-title="FÈ Ispirituais",espera de um milagre
+https://www1446.ff-03.com/token=COI-HzLWguenXm5ozFLY-A/1679540818/168.227.0.0/79/d/8a/11318a316a280db9080e9372bbcce8ad-480p.mp4
+#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/CIKJPxJnmTQ/maxresdefault.jpg" group-title="FÈ Ispirituais",A Fé que Nos Une
+https://play.prod.gcp.vix.services/faith-fathers_pt/faith-fathers_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/790178d11b377c656879aeb99188455993741c43f479baa3038fee694dc07ae2._RI_V_TTW_.png" group-title="FÈ Ispirituais",Provas de Fé - Santo Agostinho
+https://play.prod.gcp.vix.services/faith-santo-agostinho_pt/faith-santo-agostinho_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://i0.wp.com/escolabiblicaonline.net/wp-content/uploads/2020/10/sddefault-22.jpg?resize=560%2C416" group-title="FÈ Ispirituais",Quando Tudo Parece Perdido
+https://play.prod.gcp.vix.services/sabina-k_pt/sabina-k_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://ottvsimg.ottvs.com.br/ban/grf.150607/looke_4001.jpg" group-title="FÈ Ispirituais",Meu Filho Amado
+https://play.prod.gcp.vix.services/my-son_pt/my-son_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/FuhwyR2sUZw/maxresdefault.jpg" group-title="FÈ Ispirituais",À Procura da Liberdade
+https://play.prod.gcp.vix.services/freedom_pt/freedom_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/kyR3edAvlEM/maxresdefault.jpg" group-title="FÈ Ispirituais",Sem Perdão
+https://play.prod.gcp.vix.services/old-machine_pt/old-machine_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://portalwp.s3.amazonaws.com/wp-content/uploads/2020/08/07101625/9-filme-abre-jejum-de-daniel.jpg" group-title="FÈ Ispirituais",Restaurados
+https://play.prod.gcp.vix.services/beautifully-broken_pt/beautifully-broken_pt_1-1/play_v1_hls_720p.m3u8
+#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/flPm14tMhoc/maxresdefault.jpg" group-title="FÈ Ispirituais",Em Busca de um Milagre
+https://play.prod.gcp.vix.services/love-jessee_pt/love-jessee_pt_1-1/play_v1_hls_1080p.m3u8
+
+#EXTM3U url-tvg="http://grade-de-Esta Na BIBLIA.xml"
+############## Esta Na BIBLIA ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeEsta Na BIBLIA" group-title="
+
+#EXTINF:1 tvg-logo="https://www.catolicosnabiblia.com.br/imgpost/19-03-17_16-03-52-a-historia-fascinante-e-incrivel-de-cristo-jesus.jpg" group-title="Esta Na BIBLIA",Jesus, o Cristo - Nascimento e infância - Dublado
+https://proxy-048.dc3.dailymotion.com/sec(wb8UD9xdr7EUNWDnSkNP3Y4ZqxK5178iavvLXIvahFuL9OTfJqvSrWoqBKLvKXg8-Ww6OP0yv6UMyIs4BVghJH8a9lHoNeBcbVdSRaYT9D8)/video/851/628/484826158_mp4_h264_aac_hq.m3u8#cell=core
+#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/0_mrNLcmDB8/sddefault.jpg" group-title="Esta Na BIBLIA",O Evangelho Segundo João (Filme) Dublado
+https://proxy-19.nyc.dailymotion.com/sec(dE83Zyoa3SvsSFjYNnBY1IsJaAoIjEPN-ik8XAH8vDNqL_r6uUEKvP-hvZwOHp8DIEXT66Xe29hhW5JFQD6ab_I2GXQqc2XgT2iC4QV1Lg0)/video/836/129/514921638_mp4_h264_aac_hd_9.m3u8#cell=nyc
+#EXTINF:1 tvg-logo="https://2.bp.blogspot.com/-pw0kbrABwR0/Wdp0FGaEPfI/AAAAAAAAC8s/a5ZZ5e-XWkMfWL7glE9aP2bPkawZib1cACLcBGAs/s1600/JESUS.bmp" group-title="Esta Na BIBLIA",a vida de Jesus Cristo segundo evangelho de Lucas
+https://proxy-025.dc3.dailymotion.com/sec(IEbO6Z1LHuUskp709C0fW8MClOAMzygiGXEB5ln04k9tJPTFxTTQrJe7ot4esBDP3cJos67PDI4j4MJGUjINJyN3WdWfYH_kFCe0Jb5X3CY)/video/300/007/483700003_mp4_h264_aac_hq.m3u8#cell=core
+#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/JY_lcyj1LCk/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLC1FkuxO40PFc0UR7qCKa2MPdFFmw" group-title="Esta Na BIBLIA",Investigação: A Vida Desconhecida de Jesus (Dublado) - Documentário Completo Discovery
+https://proxy-22.nyc.dailymotion.com/sec(gGqtclnn_bIC9m3nn5-WqPNfnmsMAmJP2Wn83Th9Hz96dGkIUgczL9BNAC81bDLPZtvxYsUpkBOu8vmLTqRQX7aU-TQbRWFhik3yawXIZA8)/video/517/742/324247715_mp4_h264_aac_1.m3u8#cell=nyc
+#EXTINF:1 tvg-logo="https://s2.dmcdn.net/v/Ipo4X1VhVoJDNWBks/x1080" group-title="Esta Na BIBLIA",Mistério dos Evangelhos proibidos - Documentário
+https://proxy-02.nyc.dailymotion.com/sec(jXl_r_CZ7rKteLo7P67RkMcRaS1XTpWl2NJ_T1r2jRc9KIOHnD1NgS-vEap3FU2HaHboEkesqYOje5pkDkdPpyHGerVpck8eu74gLX8CCp0)/video/698/482/507284896_mp4_h264_aac_hq.m3u8#cell=nyc
+#EXTINF:1 tvg-logo="https://www.catolicosnabiblia.com.br/imgpost/25-01-20_22-01-18-filme-paulo-apostolo-de-cristo-dublado.jpg" group-title="Esta Na BIBLIA",perseguição ao apóstolo de Cristo João - Dublado
+https://proxy-06.nyc.dailymotion.com/sec(H0vpOyVbcEs_XQ6KAJPaZiSj7dt0CFws81GuMZAP7yqwvSOoZxXcL9NkQ5cTXoUkUSSoPnglM6lXVH2JOmqNUrf6bWrZBbmIA9vkv4O69iY)/video/013/180/485081310_mp4_h264_aac_hq.m3u8#cell=nyc
+#EXTINF:1 tvg-logo="https://i0.wp.com/margmowczko.com/wp-content/uploads/2018/02/The-twelve-disciples-apostles-were-all-male.jpeg?fit=1024%2C531&ssl=1" group-title="Esta Na BIBLIA",Jesus escolhendo os 12 apostolos - Dublado
+https://proxy-039.dc3.dailymotion.com/sec(eONP7ymDWd7NtSmSfJBos9aLKtu-46Un-pdH2DjPWhh27HBkCaAIqGUi3zOhHC78EA_SUwpzbXTb7Jg1useuGv9tXyvNqfScCJTjcyTNJYs)/video/945/611/485116549_mp4_h264_aac_hq.m3u8#cell=core
+#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/rTzjJc9NOEA/maxresdefault.jpg" group-title="Esta Na BIBLIA",Quem foi realmente Jesus? - Documentário HD
+https://proxy-11.nyc.dailymotion.com/sec(czTSNzcdT4mYlcYSkbvIQ_F6hvsxnbsYry6s6muFDcHylu1SkLT_-p3DZCnee6pcwI7tpyyB0DVuR0O6_9C-caY3_lVt4GjsFv-9i5bXwD4)/video/608/842/516248806_mp4_h264_aac_hd_7.m3u8#cell=nyc
+#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/BWZ-FJvqCn8/maxresdefault.jpg" group-title="Esta Na BIBLIA",Paulo: O Emissário | Filme Gospel Dublado Completo
+https://proxy-21.nyc.dailymotion.com/sec(wIhAEtcGY0FlKmw_K5ItmSWDZDpf7MGVEUuEeBqUx9aA_xoMaHvn99aAuYSrrli9BrEzVoclRKDEk31hPddvHQZZaJJ1P6VGhh3UQYDv10U)/video/714/893/483398417_mp4_h264_aac_hq.m3u8#cell=nyc
+#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/MP7A8tC-w9o/hqdefault.jpg" group-title="Esta Na BIBLIA",Gerônimo 1990 
+https://proxy-004.ix7.dailymotion.com/sec(mY07IAeONRUUJhi-jD5Epact0cVCysJfvhn8bgVbt6u69Zjk3gkRi8MxOLDDpdVFtOHpxtzCVFfOoViphQiQWDpXFKI2x3VPiTOu4NWr4gQ)/video/395/262/506262593_mp4_h264_aac.m3u8#cell=core
+#EXTINF:1 tvg-logo="https://s1.dmcdn.net/v/IkJ-G1VYOhlWkwKJN/x720" group-title="Esta Na BIBLIA",O DESAFIO DE JACÓ FILME EVANGÉLICO COMPLETO (DUBLADO EM PORTUGUÊS) - GRANDES HERÓIS DA BÍBLIA
+https://proxy-12.nyc.dailymotion.com/sec(9bLpr36Elc3rqsMpQ_biPpXyTOQwSafGlEZpWHUebqr55FsZvWXP14oVoEnCipNuj8vAxPyaHFfEpv08_mgrDsR1oUpVy4-p2z_gEP_kM1s)/video/023/031/314130320_mp4_h264_aac_1.m3u8#cell=nyc
+
+#EXTM3U url-tvg="http://grade-de-Radio GOSPEL.xml"
+############## Radio GOSPEL ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeRadio GOSPEL" group-title="
+
+#EXTINF:1 tvg-logo="https://us0-cdn.onlineradiobox.com/img/l/7/67157.v16.png" group-title="Radio GOSPEL",Nova Gospel FM
+https://svrstream1.svreua.com/stream.php?porta=8062/;
+#EXTINF:1 tvg-logo="https://us0-cdn.onlineradiobox.com/img/l/3/63963.v31.png" group-title="Radio GOSPEL",Sertanejo Gospel SC
+https://stm24.xcast.com.br:8644/stream
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/14/Logotipo_da_Feliz_FM.png" group-title="Radio GOSPEL",Feliz FM
+https://cloud1.cdnseguro.com:5520/;
+#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/fScZxd6p2Ig/maxresdefault.jpg" group-title="Radio GOSPEL",Paz FM
+http://digital.umhost.com.br:9978/;
+#EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/zjp3jtxserpq.png" group-title="Radio GOSPEL",Rádio Gospel Adoração
+https://ssl.xcast.com.br:12570/;
+#EXTINF:1 tvg-logo="https://play-lh.googleusercontent.com/F7-9nBkTx3RLsjTyo0BHlXGKqu8til2gvvIaGz4lAGG2tJuWJ5sDuNbGVGeYfSlJ_g" group-title="Radio GOSPEL",Sertão Gospel
+https://stream-33.zeno.fm/fpg8s2gha9quv?zs=ndJRla2jTiCR7WdGog6PuQ
+#EXTINF:1 tvg-logo="https://radiosaovivo.fm/wp-content/uploads/2023/01/radioaparecidaaovivo.png" group-title="Radio GOSPEL",Aparecida 104.3 FM
+https://aparecida.jmvstream.com/stream?1673834484086
+#EXTINF:1 tvg-logo="https://radiosaovivo.fm/wp-content/uploads/2022/12/Radio-Evangelizar-ao-vivo.jpeg" group-title="Radio GOSPEL",Evangelizar 1060 AM
+https://stream-51.zeno.fm/hu70hmkcu68uv?zs=BCNf7eQIQmKhA1cYDoHmQw
+#EXTINF:1 tvg-logo="https://radiosaovivo.fm/wp-content/uploads/2023/02/igreja-Deus-e-amor-ao-vivo.jpeg" group-title="Radio GOSPEL",Deus é Amor 91.9 FM
+https://24943.live.streamtheworld.com/SP_STUDIOC.mp3?DeuseamorFM
+
+#EXTM3U url-tvg=" http://grade-de-FAX CLIPS.xml "
+ ############## FAX CLIPS ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeFAX CLIPS " group-title="
+
+#EXTINF:1 tvg-logo="https://www.tnt.com/dam/tnt_express_media/en_gb/images/ChoosingTNT/TNT-Logo-edt.png" group-title="FAX CLIPS",TNT
+http://livetv.ktv.zone/3/play.m3u8
+#EXTINF:1 tvg-logo="https://lh3.googleusercontent.com/-dGnGcoZ4XMI/YGiuDJ-l9SI/AAAAAAABBKo/29BjyFATaBUc5W1wMu7u18r7fY1SHwLhwCK8BGAsYHg/s512/2021-04-03.png" group-title="FAX CLIPS",Mundo de la Musica TV | CL
+https://6362ca6f1fc28.streamlock.net:443/8078/8078/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cigars.roku.com/v1/contain/800x454/https%3A%2F%2Fimage.roku.com%2Fdeveloper_channels%2Fprod%2F0e68d268840c22345262b5ac1c4e5635f2367d68ac7b952cb5791550c2c81798.jpg" group-title="FAX CLIPS", Sexy Kpop TV | BR
+https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
+#EXTINF:1 tvg-logo="https://pt.egamersworld.com/uploads/news/1676871786929-16x9.jpg" group-title="FAX CLIPS",blast
+https://video01.logicahost.com.br/blast/blast/chunklist_w853003416.m3u8
+#EXTINF:1 tvg-logo="https://img.radios.com.br/radio/xl/radio103584_1552581307.png" group-title="FAX CLIPS",zoommusic
+https://stmv5.samcast.com.br/zoommusic/zoommusic/chunklist_w111484135.m3u8
+#EXTINF:1 tvg-logo="https://3.bp.blogspot.com/-RHFHW9fqlnw/XriRAmC7FPI/AAAAAAAACwA/magexXwQAcgxOeedphxO4L6_twWf0_3uwCLcBGAsYHQ/s320/Screenshot_2020-05-10-20-37-06.png" group-title="FAX CLIPS",TV Camocim
+https://5c483b9d1019c.streamlock.net/8172/8172/chunklist_w177496967.m3u8
+#EXTINF:1 tvg-logo="https://media.tenor.com/aA6cI123j-IAAAAC/sertanejo-country.gif" group-title="FAX CLIPS",Clips sertanejo
+https://srv1.zcast.com.br/kpoptv/kpoptv/chunklist_w1763972961.m3u8
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/43/Clip_Clip.jpg" group-title="FAX CLIPS",Rede RC
+https://59f2354c05961.streamlock.net:1443/rederc/_definst_/rederc/chunklist_w609011177.m3u8
+#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/UtqE1Vp2UGk/maxresdefault.jpg" group-title="FAX CLIPS",Sertanejo Universitario
+https://stmv2.samcast.com.br/alternativatvivainova/alternativatvivainova/chunklist_w931164571.m3u8
+#EXTINF:1 tvg-logo="https://www.federasul.com.br/wp-content/uploads/2022/05/Luan-Santana-01-JORNAL-scaled.jpg" group-title="FAX CLIPS",santana01
+https://59f2354c05961.streamlock.net:1443/santana01/_definst_/santana01/chunklist_w1719844960.m3u8
+#EXTINF:1 tvg-logo="https://tvtvtv.ru/icons/51_tv.png" group-title="FAX CLIPS", Radio 51 TV (480p)
+http://178.32.140.155/canale51/canale51/playlist.m3u8
+#EXTINF:1 tvg-logo="https://i1.sndcdn.com/artworks-000160145439-jpocr1-t500x500.jpg" group-title="FAX CLIPS",Acoisona
+https://5cf4a2c2512a2.streamlock.net/acoisona/acoisona/chunklist_w2093196155.m3u8
+#EXTINF:1 tvg-logo="hhttps://www.belllaemonella.it/wp-content/uploads/2022/05/2022-grafiche_post.jpg" group-title="FAX CLIPS",Bellla&Monella TV 
+https://58d921499d3d3.streamlock.net/RadioBelllaemonellaTV/livestream/playlist.m3u8
+#EXTINF:1 tvg-logo="https://br.radio.net/images/broadcasts/ae/8e/15034/c300.png" group-title="FAX CLIPS",Birikina TV
+http://56b50ada2d659.streamlock.net:1935/RadioBirikinaTV/livestream/chunklist.m3u8
+#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbSekAIuDxfDIifyz5m0DRYGJaKeMO5Ly7iJObdQFiv7Wn4uoiCgx3T4_5jnsGLWAA5Bg&usqp=CAU" group-title="FAX CLIPS",Birikina TV 
+https://56b50ada2d659.streamlock.net/RadioBirikinaTV/livestream/playlist.m3u8
+#EXTINF:1 tvg-logo="https://tvcompanyindoor.com/wp-content/uploads/2021/09/1x1Prancheta-1.png" group-title="FAX CLIPS",Company TV
+https://5929b138b139d.streamlock.net/CompanyTV/livestream_720p/playlist.m3u8
+#EXTINF:1 tvg-logo="https://play-lh.googleusercontent.com/YJRfZ18xDa10MOB067ujn1CJ4X7hqb2XtilpQLxcjUrn6NkuzM0bV6WBeOGZKfnqSbU" group-title="FAX CLIPS",Ibiza TV 
+https://5929b138b139d.streamlock.net/RadioIbizaTV/livestream/playlist.m3u8
+#EXTINF:1 tvg-logo="https://www.coolstreaming.us/img/ch/image22968804091.jpg" group-title="FAX CLIPS",Iglesias
+http://wms.shared.streamshow.it/visualradio/mp4:visualradio/chunklist.m3u8
+#EXTINF:1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0013/7237/brand.gif?itok=1sBM8uaC" group-title="FAX CLIPS",Kiss Kiss Italia TV
+https://58f12ffd2447a.streamlock.net/KKTV01/livestream/playlist.m3u8
+#EXTINF:1 tvg-logo="https://tvtvtv.ru/icons/51_tv.png" group-title="FAX CLIPS",Kiss Kiss Italia TV
+https://59253971be783.streamlock.net/KissKissTV/KissKissTV.stream/playlist.m3u8
+#EXTINF:1 tvg-logo="https://br.radio.net/images/broadcasts/b5/d1/10965/c300.png" group-title="FAX CLIPS",Piter Pan TV
+https://58d921499d3d3.streamlock.net/RadioPiterpanTV/livestream/playlist.m3u8
+#EXTINF:1 tvg-logo="https://www.coolstreaming.us/img/ch/image18638130231.jpg" group-title="FAX CLIPS",Studio Delta TV
+https://5ce9406b73c33.streamlock.net/RSD/ngrp:livestream_all/playlist.m3u8
+#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQA4_VWOtyomRrEktSHnDGETAAeftwdnrzx75O2vulweCarB0w8ipPVR1gpYjSCoA0PJUc&usqp=CAU" group-title="FAX CLIPS",Taormina Sicilia 
+https://stream2.xdevel.com/video1s3-7/stream/playlist.m3u8
+#EXTINF:1 tvg-logo="https://www.tvdream.net/img/stereo-5-tv.png" group-title="FAX CLIPS",Stereo 5 TV
+https://stream1.aswifi.it/stereo5/live/index.m3u8
+#EXTINF:1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/18b91922f010049b9ef138ee36b18863.webp" group-title="FAX CLIPS",TVRS
+http://wms.shared.streamshow.it:1935/tvrs/tvrs/live.m3u8
+#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2pMQTHcOIhRETSHo3MeBJVkIOYDCkTEeoprMB9irCWzyk2T7OEUWmviuECWeWSiTtWIg&usqp=CAU" group-title="FAX CLIPS",Ócko Star 
+https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/chunklist_b2628000.m3u8
+#EXTINF:1 tvg-logo="https://lh3.googleusercontent.com/p/AF1QipNRTxlIcCaqnLyfgVAjqhLKoIdPVtelhP0FJLkz=w1080-h608-p-no-v0" group-title="FAX CLIPS",Zapping Música
+https://zmlive.zappingtv.com/zm-free/zm.smil/chunklist_live1_b4131600_sles.m3u8
+#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/TifvTqzzl1U/hqdefault.jpg" group-title="FAX CLIPS",VM latino Canal 29
+https://59ef525c24caa.streamlock.net/vmtv/vmlatino/chunklist_w1100940361.m3u8
+#EXTINF:1 tvg-logo="https://thewatchtv.com/wp-content/uploads/2013/02/Watch-Tiankov-TV-Live-TV-from-Bulgaria.jpg" group-title="FAX CLIPS",Tiankov Orient folk
+https://streamer103.neterra.tv/tiankov-orient/tiankov-orient_SD.m3u8
+#EXTINF:1 tvg-logo="https://photos.live-tv-channels.org/tv-logo/cz-retro-music-tv.jpg" group-title="FAX CLIPS",Retro Music Television
+https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/chunklist_w1366594843_b750000.m3u8
+#EXTINF:1 tvg-logo="https://play-lh.googleusercontent.com/U73kFg4Qya85ClsrZ0r8z4srpmZ2xb_85TlGjSwNnJvYdqcGVCkVL2KmQtK0heLnCMo" group-title="FAX CLIPS",Retro Plus TV
+https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/chunklist_w125834852.m3u8
+#EXTINF:1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/b6ff8b6d7523f81a021ae336788ecc5e.webp" group-title="FAX CLIPS",Power Pinamar TV
+https://live2.tensila.com/1-1-1.power-tv/hls/live/mystream.m3u8
+#EXTINF:1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/6ac1eabcec85a5924f0fec956a253a6e.webp" group-title="FAX CLIPS",Sin TV online
+https://inliveserver.com:1936/19004/19004/chunklist_w1897306572.m3u8
+#EXTINF:1 tvg-logo="https://play-lh.googleusercontent.com/EyCtlZh2qGkYG4hZJD73PLTP8frwXm178zqcW4gfC29Xb2N4cZyK3w7JnWt12fAt7v4" group-title="FAX CLIPS",RAV – Rádio Antena Verde TV 
+https://585b674743bbb.streamlock.net/9002/9002/chunklist_w197773784.m3u8
+#EXTINF:1 tvg-logo="https://play-lh.googleusercontent.com/MCs0kqs630qS3hek5tpuaI6Q-IrvZQw63mYnn3tIHi5R0DJ3c4bK7oefS2DpGk_qe9wr" group-title="FAX CLIPS",Strana FM
+https://live-stranafm.cdnvideo.ru/stranafm/smil:stranafm.smil/chunklist_b1628000.m3u8?hls_proxy_host=4ac575bd406b2fbf9f8f8a9247162c49
+#EXTINF:1 tvg-logo="https://gps.pezquiza.com/wp-content/uploads/2022/01/tv-o-dia-redetv-assistir-online.jpg" group-title="FAX CLIPS",RSDTV online
+https://5ce9406b73c33.streamlock.net/RSD/ngrp:livestream_all/chunklist_w767509728_b3128000.m3u8
+#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRezVdMiK1d_5JkKuQ5jomk2fjQLqHhALqu19zY03wgTnMtcqzOB9BnjalRaqOqknQA1J0&usqp=CAU" group-title="FAX CLIPS",RTL 102.5 Tv
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/chunklist_b2816000.m3u8
+#EXTINF:1 tvg-logo="https://online-television.net/uploads/posts/2023-03/sooriyantv24.webp" group-title="FAX CLIPS",Sooriyan TV24
+https://cdn.jwplayer.com/videos/LNdcgulf-o4j6Jv34.m3u8
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/71/The_voice_mais_2_temporada_logo.jpeg" group-title="FAX CLIPS",The Voice
+https://bss1.neterra.tv/thevoice/stream_0.m3u8
+#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/KJDB1T9Ag5Q/hqdefault.jpg?sqp=-oaymwExCOADEI4CSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYciBYKD0wDw==&rs=AOn4CLAaxg2Yu1QkhRDXWQMQjuXf5prpug" group-title="FAX CLIPS",Tiankov folk
+https://streamer103.neterra.tv/tiankov-folk/tiankov-folk_SD.m3u8
+#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdNPrMPLU4llmV_UE0VFgjWwF_ljmzDZz2WOSxl2_V1p0ZUXGDLicJy4AzRFPLLWkSF-k&usqp=CAU" group-title="FAX CLIPS",Tezaur TV 
+https://testcam.go.ro:8080/hls/tezaurtv.m3u8
+#EXTINF:1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Visi%C3%B3n-TV-M%C3%BAsica-en-vivo-Online.png" group-title="FAX CLIPS",Visión Tv Música 
+https://multimedia.tmcreativos.com:1936/visionmusica/visionmusica/chunklist_w2034254197.m3u8
+#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAOnMGL-398Zt8b_4FWys2KEQMcNypMjt5Q1iqmQNh2oZwdftdPKrXDpeADE-PXt31MfQ&usqp=CAU" group-title="FAX CLIPS",WEB TV Paixão FM
+https://stmv2.samcast.com.br/romeu6622/romeu6622/chunklist_w2130777601.m3u8
+#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnh1FCWdRscSyy2jlwxHxQ9WGCcnN4uB_mI_0F7coYnbQ0fm3M6u2TO6M7cL1C2RE7L3k&usqp=CAU" group-title="FAX CLIPS",Nubeh TV
+https://vcp.myplaytv.com/nubehtv/nubehtv/chunklist_w2000509924.m3u8
+#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4y72eLp7oNS_wBcAdrrmu6dZvbEHnaISF4D7L2ZYHyx7U7UI7gVyl6Ga8lBL_ngqOIQ&usqp=CAU" group-title="FAX CLIPS",Mundo de La Musica Tv
+https://6362ca6f1fc28.streamlock.net/8078/8078/chunklist_w851946532.m3u8
+#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKNiMW_If_irCqMq0jg1JP_v5NLXxUG0lnSaCXCSXoN4_IJIBRqsawPi5Uw2vmKvchOx4&usqp=CAU" group-title="FAX CLIPS",PMC TV
+https://hls.pmchd.live/hls/stream.m3u8
+#EXTINF:1 tvg-logo="https://us0-cdn.onlineradiobox.com/img/fblogo/5/90585.v7.png" group-title="FAX CLIPS",ON FM Portugal
+https://5ce9406b73c33.streamlock.net/ONFM/livestream/chunklist_w1601201454.m3u8
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ef/Music_Box_logo.png" group-title="FAX CLIPS",Music Box TV
+https://musictv.mediacdn.ru/cdn/musicboxgold/playlist_sdmid.m3u8
+#EXTINF:1 tvg-logo="https://photos.live-tv-channels.org/tv-logo/ru-music-box-russia-7738.jpg" group-title="FAX CLIPS",Music Box Rússia
+https://musictv.mediacdn.ru/cdn/musicboxhd/playlist_sdmid.m3u8
+#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGyfdQHffn5v-6j5cBfGHjXRzOvxBGoTtnwEQpx0vGb3qijQSUqW_Rs-cXc8vBQ2Rr5ZM&usqp=CAU" group-title="FAX CLIPS",Kurai-TV
+https://bsttv.bonus-tv.ru/cdn/kurai/playlist_sdhigh.m3u8
+#EXTINF:1 tvg-logo="https://yt3.googleusercontent.com/Tj1S1iv6NFrwC0Rhujt9pMhyRHJ4dbLeq9entvIaiQ69qbmw2HAlET9NRhPjs1__PfdkDV8ePA=s900-c-k-c0x00ffffff-no-rj" group-title="FAX CLIPS",Magic TV 
+https://bss1.neterra.tv/magictv/stream_0.m3u8
+#EXTINF:1 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJVkdXL45dntG18K7h1RJRA5PPyodhuJHhL9FRz76Q=s900-c-k-c0x00ffffff-no-rj" group-title="FAX CLIPS",Mas23 TV
+https://mediacp.us:8081/mas23tv/tracks-v1a1/mono.m3u8
+#EXTINF:1 tvg-logo="https://media.tenor.com/vZmvwhNvRWgAAAAM/blood-on-the-dance-floor-michael-jackson.gif" group-title="FAX CLIPS",Euro Indie Music Chart TV
+https://57068da1deb21.streamlock.net/euroindiemusic/euroindiemusic/chunklist_w1532875374.m3u8
+#EXTINF:1 tvg-logo="https://media0.giphy.com/media/W2uoviFkO7Sk9ksrxu/giphy.gif" group-title="FAX CLIPS",Europa Plus TV
+https://live-europaplus.cdnvideo.ru/europaplus/smil:eurptv2.smil/chunklist_b5128000.m3u8?md5=0shVXypvNxBS1bCtrIQRsQ&e=1680215243&hls_proxy_host=71e1d3e72fe15dcd96c31e96e15d216a&zoid=sharing
+#EXTINF:1 tvg-logo="https://media.tenor.com/-O93HXVrsYYAAAAC/grooving-pulling-up.gif" group-title="FAX CLIPS",Den Haag TV
+https://wowza2.videostreamingwowza.com/denhaag/denhaag/chunklist_w881915846.m3u8
+#EXTINF:1 tvg-logo="https://64.media.tumblr.com/dc23c6fa24519f6e94d582c768b8ae60/cd389cda20ee9043-43/s400x600/ba870a1ea0a1213f036c9a5ed3fb92a528c1564f.gif" group-title="FAX CLIPS",Dance TV 
+https://mbit1.worldcast.tv/dancetelevisionseven/stream_0.m3u8
+#EXTINF:1 tvg-logo="https://www.repstatic.it/video/photo/2016/02/05/301300/301300-thumb-full-deejayfull.jpg" group-title="FAX CLIPS",Deejay Tv 
+https://streamcdnm4-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/chunklist_b3248289.m3u8
+#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3ahidFZlw_4aod7gn5BKF4fRdDaGFOEiXRBnd28rFGAtOkIbm-4ouBUxQIeNV6KRpvSY&usqp=CAU" group-title="FAX CLIPS",Atomic TV online
+https://atomic.streamnet.ro/atomictv.m3u8
+#EXTINF:1 tvg-logo="https://vod.salto.nl/data/media/logo/brasa-tv" group-title="FAX CLIPS",BRASA TV
+https://live.salto.nl/hls/sotv1_high.m3u8?hls_ctx=56695t54
+#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRSzzlT8IUwEJxhHFNmxlTlFu2pTSInMANuwF6PciGTc7B7D3y42AmOM8Lr_4qaJz2Ooo&usqp=CAU" group-title="FAX CLIPS",Hip Hop TV
+https://cdn3.invivo.bg/359t/tracks-v1a1/mono.m3u8
+https://yuppindottclorigin.akamaized.net/060322/smil:9xmusic.smil/chunklist_b1928000.m3u8?hdntl=exp=1679695289~acl=!*/060322/smil:9xmusic.smil/*!/payload/9xm_5_21691719_NA_IN_NA_9xm_1037/*~data=hdntl~hmac=2d095e31e8824f923b6d02e5e893b15943c5204bca74952aaf1660cceee0ded0
+#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpLMjuauW7iR7j8AYJHo9ZejyIXMYIKAx_-AbhwZ-j8lxBxuZK1M7fzQ7vohYt2-_mWRk&usqp=CAU" group-title="FAX CLIPS",City TV online
+https://tv.city.bg/play/tshls/citytv/3.m3u8
+#EXTINF:1 tvg-logo="https://yt3.googleusercontent.com/OFo4xztkVa3NWQVc645aQXyIeGxm1H0Alq-Nq1dK3SH2XCuzYtecGb-VaraF3d9crE0d16tn-A=s900-c-k-c0x00ffffff-no-rj" group-title="FAX CLIPS",CMC TV
+https://stream.cmctv.hr:49998/cmc/live.m3u8
+#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRky8t7Fckq2MVBOa7ySk0upFtMMbDVchZKGHzMDn7NGr5Hnz16Y9IoW88DU680hX82fNs&usqp=CAU" group-title="FAX CLIPS",Busuioc TV 
+https://busuioctv.iforward.eu/hls/busuioc.m3u8
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Repretel_logo.svg/200px-Repretel_logo.svg.png" group-title="FAX CLIPS",Canal 2 - Repretel
+https://d3bgcstab9qhdz.cloudfront.net/hls/canal2_360.m3u8
+#EXTINF:1 tvg-logo="https://oklivetv.com/wp-content/uploads/2015/09/icon175x175.png" group-title="FAX CLIPS",AFNL Music - Tin Tv
+https://bozztv.com/1gbw5/tintv2/tintv2/chunklist.m3u8
+#EXTINF:1 tvg-logo="https://gifs.eco.br/wp-content/uploads/2022/09/gifs-de-musica-eletr-nica-1.gif" group-title="FAX CLIPS",Clipis 1
+https://5c483b9d1019c.streamlock.net/8006/8006/chunklist_w1984678252.m3u8
+#EXTINF:1 tvg-logo="https://thumbs.gfycat.com/DefiniteCarefreeDesertpupfish-max-1mb.gif" group-title="FAX CLIPS",Radio Capital
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/chunklist_b1064000.m3u8
+#EXTINF:1 tvg-logo="https://www.arte.tv/sites/corporate/files/arte30-rvb-noir-470x270.jpg" group-title="FAX CLIPS",ARTE TV
+https://mastershowtv.videovox.pw/master6123/master6123/chunklist_w1243278274.m3u8
+#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9SEmdaoPrXxRCp0NUx8cZOkpSYJVXs1nj_0qjFX39TY82x3mIZN-jjjRf83lC97M2pCo&usqp=CAU" group-title="FAX CLIPS",MEGA FATOS
+https://59f1cbe63db89.streamlock.net:1443/mundotv2/_definst_/mundotv2/chunklist_w1313069576.m3u8
+#EXTINF:1 tvg-logo="https://i.gifer.com/74DL.gif" group-title="FAX CLIPS",Clipis 1
+https://59f2354c05961.streamlock.net:1443/rederc/_definst_/rederc/chunklist_w609011177.m3u8
+#EXTINF:1 tvg-logo="https://thumbs.gfycat.com/LikelyQuaintHarvestmen-size_restricted.gif" group-title="FAX CLIPS",Clipis 2
+https://stmv2.samcast.com.br/alternativatvivainova/alternativatvivainova/chunklist_w931164571.m3u8
+#EXTINF:1 tvg-logo="https://i.gifer.com/UXdV.gif" group-title="FAX CLIPS",Clipis 3
+https://5c483b9d1019c.streamlock.net/8172/8172/chunklist_w177496967.m3u8
+#EXTINF:1 tvg-logo="https://media1.giphy.com/media/bHR7qB1m2yDFPdKFtm/giphy.gif" group-title="FAX CLIPS",TOP MIX TV
+https://59f1cbe63db89.streamlock.net:1443/topmixtv/_definst_/topmixtv/chunklist_w32285497.m3u8
+#EXTINF:1 tvg-logo="https://www.alvoradasertaneja.com.br/wp-content/uploads/sites/16/2022/01/og.jpg" group-title="FAX CLIPS",Alvorada Sertaneja
+http://stmv6.srvstm.com/tvalvoradasertaneja/tvalvoradasertaneja/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://media.tenor.com/YwDDxVgrX9AAAAAM/fire-mtv.gif" group-title="FAX CLIPS",MTV
+https://cdn2.connectbr.com.br/mtv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ef/Music_Box_logo.png" group-title="FAX CLIPS",music box
+https://musictv.mediacdn.ru/cdn/musicboxgold/playlist_sdmid.m3u8
+#EXTINF:-1 tvg-logo="https://logopond.com/logos/d697fc07d0074842311879287c3a530b.png" group-title="FAX CLIPS",master tv
+http://168.205.87.198:8555/live/antony/1234/74.m3u8
+#EXTINF:-1 tvg-logo="https://tvtvtv.ru/icons/51_tv.png" group-title="FAX CLIPS",Radio 51 TV
+http://178.32.140.155/canale51/canale51/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/vnjj8cnpentp.png" group-title="FAX CLIPS",Radio Bellla&Monella TV 
+https://58d921499d3d3.streamlock.net/RadioBelllaemonellaTV/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.retedeldono.it/sites/default/files/radio-company-logo.png" group-title="FAX CLIPS",Radio Company TV 
+https://5929b138b139d.streamlock.net/CompanyTV/livestream_720p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaw26HNM7jmQYczY58faYX3DZ_at4cOJhkJQdTBxEK5rIfitlm-fgaT4Xbz55qquhCGCo&usqp=CAU" group-title="FAX CLIPS",Radio Ibiza TV (360p) 
+https://5929b138b139d.streamlock.net/RadioIbizaTV/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTH6AYByGSc4fkJeMt8FF9VWJsGHQfrpqb1u1_Y6UWRUkxlRKNNwsnHY8u1_EirECaa3bc&usqp=CAU" group-title="FAX CLIPS",M2O
+https://streamcdnc2-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZuvL-vTqt3MKab2CpIEml-Vr6xfo60k6x__L8qfMnl3T0ydxJbcuO6IY_ERKEyUwPyxM&usqp=CAU" group-title="FAX CLIPS",TOP MUSIC
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0Lghk0oORI6EiAnyyBmSjtZaMmkh1bLKfZ_KrmjUF4gdMEfKilz9NchTC5Qrz5mLlyOU&usqp=CAU" group-title="FAX CLIPS",Radio Kiss Kiss Italia TV (380p)
+https://58f12ffd2447a.streamlock.net/KKTV01/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/J4ttHyfSxHclLmcp82fOSHrVpr6sbA6u1MI5R7Ry1ZRSFzcLS7ufsD5c2cHX_hsp5GQ" group-title="FAX CLIPS",Radio Number One (720p)
+https://56b50ada2d659.streamlock.net/RN1TV/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9_LX_hHlEhGIcTRrs-jFmx00T_exULedh5uSC91_-9kL3DDEgRIVXvfsEu8QMOyryeLo&usqp=CAU" group-title="FAX CLIPS",Radio Piter Pan TV (720p)
+https://58d921499d3d3.streamlock.net/RadioPiterpanTV/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPfVrg03A3eUhhrxBkqy2YzPaHDgRV7zqzQY665Em1YT2r6cHqt5B4VpjBLTh1GbNf_34&usqp=CAU" group-title="FAX CLIPS",Radio Studio Delta TV (1080p)
+https://5ce9406b73c33.streamlock.net/RSD/ngrp:livestream_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/7c/63/11692/1/c300.png" group-title="FAX CLIPS",Radio Taormina Sicilia (720p)
+https://stream2.xdevel.com/video1s3-7/stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ns5.assowebct.com/radiouniversaltv-it/radio-universal-tv-logo-assowebct.png" group-title="FAX CLIPS",Radio Universal TV Catania (576p)
+http://flash2.streaming.xdevel.com:80/radiouniversaltv/radiouniversaltv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQts3ZP2AvmZvjhxC54Ik8UeuZQ_LeyRGYTJLsC7AtZxnA8uYw0lAkMx_OM-5l4kB4tOpM&usqp=CAU" group-title="FAX CLIPS",Stereo 5 TV
+https://stream1.aswifi.it/stereo5/live/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSqbhc3wqAoWPzxWVS18gbJ5WiWTRhuTPgCj_lSudBrdMTf0cf9aZtYfIuqHNoCAnxHX0&usqp=CAU" group-title="FAX CLIPS",TVRS
+http://wms.shared.streamshow.it:1935/tvrs/tvrs/live.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJUNBoD3LURrrGW8wX8NNCpFgWpw7c-wWsNxq29k0Q=s900-c-k-c0x00ffffff-no-rj" group-title="FAX CLIPS",Vera TV (480p)
+http://wms.shared.streamshow.it/veratv/mp4:veratv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwHWs5gYyRBOP8Dsx3acToYoXoT8AGxgMw1y4yPtBKGfkqFQsJan9eOTt7E2CPjoLRmg&usqp=CAU" group-title="FAX CLIPS",Vuemme
+https://5db313b643fd8.streamlock.net/Vuemme/Vuemme/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-fSLYe8SAbA0/XMUbyajknCI/AAAAAAAAAzU/5SK7bfaElasFKPBDttGl7uTk1PeJdMINwCLcBGAs/s320/Screenshot_2019-04-28-00-09-39.png" group-title="FAX CLIPS",51 Radio TV (480p)
+http://wms.shared.streamshow.it:80/canale51/canale51/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/61f13fcc9627c8e4ed060631_portada%20blog%20music.jpg" group-title="FAX CLIPS",ZAPPING MUSIC
+https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/YkPWvCEbJ4BDlWDUlGqXRgUAchiaDRpE8TxLKJ4GxaHtk2d2cCPy8LJqgwQoEA_bzEV-" group-title="FAX CLIPS",POWER TV
+http://wowza.telpin.com.ar:1936/live-powerTV/power.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://radiointerativa96fm.com.br/wp-content/uploads/2021/04/logo_radio_interativa.png" group-title="FAX CLIPS",interativafm
+https://59f1cbe63db89.streamlock.net:1443/interativafm/_definst_/interativafm/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dQN6xcT.png" group-title="FAX CLIPS",TV Web Camocim 
+https://5c483b9d1019c.streamlock.net/8172/8172/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cdns-images.dzcdn.net/images/cover/f4b4b11e32c71c670d8ad17e00684678/264x264.jpg" group-title="FAX CLIPS",TV HITS
+https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
+#EXTINF:1 tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Clubbing-TV. png" group-title="FAX CLIPS",Clube TV
+https://clubbingtv-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:1 tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/NRG-91-TV.png" group-title="FAX CLIPS",NRG 91 TV
+http://tv.nrg91.gr:1935/onweb/live/playlist.m3u8
+#EXTINF:1 tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main /logos/4Fun-TV.png" group-title="FAX CLIPS",4Fun.TV
+https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
+#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTywy99kxTnwP8FTnYrVW_duka1UVmWHTFloUsT1tzrWOXhQGTOHClm3LWt2fSwjhzFyPA&usqp=CAU" group-title="FAX CLIPS",CATEDRAL DO ROCK TV
+https://stmv1.srvstm.com/catedraldorock/catedraldorock/playlist.m3u8
+#EXTINF:1 tvg-logo="https://2.bp.blogspot.com/-DAaHVRNV_kw/XzNMF4rotJI/AAAAAAAADJc/kgD73_FM-rIUFbhBHtCmgWDEYmznQPTOwCPcBGAYYCw/w1200-h630-p-k-no-nu/Screenshot_2020-08-11-22-52-42.png" group-title="FAX CLIPS",TIERRA MIA TV
+https://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CMC.png" group-title="FAX CLIPS",Country Music Channel
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8
+#EXTINF:1 tvg-logo="https://varioscanais.com/wp-content/uploads/2022/07/Abba-Rtv-300x300.webp" group-title="FAX CLIPS",Abba Rtv
+https://video01.kshost.com.br:4443/adilson8953/adilson8953/chunklist_w347975130.m3u8
+#EXTINF:1 tvg-logo="https://1.bp.blogspot.com/-42D-nDPxsIw/XRzWIYt-pzI/AAAAAAAABSk/fUQr-eKjhSsjLg2AlGNS1Op7jYfFgvBQgCPcBGAYYCw/s320/Screenshot_2019-07-03-13-02-38.png" group-title="FAX CLIPS",KRONEHIT TV
+https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
+#EXTINF:1 tvg-logo="https://0.soompi.io/wp-content/uploads/2020/05/13170248/TWICE-TV.gif" group-title="FAX CLIPS",KPOP TV PLAY
+https://srv1.zcast.com.br/kpoptv/kpoptv/chunklist_w1763972961.m3u8
+#EXTINF:1 tvg-logo="https://thumbs.gfycat.com/CheeryInsecureAmericanquarterhorse-max-1mb.gif" group-title="FAX CLIPS",KpopTV Play
+https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
+#EXTINF:1 tvg-logo="https://media.tenor.com/281Bc322lxUAAAAC/top-music-music.gif" group-title="FAX CLIPS",MUSIC TOP
+https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w1679103036_b2028000_sleng.m3u8
+#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHFgOU90ERHADvlY9oin9yZO8PmCt-aUmtZo6D8qn3jqdpPZvnu2eQDNMx7v-hi78zFaM&usqp=CAU" group-title="FAX CLIPS", -CLIPS
+https://stmv1.voxtvhd.com.br/7070/7070/chunklist_w2035493168.m3u8
+#EXTINF:1 tvg-logo="https://images.squarespace-cdn.com/content/v1/5c43725db40b9dbedbbdca2b/1548847522677-ZXGZX9HV0QIUQ3HU63UN/bb-daytime-tv.gif"group-title="FAX CLIPS",  -CLIPS
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/chunklist_b1064000.m3u8
+#EXTINF:1 tvg-logo="https://alexandreporfirio.com/wp-content/uploads/2019/06/LOGO-MASTER-SHOW-TV-2.png"group-title="FAX CLIPS",-MASTER SHOW TV
+https://mastershowtv.videovox.pw/master6123/master6123/chunklist_w1243278274.m3u8
+#EXTINF:1 tvg-logo="https://spaceks.net/sites/jovemhits.com.br/images/logo/logo_390688089.png"group-title="FAX CLIPS",  -Tv Jovem Hits
+https://video01.kshost.com.br:4443/joao9563/joao9563/chunklist_w1787722245.m3u8
+#EXTINF:1 tvg-logo="https://media.tenor.com/2ll51f5v1aAAAAAM/music-head-shake.gif"group-title="FAX CLIPS", HITS MUSIC
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://media1.giphy.com/media/jSJPEa97DqcEspsGxO/giphy.gif?cid=6c09b9524b95c5962e8405b863e46511e85250073642725a&rid=giphy.gif&ct=s"group-title="FAX CLIPS",30A Music (720p)
+https://30a-tv.com/music.m3u8
+#EXTINF:1 tvg-logo="https://media0.giphy.com/media/h59kTCNfi8IJnteCfI/giphy.gif"group-title="FAX CLIPS",9XM (480p)
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
+#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyz5jG4HsSpgZDVlV44RGCuq6MlpmL4vGtOpZg-UiK4lpB_z66KYc6Jyzxlbu8uya53Q&usqp=CAU"group-title="FAX CLIPS",1HD Music Television (404p) [Not 24/7]
+https://sc.id-tv.kz/1hd.m3u8
+#EXTINF:1 tvg-logo="https://s3.amazonaws.com/cdn.radionewproject.com/90c03d2bc45ca66edd29d3cae0d9b779.jpg"group-title="FAX CLIPS",88 Stereo (720p) [Not 24/7]
+http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
+#EXTINF:1 tvg-logo="https://thumbs.gfycat.com/LittleEveryItalianbrownbear-max-1mb.gif"group-title="FAX CLIPS",A2i Music (720p) [Not 24/7]
+https://stream.sen-gt.com/A2iMusic/myStream/playlist.m3u8
+#EXTINF:1 tvg-logo="https://media0.giphy.com/media/sGX1Ey04iE37CtJsjC/200.gif"group-title="FAX CLIPS",City Music TV (720p)
+https://5592f056abba8.streamlock.net/citytv/citytv/playlist.m3u8
+#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRf3T3xsP0CY1nVy8AxSOhaomwTLau7YeomZJOO2NF8sy4y6wBY3tJWuB0zFP8niv-9wEc&usqp=CAU"group-title="FAX CLIPS",Cantina TV (1080p)
+https://vcp.myplaytv.com/cantinatv/cantinatv/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s124754d.png"group-title="FAX CLIPS",stranafm
+http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
+#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5zdDg7MsGGaqcFXeS0IqVMxVKmM5zdmPEGA&usqp=CAU"group-title="FAX CLIPS",CANAL10
+https://59f2354c05961.streamlock.net:1443/ararutv/_definst_/ararutv/playlist.m3u8
+
+#EXTM3U url-tvg=" http://grade-de-FAX RADIOS.xml "
+ ############## FAX RADIOS ################ # 
+#EXTINF:-1 tvg-id=" iddocanaldeFAX RADIOS " group-title="
+
+#EXTINF:1 tvg-logo="https://img.radios.com.br/radio/lg/radio19243_1668191196.jpg" group-title="FAX RADIOS",Rádio Viola de Ouro Ribeirão Preto / SP - Brasil
+https://hts02.kshost.com.br:9322/live?1679835613105
+#EXTINF:1 tvg-logo="https://www.mgtradio.net/images/radios/sertaneja.jpg" group-title="FAX RADIOS",Rádio Sertaneja MGT RÁDIO
+https://cast.mgtradio.net/radio/8000/aac
+#EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/5u67p5ra2tsn.png" group-title="FAX RADIOS",Rádio Viola Sertaneja Web ao vivo
+https://s17.maxcast.com.br:8669/live
+#EXTINF:1 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/0cc474f7cf02ad2891ecb4f08429ed96.jpg" group-title="FAX RADIOS",Rádio Modão
+https://centova5.transmissaodigital.com:20024/stream/;stream.mp3
+#EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/zw74b5enkz2m.jpg" group-title="FAX RADIOS",Rádio Sertanejo Raiz
+http://station.radionanet.com:8330/1;
+#EXTINF:1 tvg-logo="https://public-rf-upload.minhawebradio.net/1952/mobileicon/3f3e0f499f851f6251df3840ba3c387e.png" group-title="FAX RADIOS",campeirafm
+https://servidor34-3.brlogic.com:8164/live?source=website
+#EXTINF:1 tvg-logo="https://img.radios.com.br/radio/xl/radio29450_1616608955.jpg" group-title="FAX RADIOS",Radio Moda e Viola
+https://live9.livemus.com.br:27068/stream
+#EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/rjwesbezuttg.png" group-title="FAX RADIOS",Rádio Raiz forte
+https://stream-57.zeno.fm/4dzm2padd8zuv?zs=QQ3DU5TfT1q2EydL4_Bisw
+#EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/mqqxwckzptry.png" group-title="FAX RADIOS",Rádio Sertanejo FM
+https://stream-28.zeno.fm/6045t1y3tm0uv?zs=1nnEPMYlR7CfkkP3WPzL-Q
+#EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/bU69gtxk2F.jpg" group-title="FAX RADIOS",Rádio Sertanejo
+https://stm1.mestrestream.xyz:7020/stream
+#EXTINF:1 tvg-logo="https://us0-cdn.onlineradiobox.com/img/fblogo/2/97952.v17.png" group-title="FAX RADIOS",Rádio Sertanejo fm
+https://stream-64.zeno.fm/mvu6q1ex2tzuv?zs=Hw6C6TmETyOQyOt-E532bg
+#EXTINF:1 tvg-logo=""https://static.mytuner.mobi/media/tvos_radios/BN2VHKcKF7.png"group-title="FAX RADIOS",Rádio Radio Sertanejo
+https://servidor.geracaoradios.com/listen/sertaneja/stream
+#EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/yuthE2Qr2f.jpg" group-title="FAX RADIOS",Rádio Sertanejo
+https://live.hunter.fm/sertanejo_normal
+#EXTINF:-1 tvg-logo="https://br.radio.net/images/broadcasts/24/b4/121838/4/c300.png" group-title="FAX RADIOS",Buteco Sertanejo
+https://stream-35.zeno.fm/6kumndewqbruv?zs=3OtcSzddSNiMq5JmistyJQ
+#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/avatars-000013642016-wnt383-t500x500.jpg" group-title="FAX RADIOS",Studio Souto - Sertanejo Universitário
+https://centova5.transmissaodigital.com:20042/stream
+#EXTINF:-1 tvg-logo="https://br.radio.net/images/broadcasts/14/b5/139863/1/c300.png" group-title="FAX RADIOS",Romantismo Sertanejo
+https://stm4.voxhd.com.br:7228/stream/1/
+#EXTINF:-1 tvg-logo="https://br.radio.net/images/broadcasts/9a/57/105638/7/c300.png" group-title="FAX RADIOS",Sertaneja Pop
+https://srv2.andradedeveloper.net/listen/sertanejapop/radio.mp3
+#EXTINF:-1 tvg-logo="https://br.radio.net/images/broadcasts/af/b3/110474/3/c300.png" group-title="FAX RADIOS",Hunter.FM - Sertanejo
+https://live.hunter.fm/sertanejo_high?origin=/country
+#EXTINF:1 tvg-logo="https://www.mgtradio.net/images/radios/sertanejo.jpg" group-title="FAX RADIOS" MGT UNIVERSITÁRIA SERTANEJO UNIVERSITÁRIO 
+https://cast.mgtradio.net/radio/8020/aac
+#EXTINF:1 tvg-logo="https://www.mgtradio.net/images/radios/mpb.jpg" group-title="FAX RADIOS" MGT BRASIL HITS SUCESSOS NACIONAIS 
+https://cast.mgtradio.net/radio/8030/aac
+#EXTINF:1 tvg-logo="https://www.mgtradio.net/images/radios/gospel.jpg" group-title="FAX RADIOS" MGT GOSPEL LOUVOR E ADORAÇÃO
+https://cast.mgtradio.net/radio/8040/aac
+#EXTINF:1 tvg-logo="https://www.mgtradio.net/images/radios/forro.jpg" group-title="FAX RADIOS" MGT FORRÓ  FORROZÃO
+https://cast.mgtradio.net/radio/8050/aac
+#EXTINF:1 tvg-logo="https://www.mgtradio.net/images/radios/country.jpg" group-title="FAX RADIOS" MGT COUNTRY MÚSICA COUNTRY
+https://cast.mgtradio.net/radio/8110/aac
+#EXTINF:1 tvg-logo="https://www.mgtradio.net/images/radios/lovehits.jpg" group-title="FAX RADIOS" MGT LOVE HITS
+https://cast.mgtradio.net/radio/8110/aac
+#EXTINF:1 tvg-logo="https://www.mgtradio.net/images/radios/80.jpg" group-title="FAX RADIOS" MGT 80's ANOS 80
+https://cast.mgtradio.net/radio/8100/aac
+#EXTINF:1 tvg-logo="https://www.mgtradio.net/images/radios/rock.jpg" group-title="FAX RADIOS" MVT MGT ROCK
+https://cast.mgtradio.net/radio/8090/aac
+#EXTINF:1 tvg-logo="https://www.mgtradio.net/images/radios/dance.jpg" group-title="FAX RADIOS" MVT DANCE HITS 
+https://cast.mgtradio.net/radio/8080/aac
+#EXTINF:1 tvg-logo="https://www.mgtradio.net/images/radios/light.jpg" group-title="FAX RADIOS" MGT LIGHT
+https://cast.mgtradio.net/radio/8070/aac
+#EXTINF:1 tvg-logo="https://www.mgtradio.net/images/radios/retro.jpg" group-title="FAX RADIOS"MVT RETRO
+https://cast.mgtradio.net/radio/8060/aac
+#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkPbd8jJiMtD-Kk5surHAyopxgm5fJKvk9Wg&usqp=CAU" group-title="FAX RADIOS"GVT Love hits
+#EXTINF:1 tvg-logo="https://www.mgtradio.net/images/ouvir-radio-online.png" group-title="FAX RADIOS",fm
+https://cast.mgtradio.net/radio/8010/aac
+#EXTINF:1 tvg-logo="https://radiosaovivo.fm/wp-content/uploads/2023/01/conquista-fm-ao-vivo.jpeg" group-title="FAX RADIOS",Rádio Conquista 97.7 FM
+https://stream-51.zeno.fm/hu70hmkcu68uv?zs=2RfZKGMRQDijxwgcNNI6jQ
+#EXTINF:1 tvg-logo="hhttps://radiosaovivo.fm/wp-content/uploads/2022/12/fmodia.jpeg" group-title="FAX RADIOS",FM O Dia
+https://streaming.livespanel.com:20000/live?1672427380155?odiafmrj
+#EXTINF:1 tvg-logo="https://radiosaovivo.fm/wp-content/uploads/2023/01/liberdadefmaovivo.jpeg" group-title="FAX RADIOS",Rádio Liberdade 92.9 FM
+https://8335.brasilstream.com.br/stream?liberdadefmbh
+#EXTINF:1 tvg-logo="https://radiosaovivo.fm/wp-content/uploads/2022/12/itatiaia-ao-vivo.jpeg" group-title="FAX RADIOS",Rádio Itatiaia
+https://8903.brasilstream.com.br/stream?itatiaiabh
+#EXTINF:1 tvg-logo="https://radiosaovivo.fm/wp-content/uploads/2023/01/verdinha-am-ao-vivo.jpeg" group-title="FAX RADIOS",Rádio Verdes Mares 810 AM Verdinha
+https://5a1c76baf08c0.streamlock.net/z18-live/stream/media_w2028614762_17120.mp3?verdesmaresce
+#EXTINF:1 tvg-logo="https://radiosaovivo.fm/wp-content/uploads/2022/12/nativa-fm-ao-vivo.jpeg" group-title="FAX RADIOS",Rádio Nativa FM
+https://24073.live.streamtheworld.com/NATIVA_SPAAC/HLS/5476c6a0-974e-42a7-98da-c47aeb86b716/0/2.aac
+#EXTINF:1 tvg-logo="https://radiosaovivo.fm/wp-content/uploads/2022/12/mix-fm.jpeg" group-title="FAX RADIOS",Rádio Mix FM
+https://26733.live.streamtheworld.com/MIXFM_SAOPAULOAAC.aac
+#EXTINF:1 tvg-logo="https://radiosaovivo.fm/wp-content/uploads/2022/12/89aradiorock.jpg" group-title="FAX RADIOS",Rádio 89 FM A Rádio Rock
+https://22823.live.streamtheworld.com/RADIO_89FMAAC.aac?dist=89fmsp
+#EXTINF:1 tvg-logo="https://radiosaovivo.fm/wp-content/uploads/2023/01/clube-do-para-ao-vivo.jpg" group-title="FAX RADIOS",Rádio Clube do Pará 104.7 FM 670 AM
+https://ice01.kshost.com.br:8000/live?clubdopara
+#EXTINF:1 tvg-logo="https://radiosaovivo.fm/wp-content/uploads/2022/12/saudade-fm-ao-vivo.png" group-title="FAX RADIOS",Rádio Saudade FM
+https://26603.live.streamtheworld.com/SAUDADE_FMAAC.aac?saudadefm
+#EXTINF:1 tvg-logo="https://radiosaovivo.fm/wp-content/uploads/2023/01/metropolitana-fm-ao-vivo.jpeg" group-title="FAX RADIOS",Rádio Metropolitana 98.5 FM
+https://stream-51.zeno.fm/hu70hmkcu68uv?zs=PrElj_OUQMqzfQdxdObDDg
+#EXTINF:1 tvg-logo="https://radiosaovivo.fm/wp-content/uploads/2023/02/rede-hits-ao-vivo.jpeg" group-title="FAX RADIOS",Rádio Hits 99.7 FM
+https://paineldj.com.br:20028/stream?1676339165625
+#EXTINF:1 tvg-logo="https://radiosaovivo.fm/wp-content/uploads/2023/01/energiafmaovivo.jpeg" group-title="FAX RADIOS",Rádio Energia 97.7 FM
+https://streaming.inweb.com.br/energia?1673314020119
+#EXTINF:1 tvg-logo="https://radiosaovivo.fm/wp-content/uploads/2022/12/transamerica-ao-vivo.png" group-title="FAX RADIOS",Rádio Transamérica FM
+https://26603.live.streamtheworld.com/RT_SPAAC.aac?transamericasp
+#EXTINF:1 tvg-logo="https://radiosaovivo.fm/wp-content/uploads/2023/03/radiodisney.jpeg" group-title="FAX RADIOS",Rádio Disney FM 91,3
+https://26493.live.streamtheworld.com/DISNEY_BRA_SP.mp3?1678384501225
+#EXTINF:1 tvg-logo="https://radiosaovivo.fm/wp-content/uploads/2023/03/gayfm_hg_schwarz.jpg" group-title="FAX RADIOS",Rádio Gay FM
+https://icepool.silvacast.com/GAYFM.mp3
+#EXTINF:1 tvg-logo="https://radiosaovivo.fm/wp-content/uploads/2023/02/violafm.jpeg" group-title="FAX RADIOS",Rádio Viola 98.1 FM
+https://f12.fabricahost.com.br/violafm?f=1678634174N01GVB69HJ4SS7HN1Y689M714NE&tid=01GVB69HJ4KZ4DRZSPZDXTR50B
+#EXTINF:1 tvg-logo="https://radiosaovivo.fm/wp-content/uploads/2023/02/violafm.jpeg" group-title="FAX RADIOS",Rádio Viola 98.1 FM
+https://stream-51.zeno.fm/hu70hmkcu68uv?zs=5AewwtnSS6ujwZFKAOpaVA
+#EXTINF:1 tvg-logo="https://radiosaovivo.fm/wp-content/uploads/2023/01/assuncaoamaovivo.jpg" group-title="FAX RADIOS",Rádio Assunção Cearense 620 AM
+https://str.7br.com.br/radio/8170/stream?assuncaocearenseam
+#EXTINF:1 tvg-logo="http://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/antena1.png" group-title="FAX RADIOS",Rádio Rádio Antena 1
+https://streaming-live.rtp.pt/liveradio/antena180a/playlist.m3u8
+#EXTINF:1 tvg-logo="http://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/antena1.png" group-title="FAX RADIOS",Rádio Antena 2
+https://streaming-live.rtp.pt/liveradio/antena280a/playlist.m3u8
+#EXTINF:1 tvg-logo="http://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/antena3.png" group-title="FAX RADIOS",Rádio Antena 3
+https://streaming-live.rtp.pt/liveradio/antena380a/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/radiolusitania.png" group-title="FAX RADIOS",Rádio Lusitânia
+https://streaming-live.rtp.pt/liveradio/lusitania80a/playlist.m3u8
+#EXTINF:1 tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Comercial-Kids.png"group-title="FAX RADIOS",Rádio Comercial Kids
+https://media1.mcr.iol.pt/wrcomercial/rckids.stream/playlist.m3u8
+#EXTINF:1 tvg-logo="https://radiocomercial.iol.pt/images/webradios/wr-brasil.jpg"group-title="FAX RADIOS",Rádio Comercial Brasil
+https://media2.mcr.iol.pt/wrcomercial/rcbrasil.stream/playlist.m3u8
+#EXTINF:1 tvg-logo="https://radiosaovivo.fm/wp-content/uploads/2022/12/saudade-fm-ao-vivo.png"group-title="FAX RADIOS",Rádio -Saudade FM
+https://26603.live.streamtheworld.com/SAUDADE_FMAAC.aac?saudadefm
+#EXTINF:1 tvg-logo="https://radiosaovivo.fm/wp-content/uploads/2022/12/hunterfm.jpg"group-title="FAX RADIOS",Rádio -Hunter FM Pop
+https://26603.live.streamtheworld.com/SAUDADE_FMAAC.aac?saudadefm
+#EXTINF:1 tvg-logo="https://radiosaovivo.fm/wp-content/uploads/2022/12/alpha-fm-ao-vivo.jpeg"group-title="FAX RADIOS",Rádio -Alpha FM
+https://26653.live.streamtheworld.com/RADIO_ALPHAFMAAC.aac?dist=alphasp
+#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/k5ySImeGPgM/maxresdefault.jpg" group-title="FAX RADIOS",Rádio mix
+https://26573.live.streamtheworld.com/MIXFM_SAOPAULOAAC.aac?1649708071542
+#EXTINF:1 tvg-logo="https://sp-ao.shortpixel.ai/client/to_auto,q_lossy,ret_img,w_840,h_440/https://www.srzd.com/wp-content/uploads/2016/12/radio-tupi-840x440.jpg"group-title="FAX RADIOS",Rádio -Super Rádio Tupi
+https://8903.brasilstream.com.br/stream?1649568567935/live
+#EXTINF:1 tvg-logo="hthttps://radiosaovivo.fm/wp-content/uploads/2023/03/Jovem_Pan_FM_Belo_Horizonte_logo_2018_new.png"group-title="FAX RADIOS",Rádio Jovem Pan 99.1 FM
+https://sc4s.cdn.upx.com:8036/stream.mp3?jovempanbh
+#EXTINF:1 tvg-logo="https://radiosaovivo.fm/wp-content/uploads/2022/12/jovempannewsaovivo.jpeg"group-title="FAX RADIOS",Rádio Jovem Pan News
+https://stream-51.zeno.fm/hu70hmkcu68uv?zs=TrMH3bYxR-y6uc0u-XCk4g
+#EXTINF:1 tvg-logo="https://radiosaovivo.fm/wp-content/uploads/2022/12/cbn-sp-ao-vivo.png"group-title="FAX RADIOS",Rádio CBN São Paulo
+https://24383.live.streamtheworld.com/CBN_SPAAC.aac?cbnsp
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/1216891021470072832/DEsMN9Zo_400x400.jpg"group-title="FAX RADIOS",Rádio Bandeirantes
+https://26493.live.streamtheworld.com/RADIOBANDEIRANTESAAC.aac
+#EXTINF:1 tvg-logo="https://radiosaovivo.fm/wp-content/uploads/2022/12/radio-bandeirantes.jpeg"group-title="FAX RADIOS",Rádio  Bandeirantes
+https://26493.live.streamtheworld.com/RADIOBANDEIRANTESAAC/HLS/61a7322d-ad5e-467c-9ae9-284f47dea870/0/1.aac
+#EXTINF:1 tvg-logo="https://radiosaovivo.fm/wp-content/uploads/2022/12/radio-bandeirantes.jpeg" group-title="FAX RADIOS",Rádio Bandeirantes
+https://19293.live.streamtheworld.com/RADIOBANDEIRANTESAAC/HLS/83ea1594-63db-4686-bef3-baf4848b671c/0/2.aac
+#EXTINF:1 tvg-logo="https://radiosaovivo.fm/wp-content/uploads/2022/12/bandnewsfmaovivo.jpeg" group-title="FAX RADIOS",Rádio BandNews FM
+https://15113.live.streamtheworld.com/BANDNEWSFM_SPAAC/HLS/476a75fd-c0b0-4e75-a663-eff9f9ef01ab/0/3.aac
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Jovem_Pan_FM_Marca_2022.jpg/800px-Jovem_Pan_FM_Marca_2022.jpg"group-title="FAX RADIOS",Rádio -Jovem Pan FM
+https://26143.live.streamtheworld.com/JP_SP_FMAAC.aac?1655836765030
+#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/k5ySImeGPgM/maxresdefault.jpg"group-title="FAX RADIOS",Rádio  mix
+https://8923.brasilstream.com.br/stream?1649567398017
+#EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/rcE8RAPGud.jpg"group-title="FAX RADIOS",Rádio Total Hits
+https://stream-57.zeno.fm/bykfgnbuk2zuv?zs=JxT2WT1CR7Wf9YTu7xFnsw
+#EXTINF:1 tvg-logo="https://lumiere-a.akamaihd.net/v1/images/ar_radiodisne_headerhero_2_v2_d8636a83.gif"group-title="FAX RADIOS",RÁDIO DISNEY
+https://20833.live.streamtheworld.com/DISNEY_BRA_SP_ADP/HLS/playlist.m3u8?dist=web-radiodisney
+#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKMSUbw7i5ZeQhh9Q4OonrhW-QtF9PFzuPHf-FmURsbfaU-bQ_zHmpjpAxKZIolqup95g&usqp=CAU"group-title="FAX RADIOS",RÁDIO -Stingray Greatest Hits
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/155/master.m3u8
+#EXTINF:1 tvg-logo="https://a.jsrdn.com/hls/22865/stingray-hit-list/logo_20200720_201905.png"group-title="FAX RADIOS",RÁDIO -Stingray Hit List
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/107/master.m3u8
+#EXTINF:1 tvg-logo="https://smotret.tv/images/stingray-classic-rock.webp"group-title="FAX RADIOS",RÁDIO -Stingray Classic Rock
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/101/master.m3u8
+#EXTINF:1 tvg-logo="https://a.jsrdn.com/hls/22865/stingray-rock-alternative/logo_20200720_202032.png"group-title="FAX RADIOS",RÁDIO -Stingray Rock Alternative
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/102/master.m3u8
+#EXTINF:1 tvg-logo="https://a.jsrdn.com/hls/22865/stingray-pop-adult/logo_20200721_183641.png"group-title="FAX RADIOS",RÁDIO -Stingray Pop Adult
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/104/master.m3u8
+#EXTINF:1 tvg-logo="https://s3-us-west-2.amazonaws.com/klowdtvstorage/herring/images/channels/stingrayMusicUrbanBeats/logo_big.png"group-title="FAX RADIOS",RÁDIO -Stingray Urban Beat
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/133/master.m3u8
+#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjNDEftGBTD1o5SqgRZ7tyOPKcqjLEAsR7O-lTcdRQ9ObiYMhuWhbsogHT9LA-LiA7HA&usqp=CAU"group-title="FAX RADIOS",RÁDIO -Stingray Flashback 70s
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/115/master.m3u8
+#EXTINF:1 tvg-logo="https://a.jsrdn.com/hls/22865/stringray-remember-the-80s/logo_20200720_202251.png"group-title="FAX RADIOS",RÁDIO -Stingray Everything 80s
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/128/master.m3u8
+#EXTINF:1 tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22865/stingray-todays-latin-pop/todays-latin-pop_thumbh_20200718_001031.jpg"group-title="FAX RADIOS",RÁDIO -Stingray Today's Latin Pop
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/190/master.m3u8
+#EXTINF:1 tvg-logo="https://eldorado87.com.br/wp-content/uploads/2022/03/logoeldoradofm-288x300.png"group-title="FAX RADIOS", RÁDIO ELDORADO FM
+http://cast4.audiostream.com.br:8652/mp3
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/722893999531536384/ZiynlZVB_400x400.jpg"group-title="FAX RADIOS",RÁDIO  FM PREMIUM
+http://cast4.audiostream.com.br:8663/mp3
+#EXTINF:1 tvg-logo="https://cdn-profiles.tunein.com/s176373/images/logod.jpg?t=636984330970000000"group-title="FAX RADIOS",RÁDIO  GRENAL FM
+http://cast4.audiostream.com.br:8649/mp3
+#EXTINF:1 tvg-logo="https://play-lh.googleusercontent.com/lePN9a_MzDOxZzYLQ-nf9HjfeOs8Iy96loQ9j7wzsKih_AMJUNUrC8-SqMEoMuaC4S8"group-title="FAX RADIOS",RÁDIO IMBÉ FM
+http://cast4.audiostream.com.br:8660/mp3
+#EXTINF:1 tvg-logo="https://www.radioliberdadefm.net/admin/assets/img/logo.png"group-title="FAX RADIOS",RÁDIO LIBERDADE FM
+http://cast4.audiostream.com.br:8655/mp3
+#EXTINF:1 tvg-logo="https://www.redepampa.com.br/wp-content/uploads/2020/08/radiopamap.png"group-title="FAX RADIOS",RÁDIO  PAMPA FM
+http://cast4.audiostream.com.br:8653/mp3
+#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpoMJ9K8pZJyLAn06h8rS_lQtv8OMZ5zdN2VdKnVubVs1k55Jj4FBA_5P23vQrgEL91NI&usqp=CAU"group-title="FAX RADIOS",RÁDIO  FM XANGRI-LÁ
+http://cast4.audiostream.com.br:8659/mp3
+#EXTINF:1 tvg-logo="https://us0-cdn.onlineradiobox.com/img/l/8/17558.v4.png" group-title="FAX RADIOS",RÁDIO  FM TRAMANDAÍ
+http://cast4.audiostream.com.br:8658/mp3
+#EXTINF:1 tvg-logo="https://img.radios.com.br/radio/xl/radio63305_1530732391.jpg"group-title="FAX RADIOS",RÁDIO  FM EXPRESS
+http://cast4.audiostream.com.br:8648/mp3
+#EXTINF:1 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/f646e0a61338f95e080b07fee382aebf.jpg"group-title="FAX RADIOS",RÁDIO  FM TORRES
+http://cast4.audiostream.com.br:8661/mp3
+#EXTINF:1 tvg-logo="https://img.radios.com.br/radio/xl/radio28375_1634155269.jpg"group-title="FAX RADIOS",RÁDIO  FM CIDREIRA
+http://cast4.audiostream.com.br:8657/mp3
+#EXTINF:1 tvg-logo="https://br.radio.net/images/broadcasts/e1/c1/11166/1/c300.png"group-title="FAX RADIOS",RÁDIO -Bossa Nova
+http://6d9a.webradio.upx.net.br:9974/stream
+#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuPbwBOGbH1yKzaZvWKZOS0-P-zazGIB1fm74KZq0kh2uTlUxCQY-8vxkT4zUFmIkaad0&usqp=CAU" group-title="FAX RADIOS",RÁDIO Pagode
+http://6d9a.webradio.upx.net.br:9061/stream
+#EXTINF:1 tvg-logo="https://spaceks.net/sites/radiotransmundial.com.br/images/pubs/user_1428162818.jpg"group-title="FAX RADIOS",RÁDIO -Anos 2000
+http://6d9a.webradio.upx.net.br:9940/stream
+#EXTINF:1 tvg-logo="http://4.bp.blogspot.com/-k22tp5gL0xI/VPXyEp7lK9I/AAAAAAAAMqA/8EQ66dQ3-Es/s1600/Rock%2B4.gif" group-title="FAX RADIOS",RÁDIO Pop Rock
+http://6d9a.webradio.upx.net.br:8016/stream
+#EXTINF:1 tvg-logo="https://4.bp.blogspot.com/-jyklfMBqaJg/XRzPNEov2FI/AAAAAAAAAQw/Zc0jGQvjzIYXPTHs2dLc25eI18B0f3QTwCLcBGAs/s1600/0783cb_354d4952e97f4a3893289b47880e6d90_mv2.gif"group-title="FAX RADIOS",RÁDIO -Festa
+http://6d9a.webradio.upx.net.br:9070/stream
+#EXTINF:1 tvg-logo="https://3.bp.blogspot.com/-YGKJeePCwNs/VtM75OvajtI/AAAAAAAAO6g/LJzBf4Yoj9k/s1600/gifs-gifs-animados-de-musica-45.gif"group-title="FAX RADIOS",RÁDIO -Música Clássica
+http://6d9a.webradio.upx.net.br:9970/stream
+#EXTINF:1 tvg-logo="https://thumbs.gfycat.com/MixedNauticalBaiji-max-1mb.gif" group-title="FAX RADIOS",RÁDIO New Rock
+http://6d9a.webradio.upx.net.br:8028/stream
+#EXTINF:1 tvg-logo="https://media.tenor.com/-W-RL6pe8bMAAAAC/pop-music.gif"group-title="FAX RADIOS",RÁDIO -Pop Hits
+http://6d9a.webradio.upx.net.br:9046/stream
+#EXTINF:1 tvg-logo="https://i.gifer.com/origin/88/88b25338ceb18ee87f5285444fa32a8c_w200.gif"group-title="FAX RADIOS",RÁDIO -Metal
+http://6d9a.webradio.upx.net.br:9898/stream
+#EXTINF:1 tvg-logo="http://4.bp.blogspot.com/-jRV9TmUKLC8/TpuHXEXIk2I/AAAAAAAAAOs/uu4yw5CkbYo/s1600/tumblr_lt55vlR5Le1qj5dhoo1_500.gif"group-title="FAX RADIOS",RÁDIO -Trilhas Sonoras
+http://6d9a.webradio.upx.net.br:9896/stream
+#EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/k67T6EMRSn.png" group-title="FAX RADIOS",RÁDIO  Tropical Recife 
+http://198.24.165.180:9762/;
+#EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/EAPBpnsJms.png" group-title="FAX RADIOS",RÁDIO Laser 93.3
+https://8577.brasilstream.com.br/stream
+#EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/N7bnLhqXLx.png"group-title="FAX RADIOS",RÁDIO  Massa 92.9
+https://stm01.virtualcast.com.br:8000/live
+#EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/Kqh77h3b9Q.jpeg" group-title="FAX RADIOS",RÁDIO nativa 95,3
+https://22203.live.streamtheworld.com/NATIVA_SP_SC
+#EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/AsB9TVKAXE.png"group-title="FAX RADIOS",RÁDIO nativa 89,3
+https://cast4.hoost.com.br:20143/stream
+#EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/DyS4RwKRdU.png"group-title="FAX RADIOS",RÁDIO  comeia fm
+https://stm01.virtualcast.com.br:8138/live
+#EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/uqkpsltjbkap.png" group-title="FAX RADIOS",RÁDIO  coluna
+http://198.24.165.180:9626/;
+#EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/n4QyzNyx9K.png"group-title="FAX RADIOS",RÁDIO  MIX 101,1
+https://26483.live.streamtheworld.com/MIXFM_CAMPINASAAC_SC?dist=mix-web-player-radio-ao-vivo
+#EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/yuthE2Qr2f.jpg" group-title="FAX RADIOS",RÁDIO  Sertanejo
+https://live.hunter.fm/sertanejo_normal
+#EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/2vsnexczagaq.png" group-title="FAX RADIOS",-Radio TOP FM 
+http://cloud1.cdnseguro.com:16806/stream/;
+#EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/Eu2G9eQ36E.png" group-title="FAX RADIOS",Radio Recife 
+http://zoeweb.net:8046/;stream.mp3
+#EXTINF:1 tvg-logo="https://cdn.webrad.io/images/logos/radiosaovivo-net/99-1-fm-sorriso.png"group-title="FAX RADIOS",-Rádio Sorriso 99.1 FM
+https://paineldj5.com.br:2213/stream
+#EXTINF:1 tvg-logo="https://www.convencaomais.com.br/uploads/images/2022/05/radio-convencao-a.png" group-title="FAX RADIOS",Rádio Convenção AM Itu
+https://8745.brasilstream.com.br/stream
+#EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/FpqRnhw87q.png"group-title="FAX RADIOS",-Rádio Olinda ao vivo
+http://cast2.hoost.com.br:9158/stream
+#EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/H7q6ZumdE8.png"group-title="FAX RADIOS",-Radio Pagode 90
+https://stream-26.zeno.fm/hfqaq0bhfg8uv?zs=rVn0nvHOSgS39RVNWgIj5w
+#EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/5evedut6pcg5.png"group-title="FAX RADIOS",-América Country
+https://ais-sa2.cdnstream1.com/1976_128.mp3
+#EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/ehdgsdbnhw39.png"group-title="FAX RADIOS",-América Country
+https://streaming.radiostreamlive.com/radiocountrylive_devices
+#EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/dSyuKxX7Qv.jpg"group-title="FAX RADIOS",-Nativa 97,5
+https://centova5.transmissaodigital.com:20060/;
+#EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/Pxg5HKzJcb.png" group-title="FAX RADIOS",Radio Globo
+https://14553.live.streamtheworld.com/RADIO_GLOBO_RJAAC_SC?dist=radioaovivocom
+#EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/cmea2aw7mzsg.jpg" group-title="FAX RADIOS",radio Hits
+https://ice1.streeemer.com:8020/radio.mp3
+#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz79rkDMGfDunAWKq3vG3vz1kDcVHYaT4y0g&usqp=CAU"group-title="FAX RADIOS",-METROPOLITANA FM AO VIVO
+http://ice.paineldj3.com.br:8004/stream
+#EXTINF:1 tvg-logo="https://www.radio.pt/images/broadcasts/c7/7c/32812/c300.png"group-title="FAX RADIOS",-Antena 1
+http://antena1.newradio.it/stream2?ext=.mp3
+#EXTINF:1 tvg-logo="https://www.radio.pt/images/broadcasts/c7/7c/32812/c300.png"group-title="FAX RADIOS",Itapoan FM
+http://streaming.livecenter.com.br:9300/stream/1/
+#EXTINF:1 tvg-logo="https://www.radio.pt/images/broadcasts/c7/7c/32812/c300.png"group-title="FAX RADIOS",Atlantida FM
+http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/playlist.m3u8?wowzasessionid=960888114
+#EXTINF:1 tvg-logo="https://www.radio.pt/images/broadcasts/c7/7c/32812/c300.png"group-title="FAX RADIOS",Guaiba FM
+http://cast4.audiostream.com.br:8007/app
+#EXTINF:1 tvg-logo="https://www.radio.pt/images/broadcasts/c7/7c/32812/c300.png"group-title="FAX RADIOS",S30 MaxCast Web Rádio
+http://s30.maxcast.com.br:8190/live
+#EXTINF:1 tvg-logo="https://www.radio.pt/images/broadcasts/c7/7c/32812/c300.png"group-title="FAX RADIOS",RÁDIO 104 FM
+http://cast4.audiostream.com.br:8651/mp3
+#EXTINF:1 tvg-logo="https://www.radio.pt/images/broadcasts/c7/7c/32812/c300.png"group-title="FAX RADIOS",RÁDIO CAIÇARA FM/AM
+http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/playlist.m3u8
+#EXTINF:1 tvg-logo="https://www.radio.pt/images/broadcasts/c7/7c/32812/c300.png"group-title="FAX RADIOS",RÁDIO ELDORADO FM
+http://noasrv.caster.fm:10136/stream
+#EXTINF:1 tvg-logo="https://www.radio.pt/images/broadcasts/c7/7c/32812/c300.png"group-title="FAX RADIOS",Anos 90
+http://6d9a.webradio.upx.net.br:9940/stream?Arlen
+#EXTINF:1 tvg-logo="https://www.radio.pt/images/broadcasts/c7/7c/32812/c300.png"group-title="FAX RADIOS",Música Clássica
+http://6d9a.webradio.upx.net.br:9970/stream?Arlen
+#EXTINF:1 tvg-logo="https://www.radio.pt/images/broadcasts/c7/7c/32812/c300.png"group-title="FAX RADIOS",Pagode
+http://6d9a.webradio.upx.net.br:9061/stream?Arlen
+#EXTINF:1 tvg-logo="https://www.radio.pt/images/broadcasts/c7/7c/32812/c300.png"group-title="FAX RADIOS",Pop Hits
+http://6d9a.webradio.upx.net.br:9046/stream?Arlen
+#EXTINF:1 tvg-logo="https://www.radio.pt/images/broadcasts/c7/7c/32812/c300.png"group-title="FAX RADIOS",Pop Rock
+http://6d9a.webradio.upx.net.br:8016/stream?Arlen
+#EXTINF:1 tvg-logo="https://www.radio.pt/images/broadcasts/c7/7c/32812/c300.png"group-title="FAX RADIOS",Trilhas Sonoras
+http://6d9a.webradio.upx.net.br:9896/stream?Arlen
+#EXTINF:1 tvg-logo="https://www.radio.pt/images/broadcasts/c7/7c/32812/c300.png"group-title="FAX RADIOS",chitãozinho e xororó
+https://play.prod.gcp.vix.services/chitaozinho-sinfonico_pt/chitaozinho-sinfonico_pt_1-1/thumbs_320x180.m3u8
+#EXTINF:1 tvg-logo="https://www.radio.pt/images/broadcasts/c7/7c/32812/c300.png"group-title="FAX RADIOS",UFRGS
+http://radioaovivo.ufrgs.br:8000/stream.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fPeO9hi.png"group-title="FAX RADIOS",BandNews FM | Goiânia GO
+https://5a2b083e9f360.streamlock.net/nexdial/nexdial.stream/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vfYMS0k.png"group-title="FAX RADIOS",Cultura do Pará - Brasil
+https://www.portalcultura.com.br/playerhtml/funtelpa/radio_funtelpa/playlist.m3u8
+#EXTINF:1 tvg-logo="https://img.radios.com.br/radio/xl/radio14157_1509361504.jpg"group-title="FAX RADIOS",UFRGS 
+http://radioaovivo.ufrgs.br:8000/stream.mp3
+#EXTINF:1 tvg-logo="https://radiosaovivo.fm/wp-content/uploads/2022/12/radio-jornal-recife-ao-vivo.png"group-title="FAX RADIOS",Jornal Recife
+https://stream-51.zeno.fm/hu70hmkcu68uv?zs=1luUNZMbQimyuEiLp9UE5g
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio11839_1658250334.png" group-title="FAX RADIOS",Clube 105.5 FM
+https://8157.brasilstream.com.br/stream?1678118110353
+#EXTINF:-1 tvg-logo="https://us0-cdn.onlineradiobox.com/img/l/2/63872.v7.png" group-title="FAX RADIOS",Amparo FM RECIFE
+https://10.stmip.net:10544/stream
+#EXTINF:-1 tvg-logo="https://us0-cdn.onlineradiobox.com/img/l/5/64445.v9.png" group-title="FAX RADIOS",Música Brega
+https://stream-22.zeno.fm/ked21357trquv?zs=OqqKREW7Rh2vEp-XaNBpZw
+#EXTINF:-1 tvg-logo="https://us0-cdn.onlineradiobox.com/img/l/8/76838.v8.png" group-title="FAX RADIOS",Recife FM
+https://ssl.zoeweb.net/proxy/recifefm?mp=/stream
+#EXTINF:-1 tvg-logo="https://us0-cdn.onlineradiobox.com/img/l/3/76683.v5.png" group-title="FAX RADIOS",Blog do Léo Lima
+https://player.painelvox.com/player-ssl/8340/;
+
+#EXTM3U url-tvg=" http://grade-de-Dinho Santos.xml "
+ ############## Dinho Santos ################ # 
+#EXTINF:-1 tvg-id=" iddocanaldeDinho Santos " group-title="
+
+#EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/7a43fb0e9bc6cf78a15982da081477c4.gif"group-title="Dinho Santos", -Sozinho na Rua
+https://video.wixstatic.com/video/c634a0_066356af468640b493c842fc204d42b5/360p/mp4/file.mp4
+#EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/7a43fb0e9bc6cf78a15982da081477c4.gif"group-title="Dinho Santos", -A Culpa é sua
+https://video.wixstatic.com/video/c634a0_499f021c57424cbda4f193174decd33d/720p/mp4/file.mp4
+#EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/7a43fb0e9bc6cf78a15982da081477c4.gif"group-title="Dinho Santos", -7 dias da semana
+https://video.wixstatic.com/video/c634a0_bb3cac51cacc4d8581027be2dc1ca135/720p/mp4/file.mp4
+#EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/7a43fb0e9bc6cf78a15982da081477c4.gif"group-title="Dinho Santos", -O Cara Errado
+https://video.wixstatic.com/video/c634a0_43b2a803bcd34217b79e33c8f839e453/720p/mp4/file.mp4
+#EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/7a43fb0e9bc6cf78a15982da081477c4.gif"group-title="Dinho Santos", -Pagina Virada
+https://video.wixstatic.com/video/c634a0_e7921fa014bf44f99c438b30a743c665/360p/mp4/file.mp4
+#EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/7a43fb0e9bc6cf78a15982da081477c4.gif"group-title="Dinho Santos", -ao vivo
+https://video.wixstatic.com/video/c634a0_e7921fa014bf44f99c438b30a743c665/360p/mp4/file.mp4
+
+#EXTM3U url-tvg=" http://grade-de-traduçao.xml "
+ ############## traduçao ################ # 
+#EXTINF:-1 tvg-id=" iddocanaldetraduçao " group-title="
+
+#EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif"group-title="traduçao", -BERLIN TRADUÇAO ALEX SILVA
+https://music.wixstatic.com/preview/c634a0_64ba8f681d844fd9934fbec63ebc9bf9-128.mp3
+#EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif"group-title="traduçao", -I should have known better
+https://music.wixstatic.com/preview/c634a0_bd81dd16096945288529769194799293-128.mp3
+#EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" group-title="traduçao",-Please Forgive Me PERDOE
+https://music.wixstatic.com/preview/c634a0_10b4b08cda154e84b72c1aa938907e2c-128.mp3
+#EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif"group-title="traduçao", -Chicago - Hard To Say I'm Sorry 
+https://music.wixstatic.com/preview/c634a0_5f9c1128b36348019325d96d741723b7-128.mp3
+#EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif"group-title="traduçao", -Nothing Love Out Of Nothing At All Air Suply
+https://music.wixstatic.com/preview/c634a0_6b5d9f2a9cd54f5d90af41ccf584407f-128.mp3
+#EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif"group-title="traduçao", -Peter Cetera - The Glory Of Love (Gloria do Amor)
+https://music.wixstatic.com/preview/c634a0_897c99843dde4f8faa8a0d80fbc96b8d-128.mp3
+#EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif"group-title="traduçao", -Please Don´t Go - KC & The Sunshine Band
+https://music.wixstatic.com/preview/c634a0_75d01079218b4d8695c330c36beea0dd-128.mp3
+#EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif"group-title="traduçao", -Roxette Spending My Time PERDENDO MEU TEMPO
+https://music.wixstatic.com/preview/c634a0_75d01079218b4d8695c330c36beea0dd-128.mp3
+##EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif"group-title="traduçao", -Richard Marx - Right Here Waiting 
+https://music.wixstatic.com/preview/c634a0_75d01079218b4d8695c330c36beea0dd-128.mp3
+#EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif"group-title="traduçao", -We Are The World 
+https://music.wixstatic.com/preview/c634a0_75d01079218b4d8695c330c36beea0dd-128.mp3
+#EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif"group-title="traduçao", -BRAY ADAMS HEVEM 
+https://music.wixstatic.com/preview/c634a0_75d01079218b4d8695c330c36beea0dd-128.mp3
+#EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif"group-title="traduçao", -Dire Straits So FAR Away-
+https://music.wixstatic.com/preview/c634a0_75d01079218b4d8695c330c36beea0dd-128.mp3
+#EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif"group-title="traduçao", -Aprecie a vida
+https://music.wixstatic.com/preview/c634a0_75d01079218b4d8695c330c36beea0dd-128.mp3
+#EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif"group-title="traduçao", -Eu Ainda Credito em seus olhos
+https://music.wixstatic.com/preview/c634a0_75d01079218b4d8695c330c36beea0dd-128.mp3
+#EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif"group-title="traduçao", -Rem - Everybody Hurts
+https://music.wixstatic.com/preview/c634a0_75d01079218b4d8695c330c36beea0dd-128.mp3
+#EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif"group-title="traduçao", -London London
+https://music.wixstatic.com/preview/c634a0_75d01079218b4d8695c330c36beea0dd-128.mp3
+#EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif"group-title="traduçao", -We Are The World
+https://music.wixstatic.com/preview/c634a0_75d01079218b4d8695c330c36beea0dd-128.mp3
+
+#EXTM3U url-tvg=" http://grade-de-Receitas Culinaria.xml "
+ ############## Receitas Culinaria ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeReceitas Culinaria " group-title="
+
+
+#EXTINF:1 tvg-logo="https://cordcuttersnews.com/wp-content/uploads/2020/09/tastemade.jpg"group-title="ReceitasCulinaria",tastemade Brasil (1080p)
+https://tastemade-pt16intl-samsungbrazil.amagi.tv/playlist.m3u8
+#EXTINF:1 tvg-logo="https://www.abcdacomunicacao.com.br/wp-content/uploads/Tastemade-LOGO_BLACK-1-1024x609.jpg"group-title="ReceitasCulinaria",Tastemade (1080p)
+https://tastemade-freetv16min-plex.amagi.tv/hls/amagi_hls_data_tastemade-tastemadefreetv16-plex/CDN/playlist.m3u8
+#EXTINF:1 tvg-logo="https://www.guiadasemana.com.br/contentFiles/system/pictures/2015/6/136914/original/masterchef.jpg"group-title="ReceitasCulinaria",TV Cocina
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d0fbaa8742fa3093899da/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d8d0fbaa8742fa3093899da&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=956&terminate=false&userId=
+#EXTINF:1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZjA2NDBhZTctZmI5NC00NWUxLThiYjEtZDYyNDdmZjZlNWIyXkEyXkFqcGdeQXVyMTUyMjEyMjMx._V1_.jpg"group-title="ReceitasCulinaria",TV America's Test Kitchen
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e84f54a82f05300080e6746/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e84f54a82f05300080e6746&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=605&terminate=false&userId=
+#EXTINF:1 tvg-logo="https://img.freepik.com/vetores-gratis/fonte-estilizada-da-tipografia-bon-appetit-desenhada-a-mao_53876-101096.jpg"group-title="ReceitasCulinaria",bon appétit
+https://bonappetit-samsung.amagi.tv/playlist.m3u8
+#EXTINF:1 tvg-logo="https://i.pinimg.com/736x/0f/3b/61/0f3b6129ae9176003f38f46d2162fc87--chocolate-branco-creme.jpg"group-title="ReceitasCulinaria",Coxinhas de leite ninho de dar água na boca
+https://play.prod.gcp.vix.services/coxinha-ninho_pt/coxinha-ninho_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://www.receitasagora.com.br/wp-content/uploads/2020/08/receita-de-bolo-gelado-de-leite-ninho-com-morango-e1596605193743.jpg"group-title="ReceitasCulinaria",Receita de bolo gelado de morango
+https://play.prod.gcp.vix.services/strawberry-cake_pt/strawberry-cake_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://blog.savegnago.com.br/wp-content/uploads/2023/01/GettyImages-484863388-scaled.jpg"group-title="ReceitasCulinaria",Receitas incríveis com maçã e pera
+https://play.prod.gcp.vix.services/apples-pears_pt/apples-pears_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://img.imageboss.me/experience/cdn/animation:true/wp-content/uploads/2020/04/Receita-Tastamade-Brownie-Header.jpg"group-title="ReceitasCulinaria",3 receitas de brownie imperdíveis
+https://play.prod.gcp.vix.services/brownie-recipes_pt/brownie-recipes_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://claudia.abril.com.br/wp-content/uploads/2020/02/receita-taca-creme-iogurte-com-frutas1.jpg"group-title="ReceitasCulinaria",Sobremesas com iogurte e frutas
+https://play.prod.gcp.vix.services/yogurt-ideas_pt/yogurt-ideas_pt_1-1/play_v1_hls_720p.m3u8
+#EXTINF:1 tvg-logo="https://www.comidaereceitas.com.br/wp-content/uploads/2020/11/bolinho_feijoada-780x451.jpg"group-title="ReceitasCulinaria",Receita de bolinho de feijoada igual de boteco
+https://play.prod.gcp.vix.services/bolinho-feijoada_pt/bolinho-feijoada_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://www.receiteria.com.br/wp-content/uploads/pappardelle-ao-molho-branco-com-camarao-640x480.jpg"group-title="ReceitasCulinaria",Receitas com camarão: fáceis e irresistíveis
+https://play.prod.gcp.vix.services/shrimp-recipes_pt/shrimp-recipes_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://st1.uvnimg.com/c1/9e/43bb46bc4975bd1399492f324650/receita-lasanha-pao-1222-1400x800.jpg"group-title="ReceitasCulinaria",Lasanha caprese com pão italiano
+https://play.prod.gcp.vix.services/italian-lasagna_pt/italian-lasagna_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://img.itdg.com.br/tdg/images/blog/uploads/2018/01/chips-de-legumes.jpg"group-title="ReceitasCulinaria",Petiscos deliciosos e saudáveis
+https://play.prod.gcp.vix.services/healthy-snacks_pt/healthy-snacks_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://marolacomcarambola.com.br/wp-content/uploads/2015/12/batata-laminada-9.jpg"group-title="ReceitasCulinaria",Receitas com batatas que você não conhecia
+https://play.prod.gcp.vix.services/potato-chips_pt/potato-chips_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://xtudoreceitas.com/wp-content/uploads/Tapioca-Simples.jpg"group-title="ReceitasCulinaria",Receitas com tapioca para fugir do básico
+https://play.prod.gcp.vix.services/tapioca-recipes_pt/tapioca-recipes_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://receitatodahora.com.br/wp-content/uploads/2022/06/bolo-nha-benta.jpg"group-title="ReceitasCulinaria",Receita caseira de Nhá Benta
+https://play.prod.gcp.vix.services/nha-benta_pt/nha-benta_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://i.pinimg.com/236x/81/a5/4e/81a54efa6f05aa8e6d8130a658161e98--mocha-coffee.jpg"group-title="ReceitasCulinaria",3 receitas deliciosas feitas com café
+https://play.prod.gcp.vix.services/coffee-drinks_pt/coffee-drinks_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/GPvIj1ySfvU/maxresdefault.jpg"group-title="ReceitasCulinaria",Como fazer café decorado como um profissional
+https://play.prod.gcp.vix.services/coffee-decoration_pt/coffee-decoration_pt_1-1/play_v1_hls_1080p.m3u8
+
+
+#EXTM3U url-tvg="http://grade-de-Séries | Amazon Prime Video.xml"
+############## Séries | Amazon Prime Video ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeSéries | Amazon Prime Video" group-title="
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Diabolik Lovers S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cJ0Y0W0koYMEhLmCFj9g0bdD3OK.jpg" group-title="Séries | Amazon Prime Video",Diabolik Lovers S01 E01
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810830.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Diabolik Lovers S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cJ0Y0W0koYMEhLmCFj9g0bdD3OK.jpg" group-title="Séries | Amazon Prime Video",Diabolik Lovers S01 E02
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810831.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Diabolik Lovers S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cJ0Y0W0koYMEhLmCFj9g0bdD3OK.jpg" group-title="Séries | Amazon Prime Video",Diabolik Lovers S01 E03
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810832.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Diabolik Lovers S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cJ0Y0W0koYMEhLmCFj9g0bdD3OK.jpg" group-title="Séries | Amazon Prime Video",Diabolik Lovers S01 E04
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810833.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Diabolik Lovers S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cJ0Y0W0koYMEhLmCFj9g0bdD3OK.jpg" group-title="Séries | Amazon Prime Video",Diabolik Lovers S01 E05
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810834.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Diabolik Lovers S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cJ0Y0W0koYMEhLmCFj9g0bdD3OK.jpg" group-title="Séries | Amazon Prime Video",Diabolik Lovers S01 E06
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810835.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Diabolik Lovers S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cJ0Y0W0koYMEhLmCFj9g0bdD3OK.jpg" group-title="Séries | Amazon Prime Video",Diabolik Lovers S01 E07
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810836.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Diabolik Lovers S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cJ0Y0W0koYMEhLmCFj9g0bdD3OK.jpg" group-title="Séries | Amazon Prime Video",Diabolik Lovers S01 E08
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810837.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Diabolik Lovers S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cJ0Y0W0koYMEhLmCFj9g0bdD3OK.jpg" group-title="Séries | Amazon Prime Video",Diabolik Lovers S01 E09
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810838.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Diabolik Lovers S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cJ0Y0W0koYMEhLmCFj9g0bdD3OK.jpg" group-title="Séries | Amazon Prime Video",Diabolik Lovers S01 E10
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810839.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Diabolik Lovers S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cJ0Y0W0koYMEhLmCFj9g0bdD3OK.jpg" group-title="Séries | Amazon Prime Video",Diabolik Lovers S01 E11
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810840.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Diabolik Lovers S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cJ0Y0W0koYMEhLmCFj9g0bdD3OK.jpg" group-title="Séries | Amazon Prime Video",Diabolik Lovers S01 E12
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810841.mp4
+
+#EXTM3U url-tvg="http://grade-de-Séries | Amazon Prime Video.xml"
+############## Séries | Amazon Prime Video ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeSéries | Amazon Prime Video" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="Amor Moderno S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ikVsUrNwVDOSp7Lpp1y3nn2kMrC.jpg" group-title="Séries | Amazon Prime Video",Amor Moderno S01 E01
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810165.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor Moderno S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nBUbsb4VaAVD7eZIH7ARTV32wTR.jpg" group-title="Séries | Amazon Prime Video",Amor Moderno S01 E02
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810166.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor Moderno S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jFx9E8JWffMzF4rlkLecGZ3wMbb.jpg" group-title="Séries | Amazon Prime Video",Amor Moderno S01 E03
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810167.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor Moderno S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wiYN5LwukMKqC50vA9AivWZZY9o.jpg" group-title="Séries | Amazon Prime Video",Amor Moderno S01 E04
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810168.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor Moderno S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qpQuWRZIdb9ddUvc1y5ZBvFamwN.jpg" group-title="Séries | Amazon Prime Video",Amor Moderno S01 E05
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810169.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor Moderno S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AicPvu6qTWOqO74mMyoiYhNU9ve.jpg" group-title="Séries | Amazon Prime Video",Amor Moderno S01 E06
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810170.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor Moderno S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e17aes3ux3JZJ6XaYloUN5n85lT.jpg" group-title="Séries | Amazon Prime Video",Amor Moderno S01 E07
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810171.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor Moderno S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lT5kYKJzoSzDCZXafYVchfElhYe.jpg" group-title="Séries | Amazon Prime Video",Amor Moderno S01 E08
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810172.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor Moderno S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iSKCyMDI5RGC5efKrrkhZycw4GV.jpg" group-title="Séries | Amazon Prime Video",Amor Moderno S02 E01
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810173.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor Moderno S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iSKCyMDI5RGC5efKrrkhZycw4GV.jpg" group-title="Séries | Amazon Prime Video",Amor Moderno S02 E02
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810174.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor Moderno S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iSKCyMDI5RGC5efKrrkhZycw4GV.jpg" group-title="Séries | Amazon Prime Video",Amor Moderno S02 E03
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810175.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor Moderno S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iSKCyMDI5RGC5efKrrkhZycw4GV.jpg" group-title="Séries | Amazon Prime Video",Amor Moderno S02 E04
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810176.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor Moderno S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iSKCyMDI5RGC5efKrrkhZycw4GV.jpg" group-title="Séries | Amazon Prime Video",Amor Moderno S02 E05
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810177.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor Moderno S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iSKCyMDI5RGC5efKrrkhZycw4GV.jpg" group-title="Séries | Amazon Prime Video",Amor Moderno S02 E06
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810178.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor Moderno S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iSKCyMDI5RGC5efKrrkhZycw4GV.jpg" group-title="Séries | Amazon Prime Video",Amor Moderno S02 E07
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810179.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor Moderno S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iSKCyMDI5RGC5efKrrkhZycw4GV.jpg" group-title="Séries | Amazon Prime Video",Amor Moderno S02 E08
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810180.mp4
+
+#EXTM3U url-tvg="http://grade-de-Séries | Amazon Prime Video.xml"
+############## Séries | Amazon Prime Video ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeSéries | Amazon Prime Video" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="Alex Rider S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nqWQP0Y8GCtlnytl9fh7kMBgH5O.jpg" group-title="Séries | Amazon Prime Video",Alex Rider S01 E01
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809838.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alex Rider S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xUL4CvIoxASBfhvFFIHrB5N0Gl6.jpg" group-title="Séries | Amazon Prime Video",Alex Rider S01 E02
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809839.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alex Rider S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/OJIboVYtgj900euZigAyXrOrLZ.jpg" group-title="Séries | Amazon Prime Video",Alex Rider S01 E03
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809840.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alex Rider S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ouJW70LQuKc3jMWyLwDpo2eXurV.jpg" group-title="Séries | Amazon Prime Video",Alex Rider S01 E04
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809841.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alex Rider S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yDMSm55nkWBgJdm7uthEAK0SwDa.jpg" group-title="Séries | Amazon Prime Video",Alex Rider S01 E05
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809842.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alex Rider S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jPaONi8l84yoEKziXT5G6TdCZoL.jpg" group-title="Séries | Amazon Prime Video",Alex Rider S01 E06
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809843.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alex Rider S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ycwXvtKTjhUF957sRRWFgQACnur.jpg" group-title="Séries | Amazon Prime Video",Alex Rider S01 E07
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809844.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alex Rider S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vzbpDrEeiDvSCYLBWRF2vlI15f3.jpg" group-title="Séries | Amazon Prime Video",Alex Rider S01 E08
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809845.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alex Rider S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7VkzkvA0XckUClWrlkt4fnmTrkL.jpg" group-title="Séries | Amazon Prime Video",Alex Rider S02 E01
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809846.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alex Rider S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7VkzkvA0XckUClWrlkt4fnmTrkL.jpg" group-title="Séries | Amazon Prime Video",Alex Rider S02 E02
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809847.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alex Rider S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7VkzkvA0XckUClWrlkt4fnmTrkL.jpg" group-title="Séries | Amazon Prime Video",Alex Rider S02 E03
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809848.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alex Rider S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7VkzkvA0XckUClWrlkt4fnmTrkL.jpg" group-title="Séries | Amazon Prime Video",Alex Rider S02 E04
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809849.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alex Rider S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7VkzkvA0XckUClWrlkt4fnmTrkL.jpg" group-title="Séries | Amazon Prime Video",Alex Rider S02 E05
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809850.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alex Rider S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7VkzkvA0XckUClWrlkt4fnmTrkL.jpg" group-title="Séries | Amazon Prime Video",Alex Rider S02 E06
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809851.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alex Rider S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7VkzkvA0XckUClWrlkt4fnmTrkL.jpg" group-title="Séries | Amazon Prime Video",Alex Rider S02 E07
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809852.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alex Rider S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7VkzkvA0XckUClWrlkt4fnmTrkL.jpg" group-title="Séries | Amazon Prime Video",Alex Rider S02 E08
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809853.mp4
+
+#EXTM3U url-tvg="http://grade-de-Séries | Netflix.xml"
+############## Séries | Netflix ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeSéries | Netflix" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="Absentia S01 E01" tvg-logo="http://urlon.me/dXZ" group-title="Séries | Amazon Prime Video",Absentia S01 E01
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809612.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Absentia S01 E02" tvg-logo="http://urlon.me/dXg" group-title="Séries | Amazon Prime Video",Absentia S01 E02
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809613.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Absentia S01 E03" tvg-logo="http://urlon.me/d9S" group-title="Séries | Amazon Prime Video",Absentia S01 E03
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809614.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Absentia S01 E04" tvg-logo="http://urlon.me/d9E" group-title="Séries | Amazon Prime Video",Absentia S01 E04
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809615.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Absentia S01 E05" tvg-logo="http://urlon.me/d9H" group-title="Séries | Amazon Prime Video",Absentia S01 E05
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809616.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Absentia S01 E06" tvg-logo="http://urlon.me/d9L" group-title="Séries | Amazon Prime Video",Absentia S01 E06
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809617.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Absentia S01 E07" tvg-logo="http://urlon.me/d9n" group-title="Séries | Amazon Prime Video",Absentia S01 E07
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809618.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Absentia S01 E08" tvg-logo="http://urlon.me/d94" group-title="Séries | Amazon Prime Video",Absentia S01 E08
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809619.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Absentia S01 E09" tvg-logo="http://urlon.me/d9b" group-title="Séries | Amazon Prime Video",Absentia S01 E09
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809620.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Absentia S01 E10" tvg-logo="http://urlon.me/d9o" group-title="Séries | Amazon Prime Video",Absentia S01 E10
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809621.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Absentia S02 E01" tvg-logo="http://urlon.me/dXJ" group-title="Séries | Amazon Prime Video",Absentia S02 E01
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809622.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Absentia S02 E02" tvg-logo="http://urlon.me/dXT" group-title="Séries | Amazon Prime Video",Absentia S02 E02
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809623.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Absentia S02 E03" tvg-logo="http://urlon.me/dXX" group-title="Séries | Amazon Prime Video",Absentia S02 E03
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809624.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Absentia S02 E04" tvg-logo="http://urlon.me/dX9" group-title="Séries | Amazon Prime Video",Absentia S02 E04
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809625.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Absentia S02 E05" tvg-logo="http://urlon.me/dX5" group-title="Séries | Amazon Prime Video",Absentia S02 E05
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809626.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Absentia S02 E06" tvg-logo="http://urlon.me/dXO" group-title="Séries | Amazon Prime Video",Absentia S02 E06
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809627.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Absentia S02 E07" tvg-logo="http://urlon.me/dXd" group-title="Séries | Amazon Prime Video",Absentia S02 E07
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809628.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Absentia S02 E08" tvg-logo="http://urlon.me/dXh" group-title="Séries | Amazon Prime Video",Absentia S02 E08
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809629.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Absentia S02 E09" tvg-logo="http://urlon.me/dX6" group-title="Séries | Amazon Prime Video",Absentia S02 E09
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809630.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Absentia S02 E10" tvg-logo="http://urlon.me/ZgYMkR" group-title="Séries | Amazon Prime Video",Absentia S02 E10
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809631.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Absentia S03 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oKxEPNgXtz8truWnR2Dmd62B3aU.jpg" group-title="Séries | Amazon Prime Video",Absentia S03 E01
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809632.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Absentia S03 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nn3hDDedSTzZifsHg29D06bwq9S.jpg" group-title="Séries | Amazon Prime Video",Absentia S03 E02
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809633.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Absentia S03 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4HBTG4ySji9DT6DH7sjORiyAkVx.jpg" group-title="Séries | Amazon Prime Video",Absentia S03 E03
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809634.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Absentia S03 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nvQGYNuCttnPJVTxvFtcjV0htQd.jpg" group-title="Séries | Amazon Prime Video",Absentia S03 E04
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809635.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Absentia S03 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kEEN9S40aKWjfBwWIGfD5FnJ8I6.jpg" group-title="Séries | Amazon Prime Video",Absentia S03 E05
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809636.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Absentia S03 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cUysNyARAhVeCICfBMQ2cA5Uw8W.jpg" group-title="Séries | Amazon Prime Video",Absentia S03 E06
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809637.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Absentia S03 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hApSvkabcJxrzKF90NtjucsP59E.jpg" group-title="Séries | Amazon Prime Video",Absentia S03 E07
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809638.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Absentia S03 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sQxHO8Hr83uujlPxvorDA8FDpr5.jpg" group-title="Séries | Amazon Prime Video",Absentia S03 E08
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809639.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Absentia S03 E09" tvg-logo="http://urlon.me/ZgYMkR" group-title="Séries | Amazon Prime Video",Absentia S03 E09
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809640.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Absentia S03 E10" tvg-logo="http://urlon.me/ZgYMkR" group-title="Séries | Amazon Prime Video",Absentia S03 E10
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809641.mp4
+
+#EXTM3U url-tvg="http://grade-de-Séries | Netflix.xml"
+############## Séries | Netflix ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeSéries | Netflix" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="Alto Mar S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dJ6VQOLt5hGrsCi5ZWCpJ7GL1Tc.jpg" group-title="Séries | Netflix",Alto Mar S01 E01
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810112.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alto Mar S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Aed6HKFGqeDClCOY82yMQLWnzAZ.jpg" group-title="Séries | Netflix",Alto Mar S01 E02
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810113.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alto Mar S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qXBo46SQ6L3CfjXwlSYCv5xYUrA.jpg" group-title="Séries | Netflix",Alto Mar S01 E03
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810114.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alto Mar S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lJQ5fESh0gaNd5bPp8sSNRdc275.jpg" group-title="Séries | Netflix",Alto Mar S01 E04
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810115.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alto Mar S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jMcvLTAZBBCZpW19rn5Mtz3cnZ3.jpg" group-title="Séries | Netflix",Alto Mar S01 E05
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810116.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alto Mar S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tt5kmHhDOTWZXHg6blWz64QVFxj.jpg" group-title="Séries | Netflix",Alto Mar S01 E06
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810117.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alto Mar S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jVq5Cqt6KjfUh8IceNwplodlPvh.jpg" group-title="Séries | Netflix",Alto Mar S01 E07
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810118.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alto Mar S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tyFtRCfIb9z6avDeQ6QRId9wGgy.jpg" group-title="Séries | Netflix",Alto Mar S01 E08
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810119.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alto Mar S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4zBaFN8QDCXfX0cniHJGxqmObeI.jpg" group-title="Séries | Netflix",Alto Mar S02 E01
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810120.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alto Mar S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/10n7kOlLXBWNlaOcMkBIQhGxNfx.jpg" group-title="Séries | Netflix",Alto Mar S02 E02
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810121.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alto Mar S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sk2KKvfKFr02pY4hOuUBXVgH0xr.jpg" group-title="Séries | Netflix",Alto Mar S02 E03
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810122.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alto Mar S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zlEo28gkQNkh2fXMbxJGjdRFkWn.jpg" group-title="Séries | Netflix",Alto Mar S02 E04
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810123.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alto Mar S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j7Eq1zn8EpxNIeCvB17WiFANI2a.jpg" group-title="Séries | Netflix",Alto Mar S02 E05
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810124.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alto Mar S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wj0H9JE5TB4cK4ZzOMyAypyUglj.jpg" group-title="Séries | Netflix",Alto Mar S02 E06
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810125.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alto Mar S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7nq6gdjR20b0eRDrvYGbMbn1BbS.jpg" group-title="Séries | Netflix",Alto Mar S02 E07
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810126.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alto Mar S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mBTW22xiQPFTBXugTiBnpfHDAOq.jpg" group-title="Séries | Netflix",Alto Mar S02 E08
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810127.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alto Mar S03 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c27VIbMWAfKKjhbjvadM0eulRk6.jpg" group-title="Séries | Netflix",Alto Mar S03 E01
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810128.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alto Mar S03 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bDhYhuXhDz3pHDua3VhMaH1RQVO.jpg" group-title="Séries | Netflix",Alto Mar S03 E02
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810129.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alto Mar S03 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rRsCcL0bpiyF0RJeiotJhQaPN48.jpg" group-title="Séries | Netflix",Alto Mar S03 E03
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810130.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alto Mar S03 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b0zD9xRPBQ9CPThnn9ytUkeVRit.jpg" group-title="Séries | Netflix",Alto Mar S03 E04
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810131.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alto Mar S03 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z05z8CiXcRWxR39FW2FtDcnCPxZ.jpg" group-title="Séries | Netflix",Alto Mar S03 E05
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810132.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alto Mar S03 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wS4OnDrjUIhisNU5rp9aEUFBkie.jpg" group-title="Séries | Netflix",Alto Mar S03 E06
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810133.mp4
+
+#EXTM3U url-tvg="http://grade-de-Séries | Netflix.xml"
+############## Séries | Netflix ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeSéries | Netflix" group-title="
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Altered Carbon S01 E01" tvg-logo="http://urlon.me/6GI" group-title="Séries | Netflix",Altered Carbon S01 E01
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810094.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Altered Carbon S01 E02" tvg-logo="http://urlon.me/6GV" group-title="Séries | Netflix",Altered Carbon S01 E02
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810095.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Altered Carbon S01 E03" tvg-logo="http://urlon.me/6GC" group-title="Séries | Netflix",Altered Carbon S01 E03
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810096.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Altered Carbon S01 E04" tvg-logo="http://urlon.me/6GW" group-title="Séries | Netflix",Altered Carbon S01 E04
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810097.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Altered Carbon S01 E05" tvg-logo="http://urlon.me/6GD" group-title="Séries | Netflix",Altered Carbon S01 E05
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810098.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Altered Carbon S01 E06" tvg-logo="http://urlon.me/6Gp" group-title="Séries | Netflix",Altered Carbon S01 E06
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810099.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Altered Carbon S01 E07" tvg-logo="http://urlon.me/6Gu" group-title="Séries | Netflix",Altered Carbon S01 E07
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810100.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Altered Carbon S01 E08" tvg-logo="http://urlon.me/6GR" group-title="Séries | Netflix",Altered Carbon S01 E08
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810101.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Altered Carbon S01 E09" tvg-logo="http://urlon.me/6G2" group-title="Séries | Netflix",Altered Carbon S01 E09
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810102.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Altered Carbon S01 E10" tvg-logo="http://urlon.me/6Gs" group-title="Séries | Netflix",Altered Carbon S01 E10
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810103.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Altered Carbon S02 E01" tvg-logo="http://urlon.me/ZgYYkn" group-title="Séries | Netflix",Altered Carbon S02 E01
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810104.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Altered Carbon S02 E02" tvg-logo="http://urlon.me/ZgYYkL" group-title="Séries | Netflix",Altered Carbon S02 E02
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810105.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Altered Carbon S02 E03" tvg-logo="http://urlon.me/ZgYYkH" group-title="Séries | Netflix",Altered Carbon S02 E03
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810106.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Altered Carbon S02 E04" tvg-logo="http://urlon.me/ZgYYkE" group-title="Séries | Netflix",Altered Carbon S02 E04
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810107.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Altered Carbon S02 E05" tvg-logo="http://urlon.me/ZgYYkS" group-title="Séries | Netflix",Altered Carbon S02 E05
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810108.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Altered Carbon S02 E06" tvg-logo="http://urlon.me/ZgYYfg" group-title="Séries | Netflix",Altered Carbon S02 E06
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810109.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Altered Carbon S02 E07" tvg-logo="http://urlon.me/ZgYYfZ" group-title="Séries | Netflix",Altered Carbon S02 E07
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810110.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Altered Carbon S02 E08" tvg-logo="http://urlon.me/ZgYYf6" group-title="Séries | Netflix",Altered Carbon S02 E08
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810111.mp4
+
+
+#EXTM3U url-tvg="http://grade-de-Séries | Netflix.xml"
+############## Séries | Netflix ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeSéries | Netflix" group-title="
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Amizade Dolorida S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o9KTSIyR05CIi7sDbXVaRxEe2HZ.jpg" group-title="Séries | Netflix",Amizade Dolorida S01 E01
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810134.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amizade Dolorida S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ns82NolVJGvrv8RfO2kOA1XDz1O.jpg" group-title="Séries | Netflix",Amizade Dolorida S01 E02
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810135.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amizade Dolorida S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/49IN2hLewIDGLxPJ72WsYNg6EPn.jpg" group-title="Séries | Netflix",Amizade Dolorida S01 E03
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810136.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amizade Dolorida S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q1ozvWJuURKer9dJyWOCb9hqGOX.jpg" group-title="Séries | Netflix",Amizade Dolorida S01 E04
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810137.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amizade Dolorida S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kKFaUkf2T1BS07Ww8hKXFhileBH.jpg" group-title="Séries | Netflix",Amizade Dolorida S01 E05
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810138.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amizade Dolorida S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3oPLOIxf2YeL59wv37LGgVk06XW.jpg" group-title="Séries | Netflix",Amizade Dolorida S01 E06
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810139.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amizade Dolorida S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xBO75aaMeZARiP01gRQPQNAHVLR.jpg" group-title="Séries | Netflix",Amizade Dolorida S01 E07
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810140.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amizade Dolorida S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k6FGQxGJ8KrzAKNZ4FMVGAKLBW4.jpg" group-title="Séries | Netflix",Amizade Dolorida S02 E01
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810141.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amizade Dolorida S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k6FGQxGJ8KrzAKNZ4FMVGAKLBW4.jpg" group-title="Séries | Netflix",Amizade Dolorida S02 E02
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810142.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amizade Dolorida S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k6FGQxGJ8KrzAKNZ4FMVGAKLBW4.jpg" group-title="Séries | Netflix",Amizade Dolorida S02 E03
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810143.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amizade Dolorida S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k6FGQxGJ8KrzAKNZ4FMVGAKLBW4.jpg" group-title="Séries | Netflix",Amizade Dolorida S02 E04
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810144.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amizade Dolorida S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k6FGQxGJ8KrzAKNZ4FMVGAKLBW4.jpg" group-title="Séries | Netflix",Amizade Dolorida S02 E05
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810145.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amizade Dolorida S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k6FGQxGJ8KrzAKNZ4FMVGAKLBW4.jpg" group-title="Séries | Netflix",Amizade Dolorida S02 E06
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810146.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amizade Dolorida S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k6FGQxGJ8KrzAKNZ4FMVGAKLBW4.jpg" group-title="Séries | Netflix",Amizade Dolorida S02 E07
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810147.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amizade Dolorida S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k6FGQxGJ8KrzAKNZ4FMVGAKLBW4.jpg" group-title="Séries | Netflix",Amizade Dolorida S02 E08
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810148.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor e Anarquia S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nBp9lG3mKqliftYRqs5eoVvyYay.jpg" group-title="Séries | Netflix",Amor e Anarquia S01 E01
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810149.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor e Anarquia S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AgQ5JTXHrAO1GbutTabsrEec8cf.jpg" group-title="Séries | Netflix",Amor e Anarquia S01 E02
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810150.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor e Anarquia S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4eXgNPiLSGi7O9ZqRQeCwau59mI.jpg" group-title="Séries | Netflix",Amor e Anarquia S01 E03
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810151.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor e Anarquia S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3tYazOOTWAVJGtt0rvapTcg4OIR.jpg" group-title="Séries | Netflix",Amor e Anarquia S01 E04
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810152.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor e Anarquia S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hAIY3edIvGTt0xcDAQa1t3Gp56l.jpg" group-title="Séries | Netflix",Amor e Anarquia S01 E05
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810153.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor e Anarquia S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8U4NZhSjV0hf9joO8cSPbbytlL2.jpg" group-title="Séries | Netflix",Amor e Anarquia S01 E06
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810154.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor e Anarquia S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kgp1GMbHvs63UAAh6VgKfdthvwR.jpg" group-title="Séries | Netflix",Amor e Anarquia S01 E07
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810155.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor e Anarquia S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Sx4ux6LRXFFFYAW67M7RmUrNeC.jpg" group-title="Séries | Netflix",Amor e Anarquia S01 E08
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810156.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor e Anarquia S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9l6246bl2s4NjxCsTG4EqHCAFnN.jpg" group-title="Séries | Netflix",Amor e Anarquia S02 E01
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810157.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor e Anarquia S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9l6246bl2s4NjxCsTG4EqHCAFnN.jpg" group-title="Séries | Netflix",Amor e Anarquia S02 E02
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810158.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor e Anarquia S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9l6246bl2s4NjxCsTG4EqHCAFnN.jpg" group-title="Séries | Netflix",Amor e Anarquia S02 E03
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810159.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor e Anarquia S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9l6246bl2s4NjxCsTG4EqHCAFnN.jpg" group-title="Séries | Netflix",Amor e Anarquia S02 E04
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810160.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor e Anarquia S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9l6246bl2s4NjxCsTG4EqHCAFnN.jpg" group-title="Séries | Netflix",Amor e Anarquia S02 E05
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810161.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor e Anarquia S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9l6246bl2s4NjxCsTG4EqHCAFnN.jpg" group-title="Séries | Netflix",Amor e Anarquia S02 E06
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810162.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor e Anarquia S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9l6246bl2s4NjxCsTG4EqHCAFnN.jpg" group-title="Séries | Netflix",Amor e Anarquia S02 E07
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810163.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor e Anarquia S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9l6246bl2s4NjxCsTG4EqHCAFnN.jpg" group-title="Séries | Netflix",Amor e Anarquia S02 E08
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810164.mp4
+
+
+#EXTM3U url-tvg="http://grade-de-Séries | Netflix.xml"
+############## Séries | Netflix ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeSéries | Netflix" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="Wellmania S01 E01" tvg-logo="http://5ce.co:80/images/c3F9aMUSwQovZkpEBynxBxN3keo_big.jpg" group-title="Séries | Netflix",Wellmania S01 E01
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2940215.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Wellmania S01 E02" tvg-logo="http://5ce.co:80/images/c3F9aMUSwQovZkpEBynxBxN3keo_big.jpg" group-title="Séries | Netflix",Wellmania S01 E02
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2940216.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Wellmania S01 E03" tvg-logo="http://5ce.co:80/images/c3F9aMUSwQovZkpEBynxBxN3keo_big.jpg" group-title="Séries | Netflix",Wellmania S01 E03
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2940217.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Wellmania S01 E04" tvg-logo="http://5ce.co:80/images/c3F9aMUSwQovZkpEBynxBxN3keo_big.jpg" group-title="Séries | Netflix",Wellmania S01 E04
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2940218.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Wellmania S01 E05" tvg-logo="http://5ce.co:80/images/c3F9aMUSwQovZkpEBynxBxN3keo_big.jpg" group-title="Séries | Netflix",Wellmania S01 E05
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2940219.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Wellmania S01 E06" tvg-logo="http://5ce.co:80/images/c3F9aMUSwQovZkpEBynxBxN3keo_big.jpg" group-title="Séries | Netflix",Wellmania S01 E06
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2940220.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Wellmania S01 E07" tvg-logo="http://5ce.co:80/images/c3F9aMUSwQovZkpEBynxBxN3keo_big.jpg" group-title="Séries | Netflix",Wellmania S01 E07
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2940221.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Wellmania S01 E08" tvg-logo="http://5ce.co:80/images/c3F9aMUSwQovZkpEBynxBxN3keo_big.jpg" group-title="Séries | Netflix",Wellmania S01 E08
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2940222.mp4
+
+#EXTM3U url-tvg="http://grade-de-Séries | Netflix.xml"
+############## Séries | Netflix ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeSéries | Netflix" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="A Ilha S01 E01" tvg-logo="http://5ce.co:80/images/mYqxw3XH70DBArWeKxjMhJLekyv_big.jpg" group-title="Séries | Netflix",A Ilha S01 E01
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2940223.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Ilha S01 E02" tvg-logo="http://5ce.co:80/images/mYqxw3XH70DBArWeKxjMhJLekyv_big.jpg" group-title="Séries | Netflix",A Ilha S01 E02
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2940224.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Ilha S01 E03" tvg-logo="http://5ce.co:80/images/mYqxw3XH70DBArWeKxjMhJLekyv_big.jpg" group-title="Séries | Netflix",A Ilha S01 E03
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2940225.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Ilha S01 E04" tvg-logo="http://5ce.co:80/images/mYqxw3XH70DBArWeKxjMhJLekyv_big.jpg" group-title="Séries | Netflix",A Ilha S01 E04
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2940226.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Ilha S01 E05" tvg-logo="http://5ce.co:80/images/mYqxw3XH70DBArWeKxjMhJLekyv_big.jpg" group-title="Séries | Netflix",A Ilha S01 E05
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2940227.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Ilha S01 E06" tvg-logo="http://5ce.co:80/images/mYqxw3XH70DBArWeKxjMhJLekyv_big.jpg" group-title="Séries | Netflix",A Ilha S01 E06
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2940228.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Ilha S01 E07" tvg-logo="http://5ce.co:80/images/mYqxw3XH70DBArWeKxjMhJLekyv_big.jpg" group-title="Séries | Netflix",A Ilha S01 E07
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2940229.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Ilha S01 E08" tvg-logo="http://5ce.co:80/images/mYqxw3XH70DBArWeKxjMhJLekyv_big.jpg" group-title="Séries | Netflix",A Ilha S01 E08
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2940230.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Ilha S01 E09" tvg-logo="http://5ce.co:80/images/mYqxw3XH70DBArWeKxjMhJLekyv_big.jpg" group-title="Séries | Netflix",A Ilha S01 E09
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2940231.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Ilha S01 E10" tvg-logo="http://5ce.co:80/images/mYqxw3XH70DBArWeKxjMhJLekyv_big.jpg" group-title="Séries | Netflix",A Ilha S01 E10
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2940232.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Ilha S01 E11" tvg-logo="http://5ce.co:80/images/mYqxw3XH70DBArWeKxjMhJLekyv_big.jpg" group-title="Séries | Netflix",A Ilha S01 E11
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2940233.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Ilha S01 E12" tvg-logo="http://5ce.co:80/images/mYqxw3XH70DBArWeKxjMhJLekyv_big.jpg" group-title="Séries | Netflix",A Ilha S01 E12
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2940234.mp4
+
+#EXTM3U url-tvg="http://grade-de-Séries | Netflix.xml"
+############## Séries | Netflix ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeSéries | Netflix" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="Bridgerton S01 E01" tvg-logo="http://5ce.me:80/images/qaewZKBKmXjb4ZfFBb1LCug6BE8_big.jpg" group-title="Séries | Netflix",Bridgerton S01 E01
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810212.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bridgerton S01 E02" tvg-logo="http://5ce.me:80/images/qaewZKBKmXjb4ZfFBb1LCug6BE8_big.jpg" group-title="Séries | Netflix",Bridgerton S01 E02
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810213.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bridgerton S01 E03" tvg-logo="http://5ce.me:80/images/qaewZKBKmXjb4ZfFBb1LCug6BE8_big.jpg" group-title="Séries | Netflix",Bridgerton S01 E03
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810214.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bridgerton S01 E04" tvg-logo="http://5ce.me:80/images/qaewZKBKmXjb4ZfFBb1LCug6BE8_big.jpg" group-title="Séries | Netflix",Bridgerton S01 E04
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810215.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bridgerton S01 E05" tvg-logo="http://5ce.me:80/images/qaewZKBKmXjb4ZfFBb1LCug6BE8_big.jpg" group-title="Séries | Netflix",Bridgerton S01 E05
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810216.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bridgerton S01 E06" tvg-logo="http://5ce.me:80/images/qaewZKBKmXjb4ZfFBb1LCug6BE8_big.jpg" group-title="Séries | Netflix",Bridgerton S01 E06
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810217.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bridgerton S01 E07" tvg-logo="http://5ce.me:80/images/qaewZKBKmXjb4ZfFBb1LCug6BE8_big.jpg" group-title="Séries | Netflix",Bridgerton S01 E07
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810218.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bridgerton S01 E08" tvg-logo="http://5ce.me:80/images/qaewZKBKmXjb4ZfFBb1LCug6BE8_big.jpg" group-title="Séries | Netflix",Bridgerton S01 E08
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810219.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bridgerton S02 E01" tvg-logo="http://5ce.me:80/images/qaewZKBKmXjb4ZfFBb1LCug6BE8_big.jpg" group-title="Séries | Netflix",Bridgerton S02 E01
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810220.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bridgerton S02 E02" tvg-logo="http://5ce.me:80/images/qaewZKBKmXjb4ZfFBb1LCug6BE8_big.jpg" group-title="Séries | Netflix",Bridgerton S02 E02
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810221.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bridgerton S02 E03" tvg-logo="http://5ce.me:80/images/qaewZKBKmXjb4ZfFBb1LCug6BE8_big.jpg" group-title="Séries | Netflix",Bridgerton S02 E03
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810222.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bridgerton S02 E04" tvg-logo="http://5ce.me:80/images/qaewZKBKmXjb4ZfFBb1LCug6BE8_big.jpg" group-title="Séries | Netflix",Bridgerton S02 E04
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810223.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bridgerton S02 E05" tvg-logo="http://5ce.me:80/images/qaewZKBKmXjb4ZfFBb1LCug6BE8_big.jpg" group-title="Séries | Netflix",Bridgerton S02 E05
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810224.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bridgerton S02 E06" tvg-logo="http://5ce.me:80/images/qaewZKBKmXjb4ZfFBb1LCug6BE8_big.jpg" group-title="Séries | Netflix",Bridgerton S02 E06
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810225.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bridgerton S02 E07" tvg-logo="http://5ce.me:80/images/qaewZKBKmXjb4ZfFBb1LCug6BE8_big.jpg" group-title="Séries | Netflix",Bridgerton S02 E07
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810226.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bridgerton S02 E08" tvg-logo="http://5ce.me:80/images/qaewZKBKmXjb4ZfFBb1LCug6BE8_big.jpg" group-title="Séries | Netflix",Bridgerton S02 E08
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810227.mp4
+
+#EXTM3U url-tvg="http://grade-de-Séries | Netflix.xml"
+############## Séries | Netflix ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeSéries | Netflix" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="Ozark S01 E01" tvg-logo="http://urlon.me/ZgYYsZ" group-title="Séries | Netflix",Ozark S01 E01
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810228.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ozark S01 E02" tvg-logo="http://urlon.me/ZgYYs6" group-title="Séries | Netflix",Ozark S01 E02
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810229.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ozark S01 E03" tvg-logo="http://urlon.me/ZgYYsh" group-title="Séries | Netflix",Ozark S01 E03
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810230.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ozark S01 E04" tvg-logo="http://urlon.me/ZgYYsd" group-title="Séries | Netflix",Ozark S01 E04
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810231.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ozark S01 E05" tvg-logo="http://urlon.me/ZgYYsO" group-title="Séries | Netflix",Ozark S01 E05
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810232.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ozark S01 E06" tvg-logo="http://urlon.me/ZgYYs5" group-title="Séries | Netflix",Ozark S01 E06
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810233.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ozark S01 E07" tvg-logo="http://urlon.me/ZgYYs9" group-title="Séries | Netflix",Ozark S01 E07
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810234.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ozark S01 E08" tvg-logo="http://urlon.me/ZgYYsX" group-title="Séries | Netflix",Ozark S01 E08
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810235.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ozark S01 E09" tvg-logo="http://urlon.me/ZgYYsT" group-title="Séries | Netflix",Ozark S01 E09
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810236.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ozark S01 E10" tvg-logo="http://urlon.me/ZgYYsJ" group-title="Séries | Netflix",Ozark S01 E10
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810237.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ozark S02 E01" tvg-logo="http://urlon.me/ZgYYsm" group-title="Séries | Netflix",Ozark S02 E01
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810238.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ozark S02 E02" tvg-logo="http://urlon.me/ZgYYsU" group-title="Séries | Netflix",Ozark S02 E02
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810239.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ozark S02 E03" tvg-logo="http://urlon.me/ZgYYsP" group-title="Séries | Netflix",Ozark S02 E03
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810240.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ozark S02 E04" tvg-logo="http://urlon.me/ZgYYs3" group-title="Séries | Netflix",Ozark S02 E04
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810241.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ozark S02 E05" tvg-logo="http://urlon.me/ZgYYs1" group-title="Séries | Netflix",Ozark S02 E05
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810242.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ozark S02 E06" tvg-logo="http://urlon.me/ZgYYsY" group-title="Séries | Netflix",Ozark S02 E06
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810243.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ozark S02 E07" tvg-logo="http://urlon.me/ZgYYsM" group-title="Séries | Netflix",Ozark S02 E07
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810244.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ozark S02 E08" tvg-logo="http://urlon.me/ZgYYsG" group-title="Séries | Netflix",Ozark S02 E08
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810245.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ozark S02 E09" tvg-logo="http://urlon.me/ZgYYs7" group-title="Séries | Netflix",Ozark S02 E09
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810246.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ozark S02 E10" tvg-logo="http://urlon.me/ZgYYsF" group-title="Séries | Netflix",Ozark S02 E10
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810247.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ozark S03 E01" tvg-logo="http://urlon.me/ZgYYsv" group-title="Séries | Netflix",Ozark S03 E01
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810248.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ozark S03 E02" tvg-logo="http://urlon.me/ZgYYsQ" group-title="Séries | Netflix",Ozark S03 E02
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810249.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ozark S03 E03" tvg-logo="http://urlon.me/ZgYYsy" group-title="Séries | Netflix",Ozark S03 E03
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810250.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ozark S03 E04" tvg-logo="http://urlon.me/ZgYYsq" group-title="Séries | Netflix",Ozark S03 E04
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810251.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ozark S03 E05" tvg-logo="http://urlon.me/ZgYYsj" group-title="Séries | Netflix",Ozark S03 E05
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810252.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ozark S03 E06" tvg-logo="http://urlon.me/ZgYYsl" group-title="Séries | Netflix",Ozark S03 E06
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810253.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ozark S03 E07" tvg-logo="http://urlon.me/ZgYYsK" group-title="Séries | Netflix",Ozark S03 E07
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810254.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ozark S03 E08" tvg-logo="http://urlon.me/ZgYYsk" group-title="Séries | Netflix",Ozark S03 E08
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810255.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ozark S03 E09" tvg-logo="http://urlon.me/ZgYYsf" group-title="Séries | Netflix",Ozark S03 E09
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810256.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ozark S03 E10" tvg-logo="http://urlon.me/ZgYYs8" group-title="Séries | Netflix",Ozark S03 E10
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810257.mp4
+
+#EXTM3U url-tvg="http://grade-de-Séries | Netflix.xml"
+############## Séries | Netflix ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeSéries | Netflix" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="Ozark S04 E01" tvg-logo="http://5ce.co:80/images/epUO5w9nRmozR0iWCFwChT3ha6j_big.jpg" group-title="Séries | Netflix",Ozark S04 E01
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810258.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ozark S04 E02" tvg-logo="http://5ce.co:80/images/epUO5w9nRmozR0iWCFwChT3ha6j_big.jpg" group-title="Séries | Netflix",Ozark S04 E02
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810259.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ozark S04 E03" tvg-logo="http://5ce.co:80/images/epUO5w9nRmozR0iWCFwChT3ha6j_big.jpg" group-title="Séries | Netflix",Ozark S04 E03
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810260.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ozark S04 E04" tvg-logo="http://5ce.co:80/images/epUO5w9nRmozR0iWCFwChT3ha6j_big.jpg" group-title="Séries | Netflix",Ozark S04 E04
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810261.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ozark S04 E05" tvg-logo="http://5ce.co:80/images/epUO5w9nRmozR0iWCFwChT3ha6j_big.jpg" group-title="Séries | Netflix",Ozark S04 E05
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810262.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ozark S04 E06" tvg-logo="http://5ce.co:80/images/epUO5w9nRmozR0iWCFwChT3ha6j_big.jpg" group-title="Séries | Netflix",Ozark S04 E06
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810263.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ozark S04 E07" tvg-logo="http://5ce.co:80/images/epUO5w9nRmozR0iWCFwChT3ha6j_big.jpg" group-title="Séries | Netflix",Ozark S04 E07
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810264.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ozark S04 E08" tvg-logo="http://5ce.co:80/images/epUO5w9nRmozR0iWCFwChT3ha6j_big.jpg" group-title="Séries | Netflix",Ozark S04 E08
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810265.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ozark S04 E09" tvg-logo="http://5ce.co:80/images/epUO5w9nRmozR0iWCFwChT3ha6j_big.jpg" group-title="Séries | Netflix",Ozark S04 E09
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810266.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ozark S04 E10" tvg-logo="http://5ce.co:80/images/epUO5w9nRmozR0iWCFwChT3ha6j_big.jpg" group-title="Séries | Netflix",Ozark S04 E10
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810267.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ozark S04 E11" tvg-logo="http://5ce.co:80/images/epUO5w9nRmozR0iWCFwChT3ha6j_big.jpg" group-title="Séries | Netflix",Ozark S04 E11
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810268.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ozark S04 E12" tvg-logo="http://5ce.co:80/images/epUO5w9nRmozR0iWCFwChT3ha6j_big.jpg" group-title="Séries | Netflix",Ozark S04 E12
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810269.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ozark S04 E13" tvg-logo="http://5ce.co:80/images/epUO5w9nRmozR0iWCFwChT3ha6j_big.jpg" group-title="Séries | Netflix",Ozark S04 E13
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810270.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ozark S04 E14" tvg-logo="http://5ce.co:80/images/epUO5w9nRmozR0iWCFwChT3ha6j_big.jpg" group-title="Séries | Netflix",Ozark S04 E14
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810271.mp4
+
+#EXTM3U url-tvg="http://grade-de-Séries | Netflix.xml"
+############## Séries | Netflix ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeSéries | Netflix" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="Despercebida S01 E01" tvg-logo="http://5ce.co:80/images/xdua55TZuk0pAQebhTWwjDJ22st_big.jpg" group-title="Séries | Netflix",Despercebida S01 E01
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2940245.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Despercebida S01 E02" tvg-logo="http://5ce.co:80/images/xdua55TZuk0pAQebhTWwjDJ22st_big.jpg" group-title="Séries | Netflix",Despercebida S01 E02
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2940246.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Despercebida S01 E03" tvg-logo="http://5ce.co:80/images/xdua55TZuk0pAQebhTWwjDJ22st_big.jpg" group-title="Séries | Netflix",Despercebida S01 E03
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2940247.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Despercebida S01 E04" tvg-logo="http://5ce.co:80/images/xdua55TZuk0pAQebhTWwjDJ22st_big.jpg" group-title="Séries | Netflix",Despercebida S01 E04
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2940248.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Despercebida S01 E05" tvg-logo="http://5ce.co:80/images/xdua55TZuk0pAQebhTWwjDJ22st_big.jpg" group-title="Séries | Netflix",Despercebida S01 E05
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2940249.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Despercebida S01 E06" tvg-logo="http://5ce.co:80/images/xdua55TZuk0pAQebhTWwjDJ22st_big.jpg" group-title="Séries | Netflix",Despercebida S01 E06
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2940250.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Despercebida S01 E07" tvg-logo="http://5ce.co:80/images/xdua55TZuk0pAQebhTWwjDJ22st_big.jpg" group-title="Séries | Netflix",Despercebida S01 E07
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2940251.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Despercebida S01 E08" tvg-logo="http://5ce.co:80/images/xdua55TZuk0pAQebhTWwjDJ22st_big.jpg" group-title="Séries | Netflix",Despercebida S01 E08
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2940252.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Despercebida S01 E09" tvg-logo="http://5ce.co:80/images/xdua55TZuk0pAQebhTWwjDJ22st_big.jpg" group-title="Séries | Netflix",Despercebida S01 E09
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2940253.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Despercebida S01 E10" tvg-logo="http://5ce.co:80/images/xdua55TZuk0pAQebhTWwjDJ22st_big.jpg" group-title="Séries | Netflix",Despercebida S01 E10
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2940254.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Despercebida S01 E11" tvg-logo="http://5ce.co:80/images/xdua55TZuk0pAQebhTWwjDJ22st_big.jpg" group-title="Séries | Netflix",Despercebida S01 E11
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2940255.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Despercebida S01 E12" tvg-logo="http://5ce.co:80/images/xdua55TZuk0pAQebhTWwjDJ22st_big.jpg" group-title="Séries | Netflix",Despercebida S01 E12
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2940256.mp4
+
+#EXTM3U url-tvg="http://grade-de-Séries | Netflix.xml"
+############## Séries | Netflix ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeSéries | Netflix" group-title="
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Hi Score Girl S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nq1yvmxRWfyGfHTXBswpmC01m7.jpg" group-title="Séries | Netflix",Hi Score Girl S01 E01
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811909.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hi Score Girl S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p7FMhTdL7zMasVxzEJF3Hy6PX4O.jpg" group-title="Séries | Netflix",Hi Score Girl S01 E02
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811910.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hi Score Girl S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fYQepfPVAcws0rV6OZZhPccrILR.jpg" group-title="Séries | Netflix",Hi Score Girl S01 E03
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811911.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hi Score Girl S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhBxuvFJaiWzzKRihGOJHbHru7V.jpg" group-title="Séries | Netflix",Hi Score Girl S01 E04
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811912.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hi Score Girl S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pyhCV5cCA1MM6hUXjYu5wuBVwuu.jpg" group-title="Séries | Netflix",Hi Score Girl S01 E05
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811913.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hi Score Girl S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uuiFtTrJhfNEKWgqLWB8K9AQ8gk.jpg" group-title="Séries | Netflix",Hi Score Girl S01 E06
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811914.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hi Score Girl S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zZP6JojeIyOhBa2iFhiVpoBoUmS.jpg" group-title="Séries | Netflix",Hi Score Girl S01 E07
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811915.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hi Score Girl S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ctFzMiCRJBykbSyd45wM9wSsVt3.jpg" group-title="Séries | Netflix",Hi Score Girl S01 E08
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811916.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hi Score Girl S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gvkMUmaFvQV22UJuP3vPuQnCh30.jpg" group-title="Séries | Netflix",Hi Score Girl S01 E09
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811917.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hi Score Girl S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fdw4L8CHfg7Ghv6GO7v2OgQDX8p.jpg" group-title="Séries | Netflix",Hi Score Girl S01 E10
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811918.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hi Score Girl S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zB3ipxW79PkNS8ziOEeVFx77UIe.jpg" group-title="Séries | Netflix",Hi Score Girl S01 E11
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811919.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hi Score Girl S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sjq41xOktFNoiGA1saZWOUbnUZ7.jpg" group-title="Séries | Netflix",Hi Score Girl S01 E12
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811920.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hi Score Girl S01 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTznFrSM4katqhkdOGNwUqVvvl8.jpg" group-title="Séries | Netflix",Hi Score Girl S01 E13
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811921.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hi Score Girl S01 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTznFrSM4katqhkdOGNwUqVvvl8.jpg" group-title="Séries | Netflix",Hi Score Girl S01 E14
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811922.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hi Score Girl S01 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTznFrSM4katqhkdOGNwUqVvvl8.jpg" group-title="Séries | Netflix",Hi Score Girl S01 E15
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811923.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hi Score Girl S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTznFrSM4katqhkdOGNwUqVvvl8.jpg" group-title="Séries | Netflix",Hi Score Girl S02 E01
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811924.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hi Score Girl S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTznFrSM4katqhkdOGNwUqVvvl8.jpg" group-title="Séries | Netflix",Hi Score Girl S02 E02
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811925.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hi Score Girl S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTznFrSM4katqhkdOGNwUqVvvl8.jpg" group-title="Séries | Netflix",Hi Score Girl S02 E03
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811926.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hi Score Girl S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTznFrSM4katqhkdOGNwUqVvvl8.jpg" group-title="Séries | Netflix",Hi Score Girl S02 E04
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811927.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hi Score Girl S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTznFrSM4katqhkdOGNwUqVvvl8.jpg" group-title="Séries | Netflix",Hi Score Girl S02 E05
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811928.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hi Score Girl S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTznFrSM4katqhkdOGNwUqVvvl8.jpg" group-title="Séries | Netflix",Hi Score Girl S02 E06
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811929.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hi Score Girl S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTznFrSM4katqhkdOGNwUqVvvl8.jpg" group-title="Séries | Netflix",Hi Score Girl S02 E07
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811930.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hi Score Girl S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTznFrSM4katqhkdOGNwUqVvvl8.jpg" group-title="Séries | Netflix",Hi Score Girl S02 E08
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811931.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hi Score Girl S02 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTznFrSM4katqhkdOGNwUqVvvl8.jpg" group-title="Séries | Netflix",Hi Score Girl S02 E09
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811932.mp4
+
+#EXTM3U url-tvg="http://grade-de-Séries | Netflix.xml"
+############## Séries | Netflix ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeSéries | Netflix" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="Kakegurui S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wrQOqpqaD6U9EBae5j1SBVCSKF5.jpg" group-title="Séries | Netflix",Kakegurui S01 E01
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812081.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kakegurui S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/11XxR1G3vIvBjVfWUWw939WqtII.jpg" group-title="Séries | Netflix",Kakegurui S01 E02
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812082.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kakegurui S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k6gWjVHvztBB4g9eVVrRC2Zqbls.jpg" group-title="Séries | Netflix",Kakegurui S01 E03
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812083.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kakegurui S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iGdtOju4XdKP3weRPasNJbvgywi.jpg" group-title="Séries | Netflix",Kakegurui S01 E04
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812084.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kakegurui S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ns5IofYPGzGOh8snSYgqORrEvIq.jpg" group-title="Séries | Netflix",Kakegurui S01 E05
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812085.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kakegurui S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hMWZInFVyOgwGNfY3LKH3W5yugH.jpg" group-title="Séries | Netflix",Kakegurui S01 E06
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812086.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kakegurui S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jo6VfYIeSKacBddHqDNM3nU2BlP.jpg" group-title="Séries | Netflix",Kakegurui S01 E07
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812087.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kakegurui S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7YfdtmpZNXkPf4LiaXSWVe7e8xA.jpg" group-title="Séries | Netflix",Kakegurui S01 E08
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812088.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kakegurui S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jwGb8wmSGdTzSG0vQoZyth99E8f.jpg" group-title="Séries | Netflix",Kakegurui S01 E09
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812089.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kakegurui S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gtHdSwmbKfAUWPe9E0S2O95ulQ9.jpg" group-title="Séries | Netflix",Kakegurui S01 E10
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812090.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kakegurui S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zUH4StVMfyDxzBrZLljWqQo2Tnd.jpg" group-title="Séries | Netflix",Kakegurui S01 E11
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812091.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kakegurui S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xc6KRhTz3IiHRaM3LhBeiZaAy4v.jpg" group-title="Séries | Netflix",Kakegurui S01 E12
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812092.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kakegurui S01 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h1MUwcwNjK3nkXFzeFowUqfy0Qw.jpg" group-title="Séries | Netflix",Kakegurui S01 E13
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812093.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kakegurui S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eHKTkI9lqHSNzvYuZj48lSUMsoi.jpg" group-title="Séries | Netflix",Kakegurui S02 E01
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812094.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kakegurui S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rS9KxP2vILUJPUhfjlrexdGe11V.jpg" group-title="Séries | Netflix",Kakegurui S02 E02
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812095.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kakegurui S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/28bbLSVpRn4E96RPgh3UCCR3jMa.jpg" group-title="Séries | Netflix",Kakegurui S02 E03
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812096.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kakegurui S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5FLBbwqHCoZzvlNHxFVomrN0z6f.jpg" group-title="Séries | Netflix",Kakegurui S02 E04
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812097.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kakegurui S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kGlDaahyQ7uiNDl7VSfT5Lf8ACi.jpg" group-title="Séries | Netflix",Kakegurui S02 E05
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812098.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kakegurui S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/30t0gEPIGg73Ujx8sFAU9fjNMaW.jpg" group-title="Séries | Netflix",Kakegurui S02 E06
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812099.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kakegurui S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7HZttX9h2mbtmkfi8AWZLASy7jQ.jpg" group-title="Séries | Netflix",Kakegurui S02 E07
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812100.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kakegurui S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yiC5uXIlDb0583EWGAPVCCVe3RK.jpg" group-title="Séries | Netflix",Kakegurui S02 E08
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812101.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kakegurui S02 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qMnRTtlmj6ejllEk1Iv8Svwijyc.jpg" group-title="Séries | Netflix",Kakegurui S02 E09
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812102.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kakegurui S02 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3WMrG55SYF2UY4ss86mU5UldFc.jpg" group-title="Séries | Netflix",Kakegurui S02 E10
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812103.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kakegurui S02 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oBvpn3H4EUtOICF6nAdzF5Vsm8x.jpg" group-title="Séries | Netflix",Kakegurui S02 E11
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812104.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kakegurui S02 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wUcNz6BaOSLXqUlg72GdmwNnona.jpg" group-title="Séries | Netflix",Kakegurui S02 E12
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812105.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kakegurui S02 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h1MUwcwNjK3nkXFzeFowUqfy0Qw.jpg" group-title="Séries | Netflix",Kakegurui S02 E13
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812106.mp4
+
+#EXTM3U url-tvg="http://grade-de-Séries | Netflix.xml"
+############## Séries | Netflix ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeSéries | Netflix" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="Levius S01 E01" tvg-logo="http://urlon.me/ZgYM6c" group-title="Séries | Netflix",Levius S01 E01
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812107.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Levius S01 E02" tvg-logo="http://urlon.me/ZgYM6u" group-title="Séries | Netflix",Levius S01 E02
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812108.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Levius S01 E03" tvg-logo="http://urlon.me/ZgYM6p" group-title="Séries | Netflix",Levius S01 E03
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812109.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Levius S01 E04" tvg-logo="http://urlon.me/ZgYM6D" group-title="Séries | Netflix",Levius S01 E04
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812110.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Levius S01 E05" tvg-logo="http://urlon.me/ZgYM6V" group-title="Séries | Netflix",Levius S01 E05
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812111.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Levius S01 E06" tvg-logo="http://urlon.me/ZgYM6s" group-title="Séries | Netflix",Levius S01 E06
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812112.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Levius S01 E07" tvg-logo="http://urlon.me/ZgYM62" group-title="Séries | Netflix",Levius S01 E07
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812113.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Levius S01 E08" tvg-logo="http://urlon.me/ZgYM6R" group-title="Séries | Netflix",Levius S01 E08
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812114.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Levius S01 E09" tvg-logo="http://urlon.me/ZgYM6W" group-title="Séries | Netflix",Levius S01 E09
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812115.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Levius S01 E10" tvg-logo="http://urlon.me/ZgYM6C" group-title="Séries | Netflix",Levius S01 E10
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812116.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Levius S01 E11" tvg-logo="http://urlon.me/ZgYM6I" group-title="Séries | Netflix",Levius S01 E11
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812117.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Levius S01 E12" tvg-logo="http://urlon.me/ZgYM6B" group-title="Séries | Netflix",Levius S01 E12
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812118.mp4
+
+
+#EXTM3U url-tvg="http://grade-de-Séries | Netflix.xml"
+############## Séries | Netflix ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeSéries | Netflix" group-title="
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Amor Ocasional S01 E01" tvg-logo="http://urlon.me/htC" group-title="Séries | Netflix",Amor Ocasional S01 E01
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810181.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor Ocasional S01 E02" tvg-logo="http://urlon.me/htW" group-title="Séries | Netflix",Amor Ocasional S01 E02
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810182.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor Ocasional S01 E03" tvg-logo="http://urlon.me/htR" group-title="Séries | Netflix",Amor Ocasional S01 E03
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810183.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor Ocasional S01 E04" tvg-logo="http://urlon.me/ht2" group-title="Séries | Netflix",Amor Ocasional S01 E04
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810184.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor Ocasional S01 E05" tvg-logo="http://urlon.me/hts" group-title="Séries | Netflix",Amor Ocasional S01 E05
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810185.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor Ocasional S01 E06" tvg-logo="http://urlon.me/htV" group-title="Séries | Netflix",Amor Ocasional S01 E06
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810186.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor Ocasional S01 E07" tvg-logo="http://urlon.me/htD" group-title="Séries | Netflix",Amor Ocasional S01 E07
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810187.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor Ocasional S01 E08" tvg-logo="http://urlon.me/htp" group-title="Séries | Netflix",Amor Ocasional S01 E08
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810188.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor Ocasional S02 E01" tvg-logo="http://5ce.co:80/images/xli9cdsS1MuFXK7rQ7MoLxtNq5g_big.jpg" group-title="Séries | Netflix",Amor Ocasional S02 E01
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810189.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor Ocasional S02 E02" tvg-logo="http://5ce.co:80/images/xli9cdsS1MuFXK7rQ7MoLxtNq5g_big.jpg" group-title="Séries | Netflix",Amor Ocasional S02 E02
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810190.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor Ocasional S02 E03" tvg-logo="http://5ce.co:80/images/xli9cdsS1MuFXK7rQ7MoLxtNq5g_big.jpg" group-title="Séries | Netflix",Amor Ocasional S02 E03
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810191.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor Ocasional S02 E04" tvg-logo="http://5ce.co:80/images/xli9cdsS1MuFXK7rQ7MoLxtNq5g_big.jpg" group-title="Séries | Netflix",Amor Ocasional S02 E04
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810192.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor Ocasional S02 E05" tvg-logo="http://5ce.co:80/images/xli9cdsS1MuFXK7rQ7MoLxtNq5g_big.jpg" group-title="Séries | Netflix",Amor Ocasional S02 E05
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810193.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor Ocasional S02 E06" tvg-logo="http://5ce.co:80/images/xli9cdsS1MuFXK7rQ7MoLxtNq5g_big.jpg" group-title="Séries | Netflix",Amor Ocasional S02 E06
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810194.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor Ocasional S02 E07" tvg-logo="http://5ce.co:80/images/xli9cdsS1MuFXK7rQ7MoLxtNq5g_big.jpg" group-title="Séries | Netflix",Amor Ocasional S02 E07
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810195.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor Ocasional S03 E01" tvg-logo="http://5ce.co:80/images/xli9cdsS1MuFXK7rQ7MoLxtNq5g_big.jpg" group-title="Séries | Netflix",Amor Ocasional S03 E01
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810196.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor Ocasional S03 E02" tvg-logo="http://5ce.co:80/images/xli9cdsS1MuFXK7rQ7MoLxtNq5g_big.jpg" group-title="Séries | Netflix",Amor Ocasional S03 E02
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810197.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor Ocasional S03 E03" tvg-logo="http://5ce.co:80/images/xli9cdsS1MuFXK7rQ7MoLxtNq5g_big.jpg" group-title="Séries | Netflix",Amor Ocasional S03 E03
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810198.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor Ocasional S03 E04" tvg-logo="http://5ce.co:80/images/xli9cdsS1MuFXK7rQ7MoLxtNq5g_big.jpg" group-title="Séries | Netflix",Amor Ocasional S03 E04
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810199.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor Ocasional S03 E05" tvg-logo="http://5ce.co:80/images/xli9cdsS1MuFXK7rQ7MoLxtNq5g_big.jpg" group-title="Séries | Netflix",Amor Ocasional S03 E05
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810200.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor Ocasional S03 E06" tvg-logo="http://5ce.co:80/images/xli9cdsS1MuFXK7rQ7MoLxtNq5g_big.jpg" group-title="Séries | Netflix",Amor Ocasional S03 E06
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810201.mp4
+
+#EXTM3U url-tvg="http://grade-de-Séries | Netflix.xml"
+############## Séries | Netflix ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeSéries | Netflix" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="Alias JJ S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wN9sLOvIG6azOUGy7MqvwM2V8Uk.jpg" group-title="Séries | Netflix",Alias JJ S01 E01
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809896.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alias JJ S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wN9sLOvIG6azOUGy7MqvwM2V8Uk.jpg" group-title="Séries | Netflix",Alias JJ S01 E02
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809897.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alias JJ S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wN9sLOvIG6azOUGy7MqvwM2V8Uk.jpg" group-title="Séries | Netflix",Alias JJ S01 E03
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809898.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alias JJ S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wN9sLOvIG6azOUGy7MqvwM2V8Uk.jpg" group-title="Séries | Netflix",Alias JJ S01 E04
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809899.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alias JJ S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wN9sLOvIG6azOUGy7MqvwM2V8Uk.jpg" group-title="Séries | Netflix",Alias JJ S01 E05
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809900.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alias JJ S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wN9sLOvIG6azOUGy7MqvwM2V8Uk.jpg" group-title="Séries | Netflix",Alias JJ S01 E06
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809901.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alias JJ S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wN9sLOvIG6azOUGy7MqvwM2V8Uk.jpg" group-title="Séries | Netflix",Alias JJ S01 E07
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809902.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alias JJ S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wN9sLOvIG6azOUGy7MqvwM2V8Uk.jpg" group-title="Séries | Netflix",Alias JJ S01 E08
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809903.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alias JJ S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wN9sLOvIG6azOUGy7MqvwM2V8Uk.jpg" group-title="Séries | Netflix",Alias JJ S01 E09
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809904.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alias JJ S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wN9sLOvIG6azOUGy7MqvwM2V8Uk.jpg" group-title="Séries | Netflix",Alias JJ S01 E10
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809905.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alias JJ S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wN9sLOvIG6azOUGy7MqvwM2V8Uk.jpg" group-title="Séries | Netflix",Alias JJ S01 E11
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809906.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alias JJ S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wN9sLOvIG6azOUGy7MqvwM2V8Uk.jpg" group-title="Séries | Netflix",Alias JJ S01 E12
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809907.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alias JJ S01 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wN9sLOvIG6azOUGy7MqvwM2V8Uk.jpg" group-title="Séries | Netflix",Alias JJ S01 E13
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809908.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alias JJ S01 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wN9sLOvIG6azOUGy7MqvwM2V8Uk.jpg" group-title="Séries | Netflix",Alias JJ S01 E14
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809909.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alias JJ S01 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wN9sLOvIG6azOUGy7MqvwM2V8Uk.jpg" group-title="Séries | Netflix",Alias JJ S01 E15
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809910.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alias JJ S01 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wN9sLOvIG6azOUGy7MqvwM2V8Uk.jpg" group-title="Séries | Netflix",Alias JJ S01 E16
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809911.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alias JJ S01 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wN9sLOvIG6azOUGy7MqvwM2V8Uk.jpg" group-title="Séries | Netflix",Alias JJ S01 E17
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809912.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alias JJ S01 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wN9sLOvIG6azOUGy7MqvwM2V8Uk.jpg" group-title="Séries | Netflix",Alias JJ S01 E18
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809913.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alias JJ S01 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wN9sLOvIG6azOUGy7MqvwM2V8Uk.jpg" group-title="Séries | Netflix",Alias JJ S01 E19
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809914.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alias JJ S01 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wN9sLOvIG6azOUGy7MqvwM2V8Uk.jpg" group-title="Séries | Netflix",Alias JJ S01 E20
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809915.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alias JJ S01 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wN9sLOvIG6azOUGy7MqvwM2V8Uk.jpg" group-title="Séries | Netflix",Alias JJ S01 E21
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809916.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alias JJ S01 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wN9sLOvIG6azOUGy7MqvwM2V8Uk.jpg" group-title="Séries | Netflix",Alias JJ S01 E22
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809917.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alias JJ S01 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wN9sLOvIG6azOUGy7MqvwM2V8Uk.jpg" group-title="Séries | Netflix",Alias JJ S01 E23
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809918.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alias JJ S01 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wN9sLOvIG6azOUGy7MqvwM2V8Uk.jpg" group-title="Séries | Netflix",Alias JJ S01 E24
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809919.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alias JJ S01 E25" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wN9sLOvIG6azOUGy7MqvwM2V8Uk.jpg" group-title="Séries | Netflix",Alias JJ S01 E25
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809920.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alias JJ S01 E26" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wN9sLOvIG6azOUGy7MqvwM2V8Uk.jpg" group-title="Séries | Netflix",Alias JJ S01 E26
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809921.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alias JJ S01 E27" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wN9sLOvIG6azOUGy7MqvwM2V8Uk.jpg" group-title="Séries | Netflix",Alias JJ S01 E27
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809922.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alias JJ S01 E28" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wN9sLOvIG6azOUGy7MqvwM2V8Uk.jpg" group-title="Séries | Netflix",Alias JJ S01 E28
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809923.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alias JJ S01 E29" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wN9sLOvIG6azOUGy7MqvwM2V8Uk.jpg" group-title="Séries | Netflix",Alias JJ S01 E29
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809924.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alias JJ S01 E30" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wN9sLOvIG6azOUGy7MqvwM2V8Uk.jpg" group-title="Séries | Netflix",Alias JJ S01 E30
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809925.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alias JJ S01 E31" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wN9sLOvIG6azOUGy7MqvwM2V8Uk.jpg" group-title="Séries | Netflix",Alias JJ S01 E31
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809926.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alias JJ S01 E32" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wN9sLOvIG6azOUGy7MqvwM2V8Uk.jpg" group-title="Séries | Netflix",Alias JJ S01 E32
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809927.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alias JJ S01 E33" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wN9sLOvIG6azOUGy7MqvwM2V8Uk.jpg" group-title="Séries | Netflix",Alias JJ S01 E33
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809928.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alias JJ S01 E34" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wN9sLOvIG6azOUGy7MqvwM2V8Uk.jpg" group-title="Séries | Netflix",Alias JJ S01 E34
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809929.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alias JJ S01 E35" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wN9sLOvIG6azOUGy7MqvwM2V8Uk.jpg" group-title="Séries | Netflix",Alias JJ S01 E35
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809930.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alias JJ S01 E36" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wN9sLOvIG6azOUGy7MqvwM2V8Uk.jpg" group-title="Séries | Netflix",Alias JJ S01 E36
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809931.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alias JJ S01 E37" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wN9sLOvIG6azOUGy7MqvwM2V8Uk.jpg" group-title="Séries | Netflix",Alias JJ S01 E37
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809932.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alias JJ S01 E38" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wN9sLOvIG6azOUGy7MqvwM2V8Uk.jpg" group-title="Séries | Netflix",Alias JJ S01 E38
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809933.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alias JJ S01 E39" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wN9sLOvIG6azOUGy7MqvwM2V8Uk.jpg" group-title="Séries | Netflix",Alias JJ S01 E39
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809934.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alias JJ S01 E40" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wN9sLOvIG6azOUGy7MqvwM2V8Uk.jpg" group-title="Séries | Netflix",Alias JJ S01 E40
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809935.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alias JJ S01 E41" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wN9sLOvIG6azOUGy7MqvwM2V8Uk.jpg" group-title="Séries | Netflix",Alias JJ S01 E41
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809936.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alias JJ S01 E42" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wN9sLOvIG6azOUGy7MqvwM2V8Uk.jpg" group-title="Séries | Netflix",Alias JJ S01 E42
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809937.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alias JJ S01 E43" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wN9sLOvIG6azOUGy7MqvwM2V8Uk.jpg" group-title="Séries | Netflix",Alias JJ S01 E43
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809938.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alias JJ S01 E44" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wN9sLOvIG6azOUGy7MqvwM2V8Uk.jpg" group-title="Séries | Netflix",Alias JJ S01 E44
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809939.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alias JJ S01 E45" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wN9sLOvIG6azOUGy7MqvwM2V8Uk.jpg" group-title="Séries | Netflix",Alias JJ S01 E45
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809940.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alias JJ S01 E46" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wN9sLOvIG6azOUGy7MqvwM2V8Uk.jpg" group-title="Séries | Netflix",Alias JJ S01 E46
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809941.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alias JJ S01 E47" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wN9sLOvIG6azOUGy7MqvwM2V8Uk.jpg" group-title="Séries | Netflix",Alias JJ S01 E47
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809942.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alias JJ S01 E48" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wN9sLOvIG6azOUGy7MqvwM2V8Uk.jpg" group-title="Séries | Netflix",Alias JJ S01 E48
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809943.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alias JJ S01 E49" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wN9sLOvIG6azOUGy7MqvwM2V8Uk.jpg" group-title="Séries | Netflix",Alias JJ S01 E49
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809944.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alias JJ S01 E50" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wN9sLOvIG6azOUGy7MqvwM2V8Uk.jpg" group-title="Séries | Netflix",Alias JJ S01 E50
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809945.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alias JJ S01 E51" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wN9sLOvIG6azOUGy7MqvwM2V8Uk.jpg" group-title="Séries | Netflix",Alias JJ S01 E51
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809946.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alias JJ S01 E52" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wN9sLOvIG6azOUGy7MqvwM2V8Uk.jpg" group-title="Séries | Netflix",Alias JJ S01 E52
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809947.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alias JJ S01 E53" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wN9sLOvIG6azOUGy7MqvwM2V8Uk.jpg" group-title="Séries | Netflix",Alias JJ S01 E53
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809948.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alias JJ S01 E54" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wN9sLOvIG6azOUGy7MqvwM2V8Uk.jpg" group-title="Séries | Netflix",Alias JJ S01 E54
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809949.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alias JJ S01 E55" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wN9sLOvIG6azOUGy7MqvwM2V8Uk.jpg" group-title="Séries | Netflix",Alias JJ S01 E55
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809950.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alias JJ S01 E56" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wN9sLOvIG6azOUGy7MqvwM2V8Uk.jpg" group-title="Séries | Netflix",Alias JJ S01 E56
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809951.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alias JJ S01 E57" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wN9sLOvIG6azOUGy7MqvwM2V8Uk.jpg" group-title="Séries | Netflix",Alias JJ S01 E57
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809952.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alias JJ S01 E58" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wN9sLOvIG6azOUGy7MqvwM2V8Uk.jpg" group-title="Séries | Netflix",Alias JJ S01 E58
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809953.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alias JJ S01 E59" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wN9sLOvIG6azOUGy7MqvwM2V8Uk.jpg" group-title="Séries | Netflix",Alias JJ S01 E59
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809954.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alias JJ S01 E60" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wN9sLOvIG6azOUGy7MqvwM2V8Uk.jpg" group-title="Séries | Netflix",Alias JJ S01 E60
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809955.mp4
+
+#EXTM3U url-tvg="http://grade-de-Séries | Netflix.xml"
+############## Séries | Netflix ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeSéries | Netflix" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="Alexa e Katie S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ulg6SQnQKvUt1Sy9MLiYOMNcRju.jpg" group-title="Séries | Netflix",Alexa e Katie S01 E01
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809854.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alexa e Katie S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qp2QDQkrvZglvrmEYBsKhUdI0mv.jpg" group-title="Séries | Netflix",Alexa e Katie S01 E02
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809855.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alexa e Katie S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/haaq1Nx6WR3YqLt6um3eBENbW2Y.jpg" group-title="Séries | Netflix",Alexa e Katie S01 E03
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809856.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alexa e Katie S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8uzRJZmhOofuMrphxrAGvZxXDU3.jpg" group-title="Séries | Netflix",Alexa e Katie S01 E04
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809857.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alexa e Katie S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y9xg7uBFWmFdGvk6h0kFdkFKiQn.jpg" group-title="Séries | Netflix",Alexa e Katie S01 E05
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809858.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alexa e Katie S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/im4vZx1u5OQJyQCiC6ci6NMn2Pv.jpg" group-title="Séries | Netflix",Alexa e Katie S01 E06
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809859.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alexa e Katie S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k9ClwcnbN4GegO256TGCAvSlVTP.jpg" group-title="Séries | Netflix",Alexa e Katie S01 E07
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809860.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alexa e Katie S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5MSb4aI2HsOY3E37Vpf8D5BIZec.jpg" group-title="Séries | Netflix",Alexa e Katie S01 E08
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809861.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alexa e Katie S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7wcYApFuDpVZRGHjMRaxGKgxMDc.jpg" group-title="Séries | Netflix",Alexa e Katie S01 E09
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809862.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alexa e Katie S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/skBm5ZMSEQ0B1ofjBi3oR5mDIu7.jpg" group-title="Séries | Netflix",Alexa e Katie S01 E10
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809863.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alexa e Katie S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/53Zi5sqRXTVtyaU6R4xQP3N0b2j.jpg" group-title="Séries | Netflix",Alexa e Katie S01 E11
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809864.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alexa e Katie S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aRInJidrf6C7wjlYoIEMC5LqU4A.jpg" group-title="Séries | Netflix",Alexa e Katie S01 E12
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809865.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alexa e Katie S01 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eOhvjVy4gHPzdszygwQXm27u31m.jpg" group-title="Séries | Netflix",Alexa e Katie S01 E13
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809866.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alexa e Katie S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jZoYehsVJ8VMzQF1YeKnwzA9ATB.jpg" group-title="Séries | Netflix",Alexa e Katie S02 E01
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809867.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alexa e Katie S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6qXuKmS48RPGCvjYyTyukwN2iKS.jpg" group-title="Séries | Netflix",Alexa e Katie S02 E02
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809868.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alexa e Katie S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zlTb5eYrSf0dAUrTYPKA2nIeCT6.jpg" group-title="Séries | Netflix",Alexa e Katie S02 E03
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809869.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alexa e Katie S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/neBIvEaiD6UjqOflSnBSMjq4Ju7.jpg" group-title="Séries | Netflix",Alexa e Katie S02 E04
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809870.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alexa e Katie S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wpbhdk0tAlLs9dqRV833Ci9eicV.jpg" group-title="Séries | Netflix",Alexa e Katie S02 E05
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809871.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alexa e Katie S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2c0WQHNGXiZM8jCE4bgwztGvnSF.jpg" group-title="Séries | Netflix",Alexa e Katie S02 E06
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809872.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alexa e Katie S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dKkWE8aKScOAPRNmXTscFxWAf3r.jpg" group-title="Séries | Netflix",Alexa e Katie S02 E07
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809873.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alexa e Katie S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6PxtIhZeIEXcEZMK2rpAJqTLuW3.jpg" group-title="Séries | Netflix",Alexa e Katie S02 E08
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809874.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alexa e Katie S02 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5V2bJX13UlQYugoioVyxyTZxw7v.jpg" group-title="Séries | Netflix",Alexa e Katie S02 E09
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809875.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alexa e Katie S02 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j2TrWCsUIEor7YfVOuHZXuOrNR3.jpg" group-title="Séries | Netflix",Alexa e Katie S02 E10
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809876.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alexa e Katie S03 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jMz1bjvYFGuT6QId65VA8NWq2s5.jpg" group-title="Séries | Netflix",Alexa e Katie S03 E01
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809877.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alexa e Katie S03 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nC2FFPJDsRB6kl9HVbpuHaPrD10.jpg" group-title="Séries | Netflix",Alexa e Katie S03 E02
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809878.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alexa e Katie S03 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Um4R06TicQEXgvAasS0LuhB618.jpg" group-title="Séries | Netflix",Alexa e Katie S03 E03
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809879.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alexa e Katie S03 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bGpkpp9INQHJL6L5ZZidycqKiGY.jpg" group-title="Séries | Netflix",Alexa e Katie S03 E04
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809880.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alexa e Katie S03 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zqZC7CQ5ArVflfFItSai48Pi3QV.jpg" group-title="Séries | Netflix",Alexa e Katie S03 E05
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809881.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alexa e Katie S03 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ktw5CZJDkD13YS72wWR6phgj4HE.jpg" group-title="Séries | Netflix",Alexa e Katie S03 E06
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809882.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alexa e Katie S03 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/naHHRyapIJSa1rEgoNQVbDJ9RR3.jpg" group-title="Séries | Netflix",Alexa e Katie S03 E07
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809883.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alexa e Katie S03 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d58YMKDKACtLNZskCu5gfBXymkx.jpg" group-title="Séries | Netflix",Alexa e Katie S03 E08
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809884.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alexa e Katie S04 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8sKjFFFldaxhCq2113xIVnMUZAk.jpg" group-title="Séries | Netflix",Alexa e Katie S04 E01
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809885.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alexa e Katie S04 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/apagG2zlrYSQcoAnOlq83a1lvVI.jpg" group-title="Séries | Netflix",Alexa e Katie S04 E02
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809886.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alexa e Katie S04 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3H7b2dbhGeoXs9YS4WB9HiGTAMT.jpg" group-title="Séries | Netflix",Alexa e Katie S04 E03
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809887.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alexa e Katie S04 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x8U8L8MXTDp6cEwff5YWc34uhLh.jpg" group-title="Séries | Netflix",Alexa e Katie S04 E04
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809888.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alexa e Katie S04 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y7dqy6He8iisWYNgr4VaYueJRXx.jpg" group-title="Séries | Netflix",Alexa e Katie S04 E05
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809889.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alexa e Katie S04 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jRoA6Boh4gQfL4nnvEfeEndoVi6.jpg" group-title="Séries | Netflix",Alexa e Katie S04 E06
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809890.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alexa e Katie S04 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sQZE6dtjwpV3wJgiAq8eo18Yjeo.jpg" group-title="Séries | Netflix",Alexa e Katie S04 E07
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809891.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alexa e Katie S04 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cNINqOWUeJsAgLxFgUSVvqWeLEC.jpg" group-title="Séries | Netflix",Alexa e Katie S04 E08
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809892.mp4
+
+#EXTM3U url-tvg="http://grade-de-Séries | Netflix.xml"
+############## Séries | Netflix ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeSéries | Netflix" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="Alice in Borderland S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/758JlWhBQjnvRBKKdxH6nEuuyBr.jpg" group-title="Séries | Netflix",Alice in Borderland S01 E01
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809956.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alice in Borderland S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/At7tagPr0drQWBLAW8dUD8zLsXn.jpg" group-title="Séries | Netflix",Alice in Borderland S01 E02
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809957.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alice in Borderland S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m3Jrm1fdV10oweHAQbYviCOWilg.jpg" group-title="Séries | Netflix",Alice in Borderland S01 E03
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809958.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alice in Borderland S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rNX5GmJdgVGdp2uBGzPxeVEzXVb.jpg" group-title="Séries | Netflix",Alice in Borderland S01 E04
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809959.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alice in Borderland S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fpyXJ8bPwvgJpBe6aFnzrMj01CR.jpg" group-title="Séries | Netflix",Alice in Borderland S01 E05
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809960.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alice in Borderland S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9JMqIduUuKncLb7qnh8nlMrmA2K.jpg" group-title="Séries | Netflix",Alice in Borderland S01 E06
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809961.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alice in Borderland S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9YZHiAop1YrYQVInKMjPcKCS4GL.jpg" group-title="Séries | Netflix",Alice in Borderland S01 E07
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809962.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alice in Borderland S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cRf1dBhxukElDsvZOHchFLNVZKe.jpg" group-title="Séries | Netflix",Alice in Borderland S01 E08
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809963.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alice in Borderland S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i0i7kGDrArtM1sCd8niZDC7iboV.jpg" group-title="Séries | Netflix",Alice in Borderland S02 E01
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809964.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alice in Borderland S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i0i7kGDrArtM1sCd8niZDC7iboV.jpg" group-title="Séries | Netflix",Alice in Borderland S02 E02
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809965.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alice in Borderland S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i0i7kGDrArtM1sCd8niZDC7iboV.jpg" group-title="Séries | Netflix",Alice in Borderland S02 E03
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809966.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alice in Borderland S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i0i7kGDrArtM1sCd8niZDC7iboV.jpg" group-title="Séries | Netflix",Alice in Borderland S02 E04
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809967.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alice in Borderland S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i0i7kGDrArtM1sCd8niZDC7iboV.jpg" group-title="Séries | Netflix",Alice in Borderland S02 E05
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809968.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alice in Borderland S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i0i7kGDrArtM1sCd8niZDC7iboV.jpg" group-title="Séries | Netflix",Alice in Borderland S02 E06
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809969.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alice in Borderland S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i0i7kGDrArtM1sCd8niZDC7iboV.jpg" group-title="Séries | Netflix",Alice in Borderland S02 E07
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809970.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alice in Borderland S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i0i7kGDrArtM1sCd8niZDC7iboV.jpg" group-title="Séries | Netflix",Alice in Borderland S02 E08
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809971.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alien TV S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mh2cfceDyPBwSvlpJA2ZGbMkNM6.jpg" group-title="Séries | Netflix",Alien TV S01 E01
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809972.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alien TV S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hQFcGytk5ozmjYg6kHmsXrkaPFa.jpg" group-title="Séries | Netflix",Alien TV S01 E02
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809973.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alien TV S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p2FCXZXUZaZ218EjcFSfuc46MNi.jpg" group-title="Séries | Netflix",Alien TV S01 E03
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809974.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alien TV S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pYp0BBISMfMdl5Pl5McPBPAId0G.jpg" group-title="Séries | Netflix",Alien TV S01 E04
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809975.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alien TV S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bAhAdIcCf7YFpYz2UkRDsOFY433.jpg" group-title="Séries | Netflix",Alien TV S01 E05
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809976.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alien TV S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/94YYrkAIx4JhSVeQ3dZ336oIZb5.jpg" group-title="Séries | Netflix",Alien TV S01 E06
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809977.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alien TV S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d55tAW9vNuNldWqxofAPIYLX771.jpg" group-title="Séries | Netflix",Alien TV S01 E07
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809978.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alien TV S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8WAGvFPMHGTHcQBxCFO6hJzxh39.jpg" group-title="Séries | Netflix",Alien TV S01 E08
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809979.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alien TV S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zkauVyCOdz74Icv6n9uRqTz4rVn.jpg" group-title="Séries | Netflix",Alien TV S01 E09
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809980.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alien TV S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1zuW50LnsbH4YP6Zk7ja7xkEzO8.jpg" group-title="Séries | Netflix",Alien TV S01 E10
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809981.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alien TV S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/idjAmq3pAEiU4APoUZi4p89yPW3.jpg" group-title="Séries | Netflix",Alien TV S01 E11
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809982.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alien TV S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9xKN1WaOgSIWfkZ6qZNzdwSLWyH.jpg" group-title="Séries | Netflix",Alien TV S01 E12
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809983.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alien TV S01 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/osaD2vkx4dmsdHT0zG5ouUThPcJ.jpg" group-title="Séries | Netflix",Alien TV S01 E13
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809984.mp4
+
+#EXTM3U url-tvg="http://grade-de-Séries | HBO Max.xml"
+############## Séries | HBO Max ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeSéries | HBO Max" group-title="
+
+
+#EXTINF:-1 tvg-id="" tvg-name="A Terra a Noite S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mmTH5yuS2m8TY6P7FpuZWCUpmRz.jpg" group-title="Séries | Netflix",A Terra a Noite S01 E01
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809486.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Terra a Noite S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yeuCfnW6LYfzr5dbi4fkldJvB0W.jpg" group-title="Séries | Netflix",A Terra a Noite S01 E02
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809487.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Terra a Noite S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hE2Qx5Phw2D7hgPPrX0OgEgDeG6.jpg" group-title="Séries | Netflix",A Terra a Noite S01 E03
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809488.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Terra a Noite S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oUeEqqhMeIo35Cxv3C0QrJ8M63u.jpg" group-title="Séries | Netflix",A Terra a Noite S01 E04
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809489.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Terra a Noite S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i4HCkByKzDwawuANmWuNLeBTdQ1.jpg" group-title="Séries | Netflix",A Terra a Noite S01 E05
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809490.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Terra a Noite S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qgYTa8QBqGSDhuKlH81FUXTUs3z.jpg" group-title="Séries | Netflix",A Terra a Noite S01 E06
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809491.mp4
+
+#EXTM3U url-tvg="http://grade-de-Séries | HBO Max.xml"
+############## Séries | HBO Max ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeSéries | HBO Max" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="A Vida e a Historia de Madam C.J. Walker S01 E01" tvg-logo="http://urlon.me/ZgYYxL" group-title="Séries | Netflix",A Vida e a Historia de Madam C.J. Walker S01 E01
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809498.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vida e a Historia de Madam C.J. Walker S01 E02" tvg-logo="http://urlon.me/ZgYYxH" group-title="Séries | Netflix",A Vida e a Historia de Madam C.J. Walker S01 E02
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809499.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vida e a Historia de Madam C.J. Walker S01 E03" tvg-logo="http://urlon.me/ZgYYxE" group-title="Séries | Netflix",A Vida e a Historia de Madam C.J. Walker S01 E03
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809500.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vida e a Historia de Madam C.J. Walker S01 E04" tvg-logo="http://urlon.me/ZgYYxS" group-title="Séries | Netflix",A Vida e a Historia de Madam C.J. Walker S01 E04
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809501.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vida em Outros Planetas S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/biJnzivrFTomkETaNHD5l2ocIIs.jpg" group-title="Séries | Netflix",A Vida em Outros Planetas S01 E01
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809502.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vida em Outros Planetas S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3mAEwJ6lLnfdjRV6eLxNaK0kmn6.jpg" group-title="Séries | Netflix",A Vida em Outros Planetas S01 E02
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809503.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vida em Outros Planetas S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yf1QX4mHSFlRL3JRQ9nkIXP8U5V.jpg" group-title="Séries | Netflix",A Vida em Outros Planetas S01 E03
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809504.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vida em Outros Planetas S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g0JT44solf0SFEo99J2ZthijJiu.jpg" group-title="Séries | Netflix",A Vida em Outros Planetas S01 E04
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809505.mp4
+
+
+#EXTM3U url-tvg="http://grade-de-Séries | HBO Max.xml"
+############## Séries | HBO Max ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeSéries | HBO Max" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="A Sete Palmos S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cSLWrRhHOksHBugGWfYMLlfBgTW.jpg" group-title="Séries | HBO Max",A Sete Palmos S01 E01
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809423.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Sete Palmos S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9qe6tSVJUFhwgqsGShlEf55iPVk.jpg" group-title="Séries | HBO Max",A Sete Palmos S01 E02
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809424.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Sete Palmos S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h9vkotvTCpXlknDal3cR9AzgAqy.jpg" group-title="Séries | HBO Max",A Sete Palmos S01 E03
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809425.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Sete Palmos S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cJNhcl46ypJ5cvk05PLHQwSHcaL.jpg" group-title="Séries | HBO Max",A Sete Palmos S01 E04
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809426.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Sete Palmos S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1DkH4Dh3ob6bB0xDn21EAUzlhaA.jpg" group-title="Séries | HBO Max",A Sete Palmos S01 E05
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809427.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Sete Palmos S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cnxDnctqCbjzEUdiefH89FWigaM.jpg" group-title="Séries | HBO Max",A Sete Palmos S01 E06
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809428.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Sete Palmos S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wrwQ3VP9BnjLWhuAdxkGC16b0yY.jpg" group-title="Séries | HBO Max",A Sete Palmos S01 E07
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809429.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Sete Palmos S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a2P8RGzfkjPBkClqmWjSPyIwngO.jpg" group-title="Séries | HBO Max",A Sete Palmos S01 E08
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809430.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Sete Palmos S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pYxBEFWPndtrHGAQ5cLD6ieYvKk.jpg" group-title="Séries | HBO Max",A Sete Palmos S01 E09
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809431.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Sete Palmos S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tUrYd5c2BfGpWJ5kaO0eaTTzP5m.jpg" group-title="Séries | HBO Max",A Sete Palmos S01 E10
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809432.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Sete Palmos S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pr4Erlq8mNXvu6amCAd0fambCrZ.jpg" group-title="Séries | HBO Max",A Sete Palmos S01 E11
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809433.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Sete Palmos S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7uZ8FaQ74ChJjL9olLbvxmUMx5C.jpg" group-title="Séries | HBO Max",A Sete Palmos S01 E12
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809434.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Sete Palmos S01 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nqIebLUPXos0vYv6eKe0vCl74b8.jpg" group-title="Séries | HBO Max",A Sete Palmos S01 E13
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809435.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Sete Palmos S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/12X3ZC8lXA4bUHsAegEMwMCguAL.jpg" group-title="Séries | HBO Max",A Sete Palmos S02 E01
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809436.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Sete Palmos S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dphBJzlUQ1xd2wdofRUBc3vHGRS.jpg" group-title="Séries | HBO Max",A Sete Palmos S02 E02
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809437.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Sete Palmos S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lPPnjPosaqpFRptieHFckXTbkrz.jpg" group-title="Séries | HBO Max",A Sete Palmos S02 E03
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809438.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Sete Palmos S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lC2kyV1tvn3HqqBsnd5AwvU4srU.jpg" group-title="Séries | HBO Max",A Sete Palmos S02 E04
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809439.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Sete Palmos S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w0nn178JrdcjfoQtSPZMgEWVatz.jpg" group-title="Séries | HBO Max",A Sete Palmos S02 E05
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809440.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Sete Palmos S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2dQ755WLYKy4zfN2enXeveb1Fsb.jpg" group-title="Séries | HBO Max",A Sete Palmos S02 E06
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809441.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Sete Palmos S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uRKRqiforfHKF3GMd9KKd20MYfd.jpg" group-title="Séries | HBO Max",A Sete Palmos S02 E07
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809442.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Sete Palmos S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3xq0sn96BZ5WaZ4anEH47X1JDAU.jpg" group-title="Séries | HBO Max",A Sete Palmos S02 E08
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809443.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Sete Palmos S02 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wb7WHI3MgkEKtz566gZTuOr8Lf1.jpg" group-title="Séries | HBO Max",A Sete Palmos S02 E09
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809444.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Sete Palmos S02 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fZSihwCNEUNE6MGqZwUNcDZKMnj.jpg" group-title="Séries | HBO Max",A Sete Palmos S02 E10
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809445.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Sete Palmos S02 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lUf7EIalTowtfghhxmjGlOTDW02.jpg" group-title="Séries | HBO Max",A Sete Palmos S02 E11
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809446.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Sete Palmos S02 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rCx9OcDFwD71FYaIUho4XzyAOTT.jpg" group-title="Séries | HBO Max",A Sete Palmos S02 E12
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809447.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Sete Palmos S02 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2KOmNHzkSuVmwWPTeWTTybQ5YLh.jpg" group-title="Séries | HBO Max",A Sete Palmos S02 E13
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809448.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Sete Palmos S03 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3lty5UEST0TnWfynbGTO3qvLMfo.jpg" group-title="Séries | HBO Max",A Sete Palmos S03 E01
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809449.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Sete Palmos S03 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/brNyy9UVH5DwB9z7CzkUGUc7lZH.jpg" group-title="Séries | HBO Max",A Sete Palmos S03 E02
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809450.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Sete Palmos S03 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hBC3c40qEaidPrk1VyHNmw7GLSC.jpg" group-title="Séries | HBO Max",A Sete Palmos S03 E03
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809451.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Sete Palmos S03 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lxCpl9ic3kNz7jHALUSttDE409l.jpg" group-title="Séries | HBO Max",A Sete Palmos S03 E04
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809452.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Sete Palmos S03 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6EFRPb1mqvWWSkJsKyLVzBJU4uc.jpg" group-title="Séries | HBO Max",A Sete Palmos S03 E05
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809453.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Sete Palmos S03 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1bPADHbWEgcGT54Y7FbdMwBLMY2.jpg" group-title="Séries | HBO Max",A Sete Palmos S03 E06
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809454.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Sete Palmos S03 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tY8PmEhXZS25NtPlp86LW8WhYJf.jpg" group-title="Séries | HBO Max",A Sete Palmos S03 E07
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809455.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Sete Palmos S03 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1hc3fMmCeDR8BgLVXgUieNxSQkj.jpg" group-title="Séries | HBO Max",A Sete Palmos S03 E08
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809456.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Sete Palmos S03 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2QZ7EUxdQS2ONKpypymwfIifTxi.jpg" group-title="Séries | HBO Max",A Sete Palmos S03 E09
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809457.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Sete Palmos S03 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sVJr2kIPdU8vUPVLtfM3x9wfhQC.jpg" group-title="Séries | HBO Max",A Sete Palmos S03 E10
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809458.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Sete Palmos S03 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yTAlNFrrHTSaP8ZgB8heQrios0B.jpg" group-title="Séries | HBO Max",A Sete Palmos S03 E11
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809459.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Sete Palmos S03 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1JU4zYTVAD9qSACbLjXq6pGneCG.jpg" group-title="Séries | HBO Max",A Sete Palmos S03 E12
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809460.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Sete Palmos S03 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7n6WsEvJUzH7ysxOOlOj26061DL.jpg" group-title="Séries | HBO Max",A Sete Palmos S03 E13
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809461.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Sete Palmos S04 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3B3BUPC2x6pu0oVvgVbRfFR1Dj1.jpg" group-title="Séries | HBO Max",A Sete Palmos S04 E01
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809462.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Sete Palmos S04 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uya95dVNoP94puLb0IDUlsIsG3M.jpg" group-title="Séries | HBO Max",A Sete Palmos S04 E02
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809463.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Sete Palmos S04 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cpc48YAW7cI4A1I64nZbjOXBRav.jpg" group-title="Séries | HBO Max",A Sete Palmos S04 E03
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809464.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Sete Palmos S04 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sgjpz4LGDRRAHe0pjW8MzNvkLRQ.jpg" group-title="Séries | HBO Max",A Sete Palmos S04 E04
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809465.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Sete Palmos S04 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7BSB8m3cFK6QLXKRlEJ5ThJ2P69.jpg" group-title="Séries | HBO Max",A Sete Palmos S04 E05
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809466.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Sete Palmos S04 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xDac9GkMumYlT4fw0WpBXJjZjp7.jpg" group-title="Séries | HBO Max",A Sete Palmos S04 E06
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809467.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Sete Palmos S04 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e1LfuMJfUeTyChEwjkMSVRmomnk.jpg" group-title="Séries | HBO Max",A Sete Palmos S04 E07
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809468.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Sete Palmos S04 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lv97OZlfoRCTRM903fhE8Z421co.jpg" group-title="Séries | HBO Max",A Sete Palmos S04 E08
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809469.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Sete Palmos S04 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wSwIUhJGPoQ9te9YCCiOYgQKibc.jpg" group-title="Séries | HBO Max",A Sete Palmos S04 E09
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809470.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Sete Palmos S04 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rStxWj8Qg2kn9BjwrHuiezRuRc4.jpg" group-title="Séries | HBO Max",A Sete Palmos S04 E10
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809471.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Sete Palmos S04 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6GxNvAP6lQsOPr2U2OmwdXKs1MP.jpg" group-title="Séries | HBO Max",A Sete Palmos S04 E11
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809472.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Sete Palmos S04 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/20xuDZW4A1ICaKgs6eL43gMozYU.jpg" group-title="Séries | HBO Max",A Sete Palmos S04 E12
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809473.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Sete Palmos S05 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7G5ZKX7Y4BA3LSpYm7Xzf1Vu9pY.jpg" group-title="Séries | HBO Max",A Sete Palmos S05 E01
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809474.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Sete Palmos S05 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eMMkXgOUVN9zSjk7bJj65skvWWu.jpg" group-title="Séries | HBO Max",A Sete Palmos S05 E02
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809475.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Sete Palmos S05 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rwOVGvonmO9u5GEoyKakSwqxnIw.jpg" group-title="Séries | HBO Max",A Sete Palmos S05 E03
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809476.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Sete Palmos S05 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dWbd210ti8YdrCR87KeJ5jUNMM1.jpg" group-title="Séries | HBO Max",A Sete Palmos S05 E04
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809477.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Sete Palmos S05 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uMbhLJhjAkwdVRFZnllLW4xtWiN.jpg" group-title="Séries | HBO Max",A Sete Palmos S05 E05
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809478.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Sete Palmos S05 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hnoXwkzEA16zeGR7kQz6lyrLC35.jpg" group-title="Séries | HBO Max",A Sete Palmos S05 E06
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809479.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Sete Palmos S05 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aYC0gHyg0yNnyA2fGbcnx9AAglC.jpg" group-title="Séries | HBO Max",A Sete Palmos S05 E07
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809480.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Sete Palmos S05 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f1YCx0KGxdlQ5RnhvqWqxexrv0G.jpg" group-title="Séries | HBO Max",A Sete Palmos S05 E08
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809481.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Sete Palmos S05 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1AgrbcRtAkfxT7O3Gf4B6wDtPoQ.jpg" group-title="Séries | HBO Max",A Sete Palmos S05 E09
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809482.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Sete Palmos S05 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/763EpZhZA7eSti6PsIrIoUSCPZt.jpg" group-title="Séries | HBO Max",A Sete Palmos S05 E10
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809483.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Sete Palmos S05 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qG6VuHIuQ7W4VChyFqNKz8Rc2iq.jpg" group-title="Séries | HBO Max",A Sete Palmos S05 E11
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809484.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Sete Palmos S05 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sCMnaYq68y9GmhRqXQmDGr6k2R2.jpg" group-title="Séries | HBO Max",A Sete Palmos S05 E12
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809485.mp4
+
+
+#EXTM3U url-tvg="http://grade-de-Séries | HBO Max.xml"
+############## Séries | HBO Max ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeSéries | HBO Max" group-title="
+
+
+#EXTINF:-1 tvg-id="" tvg-name="All American S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qPCPgjeCH3ZNS0vH5x6rnPyyk6p.jpg" group-title="Séries | HBO Max",All American S01 E01
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809985.mp4
+#EXTINF:-1 tvg-id="" tvg-name="All American S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/94isaC0gpPuO3AmXUHwyVhOgE01.jpg" group-title="Séries | HBO Max",All American S01 E02
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809986.mp4
+#EXTINF:-1 tvg-id="" tvg-name="All American S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q1CEN5jVEZWZIgWQfHVqfCJ8q19.jpg" group-title="Séries | HBO Max",All American S01 E03
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809987.mp4
+#EXTINF:-1 tvg-id="" tvg-name="All American S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xaRWzke1IiY51kqsFuxNgaASWdg.jpg" group-title="Séries | HBO Max",All American S01 E04
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809988.mp4
+#EXTINF:-1 tvg-id="" tvg-name="All American S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eep97IlZ5cIXYWsf98RdB3z3tqq.jpg" group-title="Séries | HBO Max",All American S01 E05
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809989.mp4
+#EXTINF:-1 tvg-id="" tvg-name="All American S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qEKsUWzSii7QwTG7joexT4puSsB.jpg" group-title="Séries | HBO Max",All American S01 E06
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809990.mp4
+#EXTINF:-1 tvg-id="" tvg-name="All American S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4vr2hC2cCqKKoXNBQqY1iOpVX8n.jpg" group-title="Séries | HBO Max",All American S01 E07
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809991.mp4
+#EXTINF:-1 tvg-id="" tvg-name="All American S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iQY024cFCTpzsge9vWwf27PCcR.jpg" group-title="Séries | HBO Max",All American S01 E08
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809992.mp4
+#EXTINF:-1 tvg-id="" tvg-name="All American S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6w0lKTdkc3rhSImO17DDqv45XZ3.jpg" group-title="Séries | HBO Max",All American S01 E09
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809993.mp4
+#EXTINF:-1 tvg-id="" tvg-name="All American S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pY0FcEPdaB7gGg9kp3bGeQz2H8V.jpg" group-title="Séries | HBO Max",All American S01 E10
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809994.mp4
+#EXTINF:-1 tvg-id="" tvg-name="All American S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tV8l8jl29Q9Efs8ZjviINpBkvgZ.jpg" group-title="Séries | HBO Max",All American S01 E11
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809995.mp4
+#EXTINF:-1 tvg-id="" tvg-name="All American S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/etoNB7UIbNGT2Xp52Np0ZaHB1H4.jpg" group-title="Séries | HBO Max",All American S01 E12
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809996.mp4
+#EXTINF:-1 tvg-id="" tvg-name="All American S01 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5fzWeMlaMQ8CfrbDuPFW951kf98.jpg" group-title="Séries | HBO Max",All American S01 E13
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809997.mp4
+#EXTINF:-1 tvg-id="" tvg-name="All American S01 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xNYMWbgbwYi5t1Q4guCAvXEjOyE.jpg" group-title="Séries | HBO Max",All American S01 E14
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809998.mp4
+#EXTINF:-1 tvg-id="" tvg-name="All American S01 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2fUjECVxBQ5vrobTXoUeYN6vPfM.jpg" group-title="Séries | HBO Max",All American S01 E15
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809999.mp4
+#EXTINF:-1 tvg-id="" tvg-name="All American S01 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oNGZq3jY23Ie01yv0TXl7NrjPFM.jpg" group-title="Séries | HBO Max",All American S01 E16
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810000.mp4
+#EXTINF:-1 tvg-id="" tvg-name="All American S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ctZcaoIO0Ht391Pz2LzI8JdkTvk.jpg" group-title="Séries | HBO Max",All American S02 E01
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810001.mp4
+#EXTINF:-1 tvg-id="" tvg-name="All American S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1xcfLyLxGMOryMJOTm14oj3Ctug.jpg" group-title="Séries | HBO Max",All American S02 E02
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810002.mp4
+#EXTINF:-1 tvg-id="" tvg-name="All American S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yAk652vAlZCU1wBv8qIBbKxC8xd.jpg" group-title="Séries | HBO Max",All American S02 E03
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810003.mp4
+#EXTINF:-1 tvg-id="" tvg-name="All American S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8BF7dY0Xv1yRkJXVFXXmicN8fRV.jpg" group-title="Séries | HBO Max",All American S02 E04
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810004.mp4
+#EXTINF:-1 tvg-id="" tvg-name="All American S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/isJz9oqvfbuUm3FhpfyTyKxcz5s.jpg" group-title="Séries | HBO Max",All American S02 E05
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810005.mp4
+#EXTINF:-1 tvg-id="" tvg-name="All American S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vWv9pAu5cg2R8BKYB0fpMp5aBqt.jpg" group-title="Séries | HBO Max",All American S02 E06
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810006.mp4
+#EXTINF:-1 tvg-id="" tvg-name="All American S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xlKrst9mb81r4gDZn6pM2GfcBPl.jpg" group-title="Séries | HBO Max",All American S02 E07
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810007.mp4
+#EXTINF:-1 tvg-id="" tvg-name="All American S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xlKrst9mb81r4gDZn6pM2GfcBPl.jpg" group-title="Séries | HBO Max",All American S02 E08
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810008.mp4
+#EXTINF:-1 tvg-id="" tvg-name="All American S02 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xlKrst9mb81r4gDZn6pM2GfcBPl.jpg" group-title="Séries | HBO Max",All American S02 E09
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810009.mp4
+#EXTINF:-1 tvg-id="" tvg-name="All American S02 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xlKrst9mb81r4gDZn6pM2GfcBPl.jpg" group-title="Séries | HBO Max",All American S02 E10
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810010.mp4
+#EXTINF:-1 tvg-id="" tvg-name="All American S02 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xlKrst9mb81r4gDZn6pM2GfcBPl.jpg" group-title="Séries | HBO Max",All American S02 E11
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810011.mp4
+#EXTINF:-1 tvg-id="" tvg-name="All American S02 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xlKrst9mb81r4gDZn6pM2GfcBPl.jpg" group-title="Séries | HBO Max",All American S02 E12
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810012.mp4
+#EXTINF:-1 tvg-id="" tvg-name="All American S02 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xlKrst9mb81r4gDZn6pM2GfcBPl.jpg" group-title="Séries | HBO Max",All American S02 E13
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810013.mp4
+#EXTINF:-1 tvg-id="" tvg-name="All American S02 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xlKrst9mb81r4gDZn6pM2GfcBPl.jpg" group-title="Séries | HBO Max",All American S02 E14
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810014.mp4
+#EXTINF:-1 tvg-id="" tvg-name="All American S02 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xlKrst9mb81r4gDZn6pM2GfcBPl.jpg" group-title="Séries | HBO Max",All American S02 E15
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810015.mp4
+#EXTINF:-1 tvg-id="" tvg-name="All American S02 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xlKrst9mb81r4gDZn6pM2GfcBPl.jpg" group-title="Séries | HBO Max",All American S02 E16
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810016.mp4
+#EXTINF:-1 tvg-id="" tvg-name="All American S03 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xlKrst9mb81r4gDZn6pM2GfcBPl.jpg" group-title="Séries | HBO Max",All American S03 E01
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810017.mp4
+#EXTINF:-1 tvg-id="" tvg-name="All American S03 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xlKrst9mb81r4gDZn6pM2GfcBPl.jpg" group-title="Séries | HBO Max",All American S03 E02
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810018.mp4
+#EXTINF:-1 tvg-id="" tvg-name="All American S03 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xlKrst9mb81r4gDZn6pM2GfcBPl.jpg" group-title="Séries | HBO Max",All American S03 E03
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810019.mp4
+#EXTINF:-1 tvg-id="" tvg-name="All American S03 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xlKrst9mb81r4gDZn6pM2GfcBPl.jpg" group-title="Séries | HBO Max",All American S03 E04
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810020.mp4
+#EXTINF:-1 tvg-id="" tvg-name="All American S03 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xlKrst9mb81r4gDZn6pM2GfcBPl.jpg" group-title="Séries | HBO Max",All American S03 E05
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810021.mp4
+#EXTINF:-1 tvg-id="" tvg-name="All American S03 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xlKrst9mb81r4gDZn6pM2GfcBPl.jpg" group-title="Séries | HBO Max",All American S03 E06
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810022.mp4
+#EXTINF:-1 tvg-id="" tvg-name="All American S03 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xlKrst9mb81r4gDZn6pM2GfcBPl.jpg" group-title="Séries | HBO Max",All American S03 E07
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810023.mp4
+#EXTINF:-1 tvg-id="" tvg-name="All American S03 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xlKrst9mb81r4gDZn6pM2GfcBPl.jpg" group-title="Séries | HBO Max",All American S03 E08
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810024.mp4
+#EXTINF:-1 tvg-id="" tvg-name="All American S03 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xlKrst9mb81r4gDZn6pM2GfcBPl.jpg" group-title="Séries | HBO Max",All American S03 E09
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810025.mp4
+#EXTINF:-1 tvg-id="" tvg-name="All American S03 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xlKrst9mb81r4gDZn6pM2GfcBPl.jpg" group-title="Séries | HBO Max",All American S03 E10
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810026.mp4
+#EXTINF:-1 tvg-id="" tvg-name="All American S03 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xlKrst9mb81r4gDZn6pM2GfcBPl.jpg" group-title="Séries | HBO Max",All American S03 E11
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810027.mp4
+#EXTINF:-1 tvg-id="" tvg-name="All American S03 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xlKrst9mb81r4gDZn6pM2GfcBPl.jpg" group-title="Séries | HBO Max",All American S03 E12
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810028.mp4
+#EXTINF:-1 tvg-id="" tvg-name="All American S03 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xlKrst9mb81r4gDZn6pM2GfcBPl.jpg" group-title="Séries | HBO Max",All American S03 E13
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810029.mp4
+#EXTINF:-1 tvg-id="" tvg-name="All American S03 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xlKrst9mb81r4gDZn6pM2GfcBPl.jpg" group-title="Séries | HBO Max",All American S03 E14
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810030.mp4
+#EXTINF:-1 tvg-id="" tvg-name="All American S03 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xlKrst9mb81r4gDZn6pM2GfcBPl.jpg" group-title="Séries | HBO Max",All American S03 E15
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810031.mp4
+#EXTINF:-1 tvg-id="" tvg-name="All American S03 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xlKrst9mb81r4gDZn6pM2GfcBPl.jpg" group-title="Séries | HBO Max",All American S03 E16
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810032.mp4
+#EXTINF:-1 tvg-id="" tvg-name="All American S03 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xlKrst9mb81r4gDZn6pM2GfcBPl.jpg" group-title="Séries | HBO Max",All American S03 E17
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810033.mp4
+#EXTINF:-1 tvg-id="" tvg-name="All American S03 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xlKrst9mb81r4gDZn6pM2GfcBPl.jpg" group-title="Séries | HBO Max",All American S03 E18
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810034.mp4
+#EXTINF:-1 tvg-id="" tvg-name="All American S03 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xlKrst9mb81r4gDZn6pM2GfcBPl.jpg" group-title="Séries | HBO Max",All American S03 E19
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810035.mp4
+#EXTINF:-1 tvg-id="" tvg-name="All American S04 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xlKrst9mb81r4gDZn6pM2GfcBPl.jpg" group-title="Séries | HBO Max",All American S04 E01
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810036.mp4
+#EXTINF:-1 tvg-id="" tvg-name="All American S04 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xlKrst9mb81r4gDZn6pM2GfcBPl.jpg" group-title="Séries | HBO Max",All American S04 E02
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810037.mp4
+#EXTINF:-1 tvg-id="" tvg-name="All American S04 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xlKrst9mb81r4gDZn6pM2GfcBPl.jpg" group-title="Séries | HBO Max",All American S04 E03
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810038.mp4
+#EXTINF:-1 tvg-id="" tvg-name="All American S04 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xlKrst9mb81r4gDZn6pM2GfcBPl.jpg" group-title="Séries | HBO Max",All American S04 E04
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810039.mp4
+#EXTINF:-1 tvg-id="" tvg-name="All American S04 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xlKrst9mb81r4gDZn6pM2GfcBPl.jpg" group-title="Séries | HBO Max",All American S04 E05
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810040.mp4
+#EXTINF:-1 tvg-id="" tvg-name="All American S04 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xlKrst9mb81r4gDZn6pM2GfcBPl.jpg" group-title="Séries | HBO Max",All American S04 E06
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810041.mp4
+#EXTINF:-1 tvg-id="" tvg-name="All American S04 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xlKrst9mb81r4gDZn6pM2GfcBPl.jpg" group-title="Séries | HBO Max",All American S04 E07
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810042.mp4
+#EXTINF:-1 tvg-id="" tvg-name="All American S04 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xlKrst9mb81r4gDZn6pM2GfcBPl.jpg" group-title="Séries | HBO Max",All American S04 E08
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810043.mp4
+#EXTINF:-1 tvg-id="" tvg-name="All American S04 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xlKrst9mb81r4gDZn6pM2GfcBPl.jpg" group-title="Séries | HBO Max",All American S04 E09
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810044.mp4
+#EXTINF:-1 tvg-id="" tvg-name="All American S04 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xlKrst9mb81r4gDZn6pM2GfcBPl.jpg" group-title="Séries | HBO Max",All American S04 E10
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810045.mp4
+#EXTINF:-1 tvg-id="" tvg-name="All American S04 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xlKrst9mb81r4gDZn6pM2GfcBPl.jpg" group-title="Séries | HBO Max",All American S04 E11
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810046.mp4
+#EXTINF:-1 tvg-id="" tvg-name="All American S04 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xlKrst9mb81r4gDZn6pM2GfcBPl.jpg" group-title="Séries | HBO Max",All American S04 E12
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810047.mp4
+#EXTINF:-1 tvg-id="" tvg-name="All American S04 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xlKrst9mb81r4gDZn6pM2GfcBPl.jpg" group-title="Séries | HBO Max",All American S04 E13
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810048.mp4
+#EXTINF:-1 tvg-id="" tvg-name="All American S04 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xlKrst9mb81r4gDZn6pM2GfcBPl.jpg" group-title="Séries | HBO Max",All American S04 E14
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810049.mp4
+#EXTINF:-1 tvg-id="" tvg-name="All American S04 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xlKrst9mb81r4gDZn6pM2GfcBPl.jpg" group-title="Séries | HBO Max",All American S04 E15
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810050.mp4
+#EXTINF:-1 tvg-id="" tvg-name="All American S04 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xlKrst9mb81r4gDZn6pM2GfcBPl.jpg" group-title="Séries | HBO Max",All American S04 E16
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810051.mp4
+#EXTINF:-1 tvg-id="" tvg-name="All American S04 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xlKrst9mb81r4gDZn6pM2GfcBPl.jpg" group-title="Séries | HBO Max",All American S04 E17
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810052.mp4
+#EXTINF:-1 tvg-id="" tvg-name="All American S04 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xlKrst9mb81r4gDZn6pM2GfcBPl.jpg" group-title="Séries | HBO Max",All American S04 E18
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810053.mp4
+#EXTINF:-1 tvg-id="" tvg-name="All American S04 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xlKrst9mb81r4gDZn6pM2GfcBPl.jpg" group-title="Séries | HBO Max",All American S04 E19
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810054.mp4
+#EXTINF:-1 tvg-id="" tvg-name="All American S04 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xlKrst9mb81r4gDZn6pM2GfcBPl.jpg" group-title="Séries | HBO Max",All American S04 E20
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810055.mp4
+
+#EXTM3U url-tvg="http://grade-de-Séries | Globoplay.xml"
+############## Séries | Globoplay ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeSéries | Globoplay" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="Chuva Negra S01 E01" tvg-logo="http://5ce.co:80/images/mNFZpuZIrQBUp5hTKKvXaJy9Fy_big.jpg" group-title="Séries | Globoplay",Chuva Negra S01 E01
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2940196.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chuva Negra S01 E02" tvg-logo="http://5ce.co:80/images/mNFZpuZIrQBUp5hTKKvXaJy9Fy_big.jpg" group-title="Séries | Globoplay",Chuva Negra S01 E02
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2940197.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chuva Negra S01 E03" tvg-logo="http://5ce.co:80/images/mNFZpuZIrQBUp5hTKKvXaJy9Fy_big.jpg" group-title="Séries | Globoplay",Chuva Negra S01 E03
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2940198.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chuva Negra S01 E04" tvg-logo="http://5ce.co:80/images/mNFZpuZIrQBUp5hTKKvXaJy9Fy_big.jpg" group-title="Séries | Globoplay",Chuva Negra S01 E04
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2940199.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chuva Negra S01 E05" tvg-logo="http://5ce.co:80/images/mNFZpuZIrQBUp5hTKKvXaJy9Fy_big.jpg" group-title="Séries | Globoplay",Chuva Negra S01 E05
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2940200.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chuva Negra S01 E06" tvg-logo="http://5ce.co:80/images/mNFZpuZIrQBUp5hTKKvXaJy9Fy_big.jpg" group-title="Séries | Globoplay",Chuva Negra S01 E06
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2940201.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chuva Negra S01 E07" tvg-logo="http://5ce.co:80/images/mNFZpuZIrQBUp5hTKKvXaJy9Fy_big.jpg" group-title="Séries | Globoplay",Chuva Negra S01 E07
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2940202.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chuva Negra S01 E08" tvg-logo="http://5ce.co:80/images/mNFZpuZIrQBUp5hTKKvXaJy9Fy_big.jpg" group-title="Séries | Globoplay",Chuva Negra S01 E08
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2940203.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chuva Negra S01 E09" tvg-logo="http://5ce.co:80/images/mNFZpuZIrQBUp5hTKKvXaJy9Fy_big.jpg" group-title="Séries | Globoplay",Chuva Negra S01 E09
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2940204.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chuva Negra S01 E10" tvg-logo="http://5ce.co:80/images/mNFZpuZIrQBUp5hTKKvXaJy9Fy_big.jpg" group-title="Séries | Globoplay",Chuva Negra S01 E10
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2940205.mp4
+
+#EXTM3U url-tvg="http://grade-de-Séries | Disney Plus.xml"
+############## Séries | Disney Plus ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeSéries | Disney Plus" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="Olhos Atentos S01 E01" tvg-logo="http://5ce.co:80/images/a9oJMnwTBiBXwsuBnCfKvYIWmy4_big.jpg" group-title="Séries | Disney Plus",Olhos Atentos S01 E01
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2940235.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Olhos Atentos S01 E02" tvg-logo="http://5ce.co:80/images/a9oJMnwTBiBXwsuBnCfKvYIWmy4_big.jpg" group-title="Séries | Disney Plus",Olhos Atentos S01 E02
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2940236.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Olhos Atentos S01 E03" tvg-logo="http://5ce.co:80/images/a9oJMnwTBiBXwsuBnCfKvYIWmy4_big.jpg" group-title="Séries | Disney Plus",Olhos Atentos S01 E03
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2940237.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Olhos Atentos S01 E04" tvg-logo="http://5ce.co:80/images/a9oJMnwTBiBXwsuBnCfKvYIWmy4_big.jpg" group-title="Séries | Disney Plus",Olhos Atentos S01 E04
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2940238.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Olhos Atentos S01 E05" tvg-logo="http://5ce.co:80/images/a9oJMnwTBiBXwsuBnCfKvYIWmy4_big.jpg" group-title="Séries | Disney Plus",Olhos Atentos S01 E05
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2940239.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Olhos Atentos S01 E06" tvg-logo="http://5ce.co:80/images/a9oJMnwTBiBXwsuBnCfKvYIWmy4_big.jpg" group-title="Séries | Disney Plus",Olhos Atentos S01 E06
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2940240.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Olhos Atentos S01 E07" tvg-logo="http://5ce.co:80/images/a9oJMnwTBiBXwsuBnCfKvYIWmy4_big.jpg" group-title="Séries | Disney Plus",Olhos Atentos S01 E07
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2940241.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Olhos Atentos S01 E08" tvg-logo="http://5ce.co:80/images/a9oJMnwTBiBXwsuBnCfKvYIWmy4_big.jpg" group-title="Séries | Disney Plus",Olhos Atentos S01 E08
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2940242.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Olhos Atentos S01 E09" tvg-logo="http://5ce.co:80/images/a9oJMnwTBiBXwsuBnCfKvYIWmy4_big.jpg" group-title="Séries | Disney Plus",Olhos Atentos S01 E09
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2940243.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Olhos Atentos S01 E10" tvg-logo="http://5ce.co:80/images/a9oJMnwTBiBXwsuBnCfKvYIWmy4_big.jpg" group-title="Séries | Disney Plus",Olhos Atentos S01 E10
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2940244.mp4
+
+#EXTM3U url-tvg="http://grade-de-Séries | Disney Plus.xml"
+############## Séries | Disney Plus ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeSéries | Disney Plus" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S01 E01" tvg-logo="http://urlon.me/hP5" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S01 E01
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809655.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S01 E02" tvg-logo="http://urlon.me/hPO" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S01 E02
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809656.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S01 E03" tvg-logo="http://urlon.me/hPd" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S01 E03
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809657.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S01 E04" tvg-logo="http://urlon.me/hPh" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S01 E04
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809658.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S01 E05" tvg-logo="http://urlon.me/hP6" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S01 E05
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809659.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S01 E06" tvg-logo="http://urlon.me/hPZ" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S01 E06
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809660.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S01 E07" tvg-logo="http://urlon.me/hPg" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S01 E07
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809661.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S01 E08" tvg-logo="http://urlon.me/ZgYMKh" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S01 E08
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809662.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S01 E09" tvg-logo="http://urlon.me/hUE" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S01 E09
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809663.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S01 E10" tvg-logo="http://urlon.me/hUH" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S01 E10
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809664.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S01 E11" tvg-logo="http://urlon.me/hUL" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S01 E11
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809665.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S01 E12" tvg-logo="http://urlon.me/hUn" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S01 E12
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809666.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S01 E13" tvg-logo="http://urlon.me/hU4" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S01 E13
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809667.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S01 E14" tvg-logo="http://urlon.me/hUb" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S01 E14
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809668.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S01 E15" tvg-logo="http://urlon.me/hUo" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S01 E15
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809669.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S01 E16" tvg-logo="http://urlon.me/hUe" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S01 E16
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809670.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S01 E17" tvg-logo="http://urlon.me/hUr" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S01 E17
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809671.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S01 E18" tvg-logo="http://urlon.me/hUN" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S01 E18
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809672.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S01 E19" tvg-logo="http://urlon.me/ZgYMKh" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S01 E19
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809673.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S01 E20" tvg-logo="http://urlon.me/hUB" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S01 E20
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809674.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S01 E21" tvg-logo="http://urlon.me/hUI" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S01 E21
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809675.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S01 E22" tvg-logo="http://urlon.me/hUC" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S01 E22
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809676.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S02 E01" tvg-logo="http://urlon.me/hUW" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S02 E01
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809677.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S02 E02" tvg-logo="http://urlon.me/hUR" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S02 E02
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809678.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S02 E03" tvg-logo="http://urlon.me/hU2" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S02 E03
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809679.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S02 E04" tvg-logo="http://urlon.me/hPK" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S02 E04
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809680.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S02 E05" tvg-logo="http://urlon.me/hPl" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S02 E05
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809681.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S02 E06" tvg-logo="http://urlon.me/hPj" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S02 E06
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809682.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S02 E07" tvg-logo="http://urlon.me/hPq" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S02 E07
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809683.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S02 E08" tvg-logo="http://urlon.me/hPy" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S02 E08
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809684.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S02 E09" tvg-logo="http://urlon.me/hPQ" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S02 E09
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809685.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S02 E10" tvg-logo="http://urlon.me/hPv" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S02 E10
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809686.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S02 E11" tvg-logo="http://urlon.me/hPF" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S02 E11
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809687.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S02 E12" tvg-logo="http://urlon.me/hP7" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S02 E12
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809688.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S02 E13" tvg-logo="http://urlon.me/hPG" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S02 E13
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809689.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S02 E14" tvg-logo="http://urlon.me/hPM" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S02 E14
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809690.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S02 E15" tvg-logo="http://urlon.me/hPY" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S02 E15
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809691.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S02 E16" tvg-logo="http://urlon.me/hP1" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S02 E16
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809692.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S02 E17" tvg-logo="http://urlon.me/hP3" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S02 E17
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809693.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S02 E18" tvg-logo="http://urlon.me/hPP" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S02 E18
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809694.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S02 E19" tvg-logo="http://urlon.me/hPU" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S02 E19
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809695.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S02 E20" tvg-logo="http://urlon.me/hPm" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S02 E20
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809696.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S02 E21" tvg-logo="http://urlon.me/hPJ" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S02 E21
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809697.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S02 E22" tvg-logo="http://urlon.me/hPT" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S02 E22
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809698.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S03 E01" tvg-logo="http://urlon.me/hPX" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S03 E01
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809699.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S03 E02" tvg-logo="http://urlon.me/hP9" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S03 E02
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809700.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S03 E03" tvg-logo="http://urlon.me/hPC" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S03 E03
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809701.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S03 E04" tvg-logo="http://urlon.me/hPW" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S03 E04
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809702.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S03 E05" tvg-logo="http://urlon.me/hPR" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S03 E05
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809703.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S03 E06" tvg-logo="http://urlon.me/hP2" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S03 E06
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809704.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S03 E07" tvg-logo="http://urlon.me/hPs" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S03 E07
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809705.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S03 E08" tvg-logo="http://urlon.me/hPV" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S03 E08
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809706.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S03 E09" tvg-logo="http://urlon.me/hPD" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S03 E09
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809707.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S03 E10" tvg-logo="http://urlon.me/hPp" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S03 E10
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809708.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S03 E11" tvg-logo="http://urlon.me/hPu" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S03 E11
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809709.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S03 E12" tvg-logo="http://urlon.me/hPc" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S03 E12
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809710.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S03 E13" tvg-logo="http://urlon.me/hPA" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S03 E13
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809711.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S03 E14" tvg-logo="http://urlon.me/hP0" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S03 E14
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809712.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S03 E15" tvg-logo="http://urlon.me/hPx" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S03 E15
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809713.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S03 E16" tvg-logo="http://urlon.me/hPt" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S03 E16
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809714.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S03 E17" tvg-logo="http://urlon.me/hPi" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S03 E17
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809715.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S03 E18" tvg-logo="http://urlon.me/hPw" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S03 E18
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809716.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S03 E19" tvg-logo="http://urlon.me/hPz" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S03 E19
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809717.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S03 E20" tvg-logo="http://urlon.me/hP8" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S03 E20
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809718.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S03 E21" tvg-logo="http://urlon.me/hPf" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S03 E21
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809719.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S03 E22" tvg-logo="http://urlon.me/hPk" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S03 E22
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809720.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S04 E01" tvg-logo="http://urlon.me/h3T" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S04 E01
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809721.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S04 E02" tvg-logo="http://urlon.me/ZgYMKh" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S04 E02
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809722.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S04 E03" tvg-logo="http://urlon.me/h39" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S04 E03
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809723.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S04 E04" tvg-logo="http://urlon.me/h35" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S04 E04
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809724.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S04 E05" tvg-logo="http://urlon.me/h3O" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S04 E05
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809725.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S04 E06" tvg-logo="http://urlon.me/h3d" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S04 E06
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809726.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S04 E07" tvg-logo="http://urlon.me/h3h" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S04 E07
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809727.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S04 E08" tvg-logo="http://urlon.me/h36" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S04 E08
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809728.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S04 E09" tvg-logo="http://urlon.me/h3Z" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S04 E09
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809729.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S04 E10" tvg-logo="http://urlon.me/h3g" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S04 E10
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809730.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S04 E11" tvg-logo="http://urlon.me/hPS" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S04 E11
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809731.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S04 E12" tvg-logo="http://urlon.me/hPE" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S04 E12
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809732.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S04 E13" tvg-logo="http://urlon.me/hPH" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S04 E13
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809733.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S04 E14" tvg-logo="http://urlon.me/hPL" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S04 E14
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809734.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S04 E15" tvg-logo="http://urlon.me/hPn" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S04 E15
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809735.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S04 E16" tvg-logo="http://urlon.me/hP4" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S04 E16
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809736.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S04 E17" tvg-logo="http://urlon.me/hPb" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S04 E17
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809737.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S04 E18" tvg-logo="http://urlon.me/hPo" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S04 E18
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809738.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S04 E19" tvg-logo="http://urlon.me/hPe" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S04 E19
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809739.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S04 E20" tvg-logo="http://urlon.me/hPr" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S04 E20
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809740.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S04 E21" tvg-logo="http://urlon.me/hPN" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S04 E21
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809741.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S04 E22" tvg-logo="http://urlon.me/hPa" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S04 E22
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809742.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S04 E23" tvg-logo="http://urlon.me/ZgYMKh" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S04 E23
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809743.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S05 E01" tvg-logo="http://urlon.me/hPB" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S05 E01
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809744.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S05 E02" tvg-logo="http://urlon.me/hPI" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S05 E02
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809745.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S05 E03" tvg-logo="http://urlon.me/h3f" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S05 E03
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809746.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S05 E04" tvg-logo="http://urlon.me/h3k" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S05 E04
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809747.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S05 E05" tvg-logo="http://urlon.me/h3K" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S05 E05
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809748.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S05 E06" tvg-logo="http://urlon.me/h3l" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S05 E06
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809749.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S05 E07" tvg-logo="http://urlon.me/h3j" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S05 E07
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809750.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S05 E08" tvg-logo="http://urlon.me/h3q" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S05 E08
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809751.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S05 E09" tvg-logo="http://urlon.me/h3y" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S05 E09
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809752.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S05 E10" tvg-logo="http://urlon.me/h3Q" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S05 E10
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809753.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S05 E11" tvg-logo="http://urlon.me/h3v" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S05 E11
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809754.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S05 E12" tvg-logo="http://urlon.me/h3F" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S05 E12
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809755.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S05 E13" tvg-logo="http://urlon.me/h37" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S05 E13
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809756.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S05 E14" tvg-logo="http://urlon.me/h3G" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S05 E14
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809757.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S05 E15" tvg-logo="http://urlon.me/h3M" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S05 E15
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809758.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S05 E16" tvg-logo="http://urlon.me/h3Y" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S05 E16
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809759.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S05 E17" tvg-logo="http://urlon.me/h31" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S05 E17
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809760.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S05 E18" tvg-logo="http://urlon.me/h33" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S05 E18
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809761.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S05 E19" tvg-logo="http://urlon.me/h3P" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S05 E19
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809762.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S05 E20" tvg-logo="http://urlon.me/h3U" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S05 E20
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809763.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S05 E21" tvg-logo="http://urlon.me/h3m" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S05 E21
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809764.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S05 E22" tvg-logo="http://urlon.me/h3J" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S05 E22
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809765.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S06 E01" tvg-logo="http://urlon.me/ZgY1Vj" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S06 E01
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809766.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S06 E02" tvg-logo="http://urlon.me/ZgY1Vl" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S06 E02
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809767.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S06 E03" tvg-logo="http://urlon.me/ZgY1VK" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S06 E03
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809768.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S06 E04" tvg-logo="http://urlon.me/ZgY1Vk" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S06 E04
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809769.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S06 E05" tvg-logo="http://urlon.me/ZgY1Vf" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S06 E05
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809770.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S06 E06" tvg-logo="http://urlon.me/ZgY1V8" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S06 E06
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809771.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S06 E07" tvg-logo="http://urlon.me/ZgY1Vz" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S06 E07
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809772.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S06 E08" tvg-logo="http://urlon.me/ZgY1Vw" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S06 E08
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809773.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S06 E09" tvg-logo="http://urlon.me/ZgY1Vi" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S06 E09
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809774.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S06 E10" tvg-logo="http://urlon.me/ZgY1Vt" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S06 E10
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809775.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S06 E11" tvg-logo="http://urlon.me/ZgY1Vx" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S06 E11
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809776.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S06 E12" tvg-logo="http://urlon.me/ZgY1V0" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S06 E12
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809777.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S06 E13" tvg-logo="http://urlon.me/ZgY1VA" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S06 E13
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809778.mp4
+
+#EXTM3U url-tvg="http://grade-de-Séries | Disney Plus.xml"
+############## Séries | Disney Plus ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeSéries | Disney Plus" group-title="
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S07 E01" tvg-logo="http://5ce.co:80/images/6WwFZ5oOirY3JrfmRXlgnlYfanD_big.jpg" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S07 E01
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809779.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S07 E02" tvg-logo="http://5ce.co:80/images/6WwFZ5oOirY3JrfmRXlgnlYfanD_big.jpg" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S07 E02
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809780.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S07 E03" tvg-logo="http://5ce.co:80/images/6WwFZ5oOirY3JrfmRXlgnlYfanD_big.jpg" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S07 E03
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809781.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S07 E04" tvg-logo="http://5ce.co:80/images/6WwFZ5oOirY3JrfmRXlgnlYfanD_big.jpg" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S07 E04
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809782.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S07 E05" tvg-logo="http://5ce.co:80/images/6WwFZ5oOirY3JrfmRXlgnlYfanD_big.jpg" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S07 E05
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809783.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S07 E06" tvg-logo="http://5ce.co:80/images/6WwFZ5oOirY3JrfmRXlgnlYfanD_big.jpg" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S07 E06
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809784.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S07 E07" tvg-logo="http://5ce.co:80/images/6WwFZ5oOirY3JrfmRXlgnlYfanD_big.jpg" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S07 E07
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809785.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S07 E08" tvg-logo="http://5ce.co:80/images/6WwFZ5oOirY3JrfmRXlgnlYfanD_big.jpg" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S07 E08
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809786.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S07 E09" tvg-logo="http://5ce.co:80/images/6WwFZ5oOirY3JrfmRXlgnlYfanD_big.jpg" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S07 E09
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809787.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S07 E10" tvg-logo="http://5ce.co:80/images/6WwFZ5oOirY3JrfmRXlgnlYfanD_big.jpg" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S07 E10
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809788.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S07 E11" tvg-logo="http://5ce.co:80/images/6WwFZ5oOirY3JrfmRXlgnlYfanD_big.jpg" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S07 E11
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809789.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S07 E12" tvg-logo="http://5ce.co:80/images/6WwFZ5oOirY3JrfmRXlgnlYfanD_big.jpg" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S07 E12
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809790.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S07 E13" tvg-logo="http://5ce.co:80/images/6WwFZ5oOirY3JrfmRXlgnlYfanD_big.jpg" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S07 E13
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809791.mp4
+
+#EXTM3U url-tvg="http://grade-de-Séries | Diversos.xml"
+############## Séries | Diversos ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeSéries | Diversos" group-title="
+
+
+#EXTINF:-1 tvg-id="" tvg-name="A Ultima Onda S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p8QFSk3Bpg2VtrkK0tPQt4Rn6qa.jpg" group-title="Séries | Diversos",A Ultima Onda S01 E01
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809492.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Ultima Onda S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hIN4Xpq1kcEjdlkLkhEcXouKcpL.jpg" group-title="Séries | Diversos",A Ultima Onda S01 E02
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809493.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Ultima Onda S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ePE7ymIGjVkFxb5Mq61ifE806Et.jpg" group-title="Séries | Diversos",A Ultima Onda S01 E03
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809494.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Ultima Onda S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k1ROqG82Mgpd4iAV1tAyuChSgHV.jpg" group-title="Séries | Diversos",A Ultima Onda S01 E04
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809495.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Ultima Onda S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oXr1ENY40TcLiD1tMFuMJBCW2wB.jpg" group-title="Séries | Diversos",A Ultima Onda S01 E05
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809496.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Ultima Onda S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/880Rji8axXn5H0262p6GlQ4jdEe.jpg" group-title="Séries | Diversos",A Ultima Onda S01 E06
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809497.mp4
+
+#EXTM3U url-tvg="http://grade-de-Séries | Diversos.xml"
+############## Séries | Diversos ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeSéries | Diversos" group-title="
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Monkey Typhoon S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3bayoU8Qk7aocQDpyhfqIFCvmas.jpg" group-title="Séries | Diversos",Monkey Typhoon S01 E01
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812119.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Monkey Typhoon S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3bayoU8Qk7aocQDpyhfqIFCvmas.jpg" group-title="Séries | Diversos",Monkey Typhoon S01 E02
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812120.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Monkey Typhoon S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3bayoU8Qk7aocQDpyhfqIFCvmas.jpg" group-title="Séries | Diversos",Monkey Typhoon S01 E03
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812121.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Monkey Typhoon S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3bayoU8Qk7aocQDpyhfqIFCvmas.jpg" group-title="Séries | Diversos",Monkey Typhoon S01 E04
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812122.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Monkey Typhoon S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3bayoU8Qk7aocQDpyhfqIFCvmas.jpg" group-title="Séries | Diversos",Monkey Typhoon S01 E05
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812123.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Monkey Typhoon S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3bayoU8Qk7aocQDpyhfqIFCvmas.jpg" group-title="Séries | Diversos",Monkey Typhoon S01 E06
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812124.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Monkey Typhoon S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3bayoU8Qk7aocQDpyhfqIFCvmas.jpg" group-title="Séries | Diversos",Monkey Typhoon S01 E07
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812125.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Monkey Typhoon S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3bayoU8Qk7aocQDpyhfqIFCvmas.jpg" group-title="Séries | Diversos",Monkey Typhoon S01 E08
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812126.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Monkey Typhoon S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3bayoU8Qk7aocQDpyhfqIFCvmas.jpg" group-title="Séries | Diversos",Monkey Typhoon S01 E09
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812127.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Monkey Typhoon S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3bayoU8Qk7aocQDpyhfqIFCvmas.jpg" group-title="Séries | Diversos",Monkey Typhoon S01 E10
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812128.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Monkey Typhoon S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3bayoU8Qk7aocQDpyhfqIFCvmas.jpg" group-title="Séries | Diversos",Monkey Typhoon S01 E11
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812129.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Monkey Typhoon S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3bayoU8Qk7aocQDpyhfqIFCvmas.jpg" group-title="Séries | Diversos",Monkey Typhoon S01 E12
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812130.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Monkey Typhoon S01 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3bayoU8Qk7aocQDpyhfqIFCvmas.jpg" group-title="Séries | Diversos",Monkey Typhoon S01 E13
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812131.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Monkey Typhoon S01 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3bayoU8Qk7aocQDpyhfqIFCvmas.jpg" group-title="Séries | Diversos",Monkey Typhoon S01 E14
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812132.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Monkey Typhoon S01 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3bayoU8Qk7aocQDpyhfqIFCvmas.jpg" group-title="Séries | Diversos",Monkey Typhoon S01 E15
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812133.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Monkey Typhoon S01 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3bayoU8Qk7aocQDpyhfqIFCvmas.jpg" group-title="Séries | Diversos",Monkey Typhoon S01 E16
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812134.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Monkey Typhoon S01 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3bayoU8Qk7aocQDpyhfqIFCvmas.jpg" group-title="Séries | Diversos",Monkey Typhoon S01 E17
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812135.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Monkey Typhoon S01 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3bayoU8Qk7aocQDpyhfqIFCvmas.jpg" group-title="Séries | Diversos",Monkey Typhoon S01 E18
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812136.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Monkey Typhoon S01 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3bayoU8Qk7aocQDpyhfqIFCvmas.jpg" group-title="Séries | Diversos",Monkey Typhoon S01 E19
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812137.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Monkey Typhoon S01 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3bayoU8Qk7aocQDpyhfqIFCvmas.jpg" group-title="Séries | Diversos",Monkey Typhoon S01 E20
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812138.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Monkey Typhoon S01 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3bayoU8Qk7aocQDpyhfqIFCvmas.jpg" group-title="Séries | Diversos",Monkey Typhoon S01 E21
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812139.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Monkey Typhoon S01 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3bayoU8Qk7aocQDpyhfqIFCvmas.jpg" group-title="Séries | Diversos",Monkey Typhoon S01 E22
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812140.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Monkey Typhoon S01 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3bayoU8Qk7aocQDpyhfqIFCvmas.jpg" group-title="Séries | Diversos",Monkey Typhoon S01 E23
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812141.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Monkey Typhoon S01 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3bayoU8Qk7aocQDpyhfqIFCvmas.jpg" group-title="Séries | Diversos",Monkey Typhoon S01 E24
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812142.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Monkey Typhoon S01 E25" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3bayoU8Qk7aocQDpyhfqIFCvmas.jpg" group-title="Séries | Diversos",Monkey Typhoon S01 E25
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812143.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Monkey Typhoon S01 E26" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3bayoU8Qk7aocQDpyhfqIFCvmas.jpg" group-title="Séries | Diversos",Monkey Typhoon S01 E26
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812144.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Monkey Typhoon S01 E27" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3bayoU8Qk7aocQDpyhfqIFCvmas.jpg" group-title="Séries | Diversos",Monkey Typhoon S01 E27
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812145.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Monkey Typhoon S01 E28" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3bayoU8Qk7aocQDpyhfqIFCvmas.jpg" group-title="Séries | Diversos",Monkey Typhoon S01 E28
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812146.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Monkey Typhoon S01 E29" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3bayoU8Qk7aocQDpyhfqIFCvmas.jpg" group-title="Séries | Diversos",Monkey Typhoon S01 E29
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812147.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Monkey Typhoon S01 E30" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3bayoU8Qk7aocQDpyhfqIFCvmas.jpg" group-title="Séries | Diversos",Monkey Typhoon S01 E30
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812148.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Monkey Typhoon S01 E31" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3bayoU8Qk7aocQDpyhfqIFCvmas.jpg" group-title="Séries | Diversos",Monkey Typhoon S01 E31
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812149.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Monkey Typhoon S01 E32" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3bayoU8Qk7aocQDpyhfqIFCvmas.jpg" group-title="Séries | Diversos",Monkey Typhoon S01 E32
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812150.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Monkey Typhoon S01 E33" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3bayoU8Qk7aocQDpyhfqIFCvmas.jpg" group-title="Séries | Diversos",Monkey Typhoon S01 E33
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812151.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Monkey Typhoon S01 E34" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3bayoU8Qk7aocQDpyhfqIFCvmas.jpg" group-title="Séries | Diversos",Monkey Typhoon S01 E34
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812152.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Monkey Typhoon S01 E35" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3bayoU8Qk7aocQDpyhfqIFCvmas.jpg" group-title="Séries | Diversos",Monkey Typhoon S01 E35
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812153.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Monkey Typhoon S01 E36" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3bayoU8Qk7aocQDpyhfqIFCvmas.jpg" group-title="Séries | Diversos",Monkey Typhoon S01 E36
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812154.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Monkey Typhoon S01 E37" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3bayoU8Qk7aocQDpyhfqIFCvmas.jpg" group-title="Séries | Diversos",Monkey Typhoon S01 E37
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812155.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Monkey Typhoon S01 E38" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3bayoU8Qk7aocQDpyhfqIFCvmas.jpg" group-title="Séries | Diversos",Monkey Typhoon S01 E38
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812156.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Monkey Typhoon S01 E39" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3bayoU8Qk7aocQDpyhfqIFCvmas.jpg" group-title="Séries | Diversos",Monkey Typhoon S01 E39
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812157.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Monkey Typhoon S01 E40" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3bayoU8Qk7aocQDpyhfqIFCvmas.jpg" group-title="Séries | Diversos",Monkey Typhoon S01 E40
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812158.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Monkey Typhoon S01 E41" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3bayoU8Qk7aocQDpyhfqIFCvmas.jpg" group-title="Séries | Diversos",Monkey Typhoon S01 E41
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812159.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Monkey Typhoon S01 E42" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3bayoU8Qk7aocQDpyhfqIFCvmas.jpg" group-title="Séries | Diversos",Monkey Typhoon S01 E42
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812160.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Monkey Typhoon S01 E43" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3bayoU8Qk7aocQDpyhfqIFCvmas.jpg" group-title="Séries | Diversos",Monkey Typhoon S01 E43
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812161.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Monkey Typhoon S01 E44" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3bayoU8Qk7aocQDpyhfqIFCvmas.jpg" group-title="Séries | Diversos",Monkey Typhoon S01 E44
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812162.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Monkey Typhoon S01 E45" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3bayoU8Qk7aocQDpyhfqIFCvmas.jpg" group-title="Séries | Diversos",Monkey Typhoon S01 E45
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812163.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Monkey Typhoon S01 E46" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3bayoU8Qk7aocQDpyhfqIFCvmas.jpg" group-title="Séries | Diversos",Monkey Typhoon S01 E46
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812164.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Monkey Typhoon S01 E47" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3bayoU8Qk7aocQDpyhfqIFCvmas.jpg" group-title="Séries | Diversos",Monkey Typhoon S01 E47
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812165.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Monkey Typhoon S01 E48" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3bayoU8Qk7aocQDpyhfqIFCvmas.jpg" group-title="Séries | Diversos",Monkey Typhoon S01 E48
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812166.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Monkey Typhoon S01 E49" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3bayoU8Qk7aocQDpyhfqIFCvmas.jpg" group-title="Séries | Diversos",Monkey Typhoon S01 E49
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812167.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Monkey Typhoon S01 E50" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3bayoU8Qk7aocQDpyhfqIFCvmas.jpg" group-title="Séries | Diversos",Monkey Typhoon S01 E50
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812168.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Monkey Typhoon S01 E51" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3bayoU8Qk7aocQDpyhfqIFCvmas.jpg" group-title="Séries | Diversos",Monkey Typhoon S01 E51
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812169.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Monkey Typhoon S01 E52" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3bayoU8Qk7aocQDpyhfqIFCvmas.jpg" group-title="Séries | Diversos",Monkey Typhoon S01 E52
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812170.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Haikyuu!! S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c3omwMUYXf6GKIFJMUVv7EedmXT.jpg" group-title="Séries | Diversos",Haikyuu!! S01 E01
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811834.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Haikyuu!! S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/13veoxgCDkHWZ7udNunYUoYYmyx.jpg" group-title="Séries | Diversos",Haikyuu!! S01 E02
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811835.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Haikyuu!! S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sHPlqAd1ATdJSmhRLhHCB7oC1bb.jpg" group-title="Séries | Diversos",Haikyuu!! S01 E03
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811836.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Haikyuu!! S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lAQCODHD5uZVzMGke6Gmd0JcFoP.jpg" group-title="Séries | Diversos",Haikyuu!! S01 E04
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811837.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Haikyuu!! S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p4aTNURBB1eDniBuFx1MRxxamqx.jpg" group-title="Séries | Diversos",Haikyuu!! S01 E05
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811838.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Haikyuu!! S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xMNuvl6RpHPDssIcFh2mVCkx9gE.jpg" group-title="Séries | Diversos",Haikyuu!! S01 E06
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811839.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Haikyuu!! S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3eipHCY7IK4Ewx7fBBRC4U6k9rQ.jpg" group-title="Séries | Diversos",Haikyuu!! S01 E07
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811840.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Haikyuu!! S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tHkFN0tsKbj35q3N1G1rBhHCojz.jpg" group-title="Séries | Diversos",Haikyuu!! S01 E08
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811841.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Haikyuu!! S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iJF7vRs68rEI90JO4ydj9erPNWR.jpg" group-title="Séries | Diversos",Haikyuu!! S01 E09
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811842.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Haikyuu!! S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wMYjYRzlI9OL771EcjNUvlpTaom.jpg" group-title="Séries | Diversos",Haikyuu!! S01 E10
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811843.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Haikyuu!! S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8JMjXKsS0q6dr1lH5hntXX37E5f.jpg" group-title="Séries | Diversos",Haikyuu!! S01 E11
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811844.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Haikyuu!! S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pHLwqsSvtNDClPdkF00K0qdxeJ1.jpg" group-title="Séries | Diversos",Haikyuu!! S01 E12
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811845.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Haikyuu!! S01 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8aMMGbSjQUllusjrrylmp8BQstB.jpg" group-title="Séries | Diversos",Haikyuu!! S01 E13
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811846.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Haikyuu!! S01 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bUtd0n6oOxlRT2pVRUXcclI5nc5.jpg" group-title="Séries | Diversos",Haikyuu!! S01 E14
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811847.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Haikyuu!! S01 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7zK3InK5novylPrnDMrWeNIVZ5R.jpg" group-title="Séries | Diversos",Haikyuu!! S01 E15
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811848.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Haikyuu!! S01 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5wPBUC5SfOAhuUmbLvDRJkJQEUm.jpg" group-title="Séries | Diversos",Haikyuu!! S01 E16
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811849.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Haikyuu!! S01 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xgnRGtlDtnSzCWtnkeIcnsoYI4C.jpg" group-title="Séries | Diversos",Haikyuu!! S01 E17
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811850.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Haikyuu!! S01 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qvXdmW4l7vCUtcGfg7eTONN1LYA.jpg" group-title="Séries | Diversos",Haikyuu!! S01 E18
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811851.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Haikyuu!! S01 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gWLznyPut2F5M1LNCPClzRW8OWN.jpg" group-title="Séries | Diversos",Haikyuu!! S01 E19
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811852.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Haikyuu!! S01 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/srSV43c6TejmvuJriWxnBFRmGeA.jpg" group-title="Séries | Diversos",Haikyuu!! S01 E20
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811853.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Haikyuu!! S01 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gMUXejexNSfzzjZS4SArj4MoxLb.jpg" group-title="Séries | Diversos",Haikyuu!! S01 E21
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811854.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Haikyuu!! S01 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a1c8B6tOFLcAxjCHf98dQAApZFp.jpg" group-title="Séries | Diversos",Haikyuu!! S01 E22
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811855.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Haikyuu!! S01 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dKBddR63bTD8C3EXtG9nGQL4BJf.jpg" group-title="Séries | Diversos",Haikyuu!! S01 E23
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811856.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Haikyuu!! S01 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yjl7D8tbhp39X8hLUKcbYPxE2DW.jpg" group-title="Séries | Diversos",Haikyuu!! S01 E24
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811857.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Haikyuu!! S01 E25" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eUzfwBrJU7pwdF8rpdGEOu6fT54.jpg" group-title="Séries | Diversos",Haikyuu!! S01 E25
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811858.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Haikyuu!! S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kEVvQvjb3mhESngZ7hPGFY9WTVn.jpg" group-title="Séries | Diversos",Haikyuu!! S02 E01
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811859.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Haikyuu!! S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gAoOftCQ3bhMzdsnZXIWaP94rHg.jpg" group-title="Séries | Diversos",Haikyuu!! S02 E02
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811860.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Haikyuu!! S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/67ry0UY5cZFjUrwrHLcMYvMLSW0.jpg" group-title="Séries | Diversos",Haikyuu!! S02 E03
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811861.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Haikyuu!! S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mThlgISEs3VmXajHp2YmcJjpXAZ.jpg" group-title="Séries | Diversos",Haikyuu!! S02 E04
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811862.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Haikyuu!! S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yvCEcMfmXcL3k7NOGGIiVgTdh1O.jpg" group-title="Séries | Diversos",Haikyuu!! S02 E05
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811863.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Haikyuu!! S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/40aXYh5oAL1wJ2bJxSQJzhJAMHG.jpg" group-title="Séries | Diversos",Haikyuu!! S02 E06
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811864.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Haikyuu!! S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gDcvcRAqreTuH7vgfC42VBGrx6y.jpg" group-title="Séries | Diversos",Haikyuu!! S02 E07
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811865.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Haikyuu!! S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wIR8o20mk8U5Lr3sKzBuDtjGO0C.jpg" group-title="Séries | Diversos",Haikyuu!! S02 E08
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811866.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Haikyuu!! S02 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mAiqEX487M3iwhsACtTQuQ7ymOo.jpg" group-title="Séries | Diversos",Haikyuu!! S02 E09
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811867.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Haikyuu!! S02 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sobaESSCtYErAxWDswcDyPswCY6.jpg" group-title="Séries | Diversos",Haikyuu!! S02 E10
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811868.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Haikyuu!! S02 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xxplyVnacmWXDYPwqt2s4tIXQzC.jpg" group-title="Séries | Diversos",Haikyuu!! S02 E11
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811869.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Haikyuu!! S02 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Ru50zI6v8UgjgghtoiHkMmd6MZ.jpg" group-title="Séries | Diversos",Haikyuu!! S02 E12
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811870.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Haikyuu!! S02 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pBtPbd3oHM3oT94HkraEO7W97Xa.jpg" group-title="Séries | Diversos",Haikyuu!! S02 E13
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811871.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Haikyuu!! S02 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rmOmKewUSfZVGYsMtHbvGvMlELs.jpg" group-title="Séries | Diversos",Haikyuu!! S02 E14
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811872.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Haikyuu!! S02 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j59yQ47PCjNSiPRZGca6kaYeKIM.jpg" group-title="Séries | Diversos",Haikyuu!! S02 E15
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811873.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Haikyuu!! S02 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8cEpkDQlpU2RX3tj7bErMCcgxXM.jpg" group-title="Séries | Diversos",Haikyuu!! S02 E16
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811874.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Haikyuu!! S02 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ulCDFwEzuNqFsfuhQYSMNXjKnaX.jpg" group-title="Séries | Diversos",Haikyuu!! S02 E17
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811875.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Haikyuu!! S02 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2FLRyKX0qLipLwghrK0W1a7V6ob.jpg" group-title="Séries | Diversos",Haikyuu!! S02 E18
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811876.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Haikyuu!! S02 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/boTsMwp1QAMNhkr7Q50m2DrkK3g.jpg" group-title="Séries | Diversos",Haikyuu!! S02 E19
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811877.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Haikyuu!! S02 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4jZY3sUwfVxgd3YrXjUaqWVKp8G.jpg" group-title="Séries | Diversos",Haikyuu!! S02 E20
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811878.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Haikyuu!! S02 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sSaU2gFQwX4m6MJB9bgnytU3tos.jpg" group-title="Séries | Diversos",Haikyuu!! S02 E21
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811879.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Haikyuu!! S02 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4wjRzQrVGJwNcx6xMfJMhUs2RKc.jpg" group-title="Séries | Diversos",Haikyuu!! S02 E22
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811880.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Haikyuu!! S02 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qoOmoWnKJ2TdCBkT15SWnCUboYC.jpg" group-title="Séries | Diversos",Haikyuu!! S02 E23
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811881.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Haikyuu!! S02 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i4OcrkgJ4whfcgjlKt41OmC4TEO.jpg" group-title="Séries | Diversos",Haikyuu!! S02 E24
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811882.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Haikyuu!! S02 E25" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cNSNpPoIUd80QTi5naxUQn2KyrY.jpg" group-title="Séries | Diversos",Haikyuu!! S02 E25
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811883.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Haikyuu!! S03 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dh7Be0Bif4W0lXVa8cToHIESTsM.jpg" group-title="Séries | Diversos",Haikyuu!! S03 E01
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811884.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Haikyuu!! S03 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lcF9vQ4DrmkDYTEzNkyfr8XEMjV.jpg" group-title="Séries | Diversos",Haikyuu!! S03 E02
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811885.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Haikyuu!! S03 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v6nWgP4W6Am0q0qSn5C2rMDduXg.jpg" group-title="Séries | Diversos",Haikyuu!! S03 E03
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811886.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Haikyuu!! S03 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2aBwzsKdw5Pec9NOsyQrXQVT29T.jpg" group-title="Séries | Diversos",Haikyuu!! S03 E04
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811887.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Haikyuu!! S03 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3f5ieFdspiS8Pmz8MqeBPnJvIiq.jpg" group-title="Séries | Diversos",Haikyuu!! S03 E05
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811888.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Haikyuu!! S03 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r8WzcmyXDZE7LdOvUnGkHnaoE1Z.jpg" group-title="Séries | Diversos",Haikyuu!! S03 E06
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811889.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Haikyuu!! S03 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iuZGXeoDSVoDSVJGHqAI3qjMpSq.jpg" group-title="Séries | Diversos",Haikyuu!! S03 E07
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811890.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Haikyuu!! S03 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hYHTlgQS4uWZhGS9oCj9y8KfXV.jpg" group-title="Séries | Diversos",Haikyuu!! S03 E08
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811891.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Haikyuu!! S03 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A0mcRV1YEqFyrQyIenJEyDY29Op.jpg" group-title="Séries | Diversos",Haikyuu!! S03 E09
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811892.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Haikyuu!! S03 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fac4rp7kaBoThshC2tdYTrPlOdS.jpg" group-title="Séries | Diversos",Haikyuu!! S03 E10
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811893.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Haikyuu!! S03 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qNKaeunuUdL0smnowVVgShCkWZ4.jpg" group-title="Séries | Diversos",Haikyuu!! S03 E11
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811894.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Haikyuu!! S03 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qNKaeunuUdL0smnowVVgShCkWZ4.jpg" group-title="Séries | Diversos",Haikyuu!! S03 E12
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811895.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Haikyuu!! S04 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6V26rjSjEWkoGnnQYJSO8XBmJVP.jpg" group-title="Séries | Diversos",Haikyuu!! S04 E01
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811896.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Haikyuu!! S04 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iPILutW52r07MBQxIt3WRYJC8v.jpg" group-title="Séries | Diversos",Haikyuu!! S04 E02
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811897.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Haikyuu!! S04 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vOg9vGrOsq1j7pKIp9LjBXonMwR.jpg" group-title="Séries | Diversos",Haikyuu!! S04 E03
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811898.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Haikyuu!! S04 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8aG4beFHoyyrvox6RB61GlPbRrj.jpg" group-title="Séries | Diversos",Haikyuu!! S04 E04
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811899.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Haikyuu!! S04 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bVL2d6tir7wdoulj1zgs8wpju0h.jpg" group-title="Séries | Diversos",Haikyuu!! S04 E05
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811900.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Haikyuu!! S04 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2ETXl8LgIeHtIhLgNZwvPDO7D8E.jpg" group-title="Séries | Diversos",Haikyuu!! S04 E06
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811901.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Haikyuu!! S04 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uWZGSRU43jC9qfG3iSKzJsd6Tfj.jpg" group-title="Séries | Diversos",Haikyuu!! S04 E07
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811902.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Haikyuu!! S04 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pimCQGmDkXkYtXmO1t99wZkZJY1.jpg" group-title="Séries | Diversos",Haikyuu!! S04 E08
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811903.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Haikyuu!! S04 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qOc3o6IYIbbM8shctQ8vbx316w.jpg" group-title="Séries | Diversos",Haikyuu!! S04 E09
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811904.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Haikyuu!! S04 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sclKuC8uAnT7ee0T7kIcgMijbjs.jpg" group-title="Séries | Diversos",Haikyuu!! S04 E10
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811905.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Haikyuu!! S04 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cvGEZhQCyIIALcLyHE2MLNHzU7o.jpg" group-title="Séries | Diversos",Haikyuu!! S04 E11
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811906.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Haikyuu!! S04 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x5jkiG3TZtRwNLjgTWUgV0kimQK.jpg" group-title="Séries | Diversos",Haikyuu!! S04 E12
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811907.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Haikyuu!! S04 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hJGtAXAGKfwRn4DTHemYyqTzFaS.jpg" group-title="Séries | Diversos",Haikyuu!! S04 E13
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811908.mp4
+
+#EXTM3U url-tvg="http://grade-de-Séries | Diversos.xml"
+############## Séries | Diversos ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeSéries | Diversos" group-title="
+
+
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S01 E01
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809506.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S01 E02
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809507.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S01 E03
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809508.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S01 E04
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809509.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S01 E05
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809510.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S01 E06
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809511.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S01 E07
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809512.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S01 E08
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809513.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S01 E09
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809514.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S01 E10
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809515.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S01 E11
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809516.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S01 E12
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809517.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S01 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S01 E13
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809518.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S01 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S01 E14
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809519.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S01 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S01 E15
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809520.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S01 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S01 E16
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809521.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S01 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S01 E17
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809522.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S01 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S01 E18
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809523.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S01 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S01 E19
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809524.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S01 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S01 E20
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809525.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S01 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S01 E21
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809526.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S01 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S01 E22
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809527.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S01 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S01 E23
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809528.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S01 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S01 E24
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809529.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S01 E25" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S01 E25
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809530.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S01 E26" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S01 E26
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809531.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S01 E27" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S01 E27
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809532.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S01 E28" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S01 E28
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809533.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S01 E29" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S01 E29
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809534.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S01 E30" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S01 E30
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809535.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S01 E31" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S01 E31
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809536.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S01 E32" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S01 E32
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809537.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S01 E33" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S01 E33
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809538.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S01 E34" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S01 E34
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809539.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S01 E35" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S01 E35
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809540.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S01 E36" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S01 E36
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809541.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S01 E37" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S01 E37
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809542.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S01 E38" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S01 E38
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809543.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S01 E39" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S01 E39
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809544.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S01 E40" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S01 E40
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809545.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S01 E41" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S01 E41
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809546.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S01 E42" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S01 E42
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809547.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S01 E43" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S01 E43
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809548.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S01 E44" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S01 E44
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809549.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S01 E45" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S01 E45
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809550.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S01 E46" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S01 E46
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809551.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S01 E47" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S01 E47
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809552.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S01 E48" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S01 E48
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809553.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S02 E01
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809554.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S02 E02
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809555.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S02 E03
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809556.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S02 E04
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809557.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S02 E05
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809558.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S02 E06
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809559.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S02 E07
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809560.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S02 E08
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809561.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S02 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S02 E09
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809562.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S02 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S02 E10
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809563.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S02 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S02 E11
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809564.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S02 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S02 E12
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809565.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S02 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S02 E13
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809566.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S02 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S02 E14
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809567.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S02 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S02 E15
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809568.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S02 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S02 E16
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809569.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S02 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S02 E17
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809570.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S02 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S02 E18
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809571.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S02 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S02 E19
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809572.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S02 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S02 E20
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809573.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S03 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S03 E01
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809574.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S03 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S03 E02
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809575.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S03 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S03 E03
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809576.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S03 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S03 E04
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809577.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S03 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S03 E05
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809578.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S03 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S03 E06
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809579.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S03 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S03 E07
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809580.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S03 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S03 E08
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809581.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S03 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S03 E09
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809582.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S03 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S03 E10
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809583.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S03 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S03 E11
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809584.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S03 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S03 E12
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809585.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S03 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S03 E13
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809586.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S03 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S03 E14
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809587.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S03 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S03 E15
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809588.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S04 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S04 E01
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809589.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S04 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S04 E02
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809590.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S04 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S04 E03
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809591.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S04 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S04 E04
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809592.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S04 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S04 E05
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809593.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S04 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S04 E06
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809594.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S04 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S04 E07
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809595.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S04 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S04 E08
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809596.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S04 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S04 E09
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809597.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S04 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S04 E10
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809598.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S04 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S04 E11
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809599.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S04 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S04 E12
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809600.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S04 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S04 E13
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809601.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S04 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S04 E14
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809602.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S04 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S04 E15
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809603.mp4
+
+#EXTM3U url-tvg="http://grade-de-Séries | Diversos.xml"
+############## Séries | Diversos ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeSéries | Diversos" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="A Zona S01 E01" tvg-logo="http://urlon.me/ZgYYK1" group-title="Séries | Diversos",A Zona S01 E01
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809604.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Zona S01 E02" tvg-logo="http://urlon.me/ZgYYKY" group-title="Séries | Diversos",A Zona S01 E02
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809605.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Zona S01 E03" tvg-logo="http://urlon.me/ZgYYKM" group-title="Séries | Diversos",A Zona S01 E03
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809606.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Zona S01 E04" tvg-logo="http://urlon.me/ZgYYKG" group-title="Séries | Diversos",A Zona S01 E04
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809607.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Zona S01 E05" tvg-logo="http://urlon.me/ZgYYK7" group-title="Séries | Diversos",A Zona S01 E05
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809608.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Zona S01 E06" tvg-logo="http://urlon.me/ZgYYKF" group-title="Séries | Diversos",A Zona S01 E06
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809609.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Zona S01 E07" tvg-logo="http://urlon.me/ZgYYKv" group-title="Séries | Diversos",A Zona S01 E07
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809610.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Zona S01 E08" tvg-logo="http://urlon.me/ZgYYKQ" group-title="Séries | Diversos",A Zona S01 E08
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809611.mp4
+
+
+
+#EXTM3U url-tvg=" http://grade-de-Camera.xml "
+ ############## Camera ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeCamera " group-title="
+
+#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/86YLFOog4GM/maxresdefault.jpg" group-title="Camera",Nasa Live Stream - Earth From Space 
+https://www.youtube.com/live/86YLFOog4GM?feature=share
+#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/-HxJYZI9AMk/maxresdefault.jpg" group-title="Camera",ol Donyo Lodge Wildlife Live Stream
+https://www.youtube.com/live/-HxJYZI9AMk?feature=share
+#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/4qyZLflp-sI/maxresdefault.jpg" group-title="Camera",Times Square: 1560 Broadway View Live
+https://www.youtube.com/live/4qyZLflp-sI?feature=share
+#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/gHIkx8zEpO0/maxresdefault.jpg" group-title="Camera",Porto ao Vivo - Entrada no Canal do Porto de Santos
+https://www.youtube.com/live/gHIkx8zEpO0?feature=share
+#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/o14pAQ0FNt4/maxresdefault_live.jpg" group-title="Camera",Pista 5R del Aeropuerto de la CDMX | Skyline Airport View Coffee
+https://www.youtube.com/live/o14pAQ0FNt4?feature=share
+#EXTINF:1 tvg-logo="hthttps://i.ytimg.com/vi/rmf5_NiuTic/maxresdefault_live.jpg" group-title="Camera",Pista 5L del Aeropuerto de la Ciudad de México | Desde Skyline Airport View Coffee
+https://www.youtube.com/live/rmf5_NiuTic?feature=share
+#EXTINF:1 tvg-logo="https://www.beachlivecam.com/wp-content/uploads/2022/07/midway-international-airport.jpg" group-title="Camera",Midway International Airport, Chicago, IL | StreamTime LIVE
+https://www.youtube.com/live/S26YOMAD290?feature=share
+#EXTINF:1 tvg-logo="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/3d/7e/6b/photo7jpg.jpg?w=1200&h=-1&s=1" group-title="Camera",Santa Claus Village
+https://www.youtube.com/live/Cp4RRAEgpeU?feature=share
+#EXTINF:1 tvg-logo="https://webcamera24.com/static/image/camera/detail/dam-square/thumbnail/968x545/maxresdefault.webp" group-title="Camera",yipgroup.com | live ultraHD Pan Tilt Zoom camera Dam Amsterdam
+https://www.youtube.com/live/R3YNscjcJOk?feature=share
+#EXTINF:1 tvg-logo="https://veja.abril.com.br/wp-content/uploads/2018/10/brasil-cumbica-guarulhos-20141012004.jpg?quality=70&strip=info&w=1280&h=720&crop=1" group-title="Camera",AEROPORTO INTERNACIONAL DE GUARU
+http://boxtv.uniredes.com.br:80/eduardos/eduardos/263
+#EXTINF:1 tvg-logo="https://www.vounajanela.com/wp-content/uploads/2017/08/aeroporto-de-guarulhos-4-1050x599.jpg" group-title="Camera",AEROPORTO INTERNACIONAL DE GUARU
+http://boxtv.uniredes.com.br:80/eduardos/eduardos/261
+#EXTINF:1 tvg-logo="https://i.picasion.com/pic92/19279d981d491a7cfefe80dec68a2b78.gif" group-title="Camera",Lisboa - Belém
+https://video-auth1.iol.pt/beachcam/belem/playlist.m3u8
+#EXTINF:1 tvg-logo="https://st2.depositphotos.com/27201292/44434/i/450/depositphotos_444341112-stock-photo-an-aerial-shot-of-the.jpg" group-title="Camera",Ofir
+https://video-auth1.iol.pt/beachcam/bcofir/playlist.m3u8
+#EXTINF:1 tvg-logo="https://www.playocean.net/i/portugal/beaches/porto/homem-do-leme/praia-do-homem-do-leme-6.jpg" group-title="Camera",Porto - Homem do Leme
+https://video-auth1.iol.pt/beachcam/bchomemdoleme/playlist.m3u8
+#EXTINF:1 tvg-logo="hhttps://i.ytimg.com/vi/CKsbn1KyNR0/maxresdefault.jpg" group-title="Camera",Praia Canide Norte - Sul
+https://video-auth1.iol.pt/beachcam/bccanidelo/playlist.m3u8
+#EXTINF:1 tvg-logo="https://4.bp.blogspot.com/-M1Il1azjs4E/VvbUDkM_VWI/AAAAAAAArcM/ZKdZx7nzO7ksRrx37wGrmuJ5Hs8rWGgyQ/s1600/Praia%2Bde%2BEsmoriz%2B1.jpg" group-title="Camera",Esmoriz
+https://video-auth1.iol.pt/beachcam/esmoriz/playlist.m3u8
+#EXTINF:1 tvg-logo="http://praias.beachcam.pt/media/6756/th_furadouro_.jpg" group-title="Camera",Furadouro
+https://video-auth1.iol.pt/beachcam/furadouro/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cdn.visitportugal.com/sites/default/files/styles/encontre_detalhe_poi_destaque/public/mediateca/N4.PRA1205D.jpg?itok=tScQQeYj" group-title="Camera",Praia da Torreira
+https://video-auth1.iol.pt/beachcam/torreira/playlist.m3u8
+#EXTINF:1 tvg-logo="https://img.ibxk.com.br/2014/06/10/10121324612294.gif" group-title="Camera",Costa Nova
+https://video-auth1.iol.pt/beachcam/costanova/playlist.m3u8
+#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/uXWIkzVn-XY/maxresdefault.jpg" group-title="Camera",Praia da Tocha
+https://video-auth1.iol.pt/beachcam/tocha/playlist.m3u8
+#EXTINF:1 tvg-logo="https://t3.ftcdn.net/jpg/05/20/86/68/360_F_520866848_rNYUPhBntmRiDiN3hFGrfV0MINMWQj1t.jpg" group-title="Camera",Murtinheira
+https://video-auth1.iol.pt/beachcam/bcmurtinheira/playlist.m3u8
+#EXTINF:1 tvg-logo="https://gooutside.com.br/wp-content/uploads/sites/3/2021/05/osso-de-baleia-encontrado-em-sp-696x522.jpg" group-title="Camera",Praia Osso da Baleia
+https://video-auth1.iol.pt/beachcam/ossodabaleia/playlist.m3u8
+#EXTINF:1 tvg-logo="https://fotografiasaereas.com.br/wp-content/uploads/goiania-0013-fotos-aereas-estadio-Serra-dourada-parque-buritis-lago-rosas.jpg" group-title="Camera",Goiânia - Panorâmica
+https://5a7d54e35f9d2.streamlock.net/flamboyant/flamboyant.stream/chunklist_w2025553815.m3u8
+#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu8BgvfOZOA9DJmbWEoZXNmtjyw6dqn0z10Udke2r9tNYftQP3B_Kn68iTEqg1lJ39uJs&usqp=CAU" group-title="Camera",Brasília Asa Sul
+https://5a7d54e35f9d2.streamlock.net/trechorodoviario/trechorodoviario.stream/chunklist.m3u8
+#EXTINF:1 tvg-logo="https://climaonline.com.br/public/fotos/pr/cascavel/foto-antiga-de-cascavel-22.webp" group-title="Camera",Cascavel Panorâmica
+https://5b33b873179a2.streamlock.net:1443/cameradiscolandia/cameradiscolandia.stream/chunklist.m3u8
+
+#EXTM3U url-tvg=" http://grade-de-Documentarios.xml "
+############## Documentarios ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeDocumentarios" group-title="
+
+#EXTINF:1 tvg-logo="https://media.tenor.com/gYPHzOq8X2sAAAAC/trapalhoes-mussum.gif" group-title="Documentarios",mussum-cacildis
+https://play.prod.gcp.vix.services/mussum-cacildis_pt/mussum-cacildis_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://media.tenor.com/uOzxJjOP_UQAAAAC/mamonas-assassinas.gif" group-title="Documentarios",mamonas-pra-sempre
+https://play.prod.gcp.vix.services/mamonas-pra-sempre_pt/mamonas-pra-sempre_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/cristiano-ronaldo_en/cristiano-ronaldo_en_200x300.jpg" group-title="Documentarios",Cristiano Ronaldo: O mundo a seus pés
+https://play.prod.gcp.vix.services/cristiano-ronaldo_en/cristiano-ronaldo_en_1-1/play_hls_1500.m3u8
+#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/isto-pele_pt/isto-pele_pt_200x300.jpg" group-title="Documentarios",Isto É Pelé
+https://play.prod.gcp.vix.services/isto-pele_pt/isto-pele_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/pele-origem_pt/pele-origem_pt_200x300.jpg" group-title="Documentarios",Pelé: A Origem
+https://play.prod.gcp.vix.services/pele-origem_pt/pele-origem_pt_1-1/hls_2500.m3u8
+#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/garrincha-povo_pt/garrincha-povo_pt_200x300.jpg" group-title="Documentarios",Garrincha, A Alegria Do Povo
+https://play.prod.gcp.vix.services/garrincha-povo_pt/garrincha-povo_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/aventura-zico_pt/aventura-zico_pt_200x300.jpg" group-title="Documentarios",Uma Aventura Do Zico
+https://play.prod.gcp.vix.services/aventura-zico_pt/aventura-zico_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/computador-morro_pt/computador-morro_pt_200x300.jpg" group-title="Documentarios",Quando o Computador Sobe o Morro
+https://play.prod.gcp.vix.services/computador-morro_pt/computador-morro_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://en.kidsmusic.info/photo/sandy-junior/voce-e-d/sandy-junior-voce-e-d-cover.jpg?size=768x768" group-title="Documentarios",A GENTE SE GOSTA DEMAIS - SANDY E JUNIOR
+https://stmv1.painelvideo.top/gostademaistv/gostademaistv/playlist.m3u8
